@@ -16,7 +16,7 @@ To run the code, clone this repo and enter the following command in the terminal
 ➜  Generate-Noun-Banks git:(main) ✗ python preprocess/pre_process.py
 ```
 
-This will generate a new .csv file called "preprocessed_data.csv" in the preprocess directory. This file contains the cleaned data.
+DO STUFF
 
 ## Data Harvesting
 [USA States Surface Area](https://github.com/jakevdp/data-USstates/blob/master/state-areas.csv)<br>
