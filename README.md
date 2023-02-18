@@ -4,16 +4,16 @@
 
 The data preprocessing process consists of three steps:
 
-1. Load the data from the .csv files.
+1. Load Nouns from harvested .csv files.
 2. Clean the data by removing any unnecessary characters, duplicate entries, or violations of *LexiCrush's game logic*.
 3. Load each NounBank as a Pandas Dataframe.
 
 The code for the data preprocessing process is located in the preprocess directory.
 
-To run the code, enter the following command in the terminal:
+To run the code, clone this repo and enter the following command in the terminal:
 
 ```
-python preprocess/pre_process.py
+➜  Generate-Noun-Banks git:(main) ✗ python preprocess/pre_process.py
 ```
 
 This will generate a new .csv file called "preprocessed_data.csv" in the preprocess directory. This file contains the cleaned data.
