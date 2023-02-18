@@ -6,16 +6,15 @@ except ImportError:
     print("Install Modules")
 
 
-def preprocess_animals_csv(filename):
+def preprocess_one_col_csv(filename):
     with open(filename, 'r') as f:
         reader = csv.reader(f, delimiter='\n') #read animals.csv with '\n' as the delimiter
         animal_list = list(reader)
-        
     animal_list = [x[0] for x in animal_list] # make a list of the animals
     lowercase_animal_list = [x.lower() for x in animal_list] # lowercase
     lowercase_animal_list = list(dict.fromkeys(lowercase_animal_list)) # remove duplicates
+    lowercase_animal_list = [x for x in lowercase_animal_list if x != ''] # remove empty strings
     lowercase_animal_list.sort() # sort alphabetically
-
     #convert to pandas dataframe
     df = pd.DataFrame(lowercase_animal_list, columns=['Animal'])
     return df
@@ -39,14 +38,14 @@ def preprocess_elements_csv(filename):
     return df
 
 
-all_animals = preprocess_animals_csv('./nounbanks/ANIMALS.csv')
+all_animals = preprocess_one_col_csv('./nounbanks/ANIMALS.csv')
 usa_states = preprocess_states_csv('./nounbanks/USA_STATES.csv')
 all_countries = preprocess_countries_csv('./nounbanks/COUNTRIES.csv')
 all_elements = preprocess_elements_csv('./nounbanks/ELEMENTS.csv')
-greek_gods = preprocess_animals_csv('./nounbanks/GREEKGODS.csv')
-roman_gods = preprocess_animals_csv('./nounbanks/ROMAN_GODS.csv')
-cosmetic_items = preprocess_animals_csv('./nounbanks/COSMETIC_ITEMS.csv')
-office_supplies = preprocess_animals_csv('./nounbanks/OFFICE_SUPPLIES.csv')
+greek_gods = preprocess_one_col_csv('./nounbanks/GREEKGODS.csv')
+roman_gods = preprocess_one_col_csv('./nounbanks/ROMAN_GODS.csv')
+cosmetic_items = preprocess_one_col_csv('./nounbanks/COSMETIC_ITEMS.csv')
+office_supplies = preprocess_one_col_csv('./nounbanks/OFFICE_SUPPLIES.csv')
 
 
 
