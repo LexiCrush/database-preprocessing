@@ -43,9 +43,10 @@ all_animals = preprocess_animals_csv('./nounbanks/ANIMALS.csv')
 usa_states = preprocess_states_csv('./nounbanks/USA_STATES.csv')
 all_countries = preprocess_countries_csv('./nounbanks/COUNTRIES.csv')
 all_elements = preprocess_elements_csv('./nounbanks/ELEMENTS.csv')
-greek_gods = preprocess_animals_csv('./nounbanks/GREEK_GODS.csv')
+greek_gods = preprocess_animals_csv('./nounbanks/GREEKGODS.csv')
 roman_gods = preprocess_animals_csv('./nounbanks/ROMAN_GODS.csv')
 cosmetic_items = preprocess_animals_csv('./nounbanks/COSMETIC_ITEMS.csv')
+office_supplies = preprocess_animals_csv('./nounbanks/OFFICE_SUPPLIES.csv')
 
 
 
@@ -62,3 +63,5 @@ print("\n\n\n")
 print(roman_gods.head(20))
 print("\n\n\n")
 print(cosmetic_items.head(20))
+print("\n\n\n")
+print(office_supplies.head(20))
