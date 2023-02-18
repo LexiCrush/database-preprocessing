@@ -43,6 +43,7 @@ all_animals = preprocess_animals_csv('./nounbanks/ANIMALS.csv')
 usa_states = preprocess_states_csv('./nounbanks/USA_STATES.csv')
 all_countries = preprocess_countries_csv('./nounbanks/COUNTRIES.csv')
 all_elements = preprocess_elements_csv('./nounbanks/ELEMENTS.csv')
+greek_gods = preprocess_animals_csv('./nounbanks/GREEKGODS.csv')
 
 
 print(usa_states.head(20))
@@ -52,3 +53,5 @@ print("\n\n\n")
 print(all_countries.head(20))
 print("\n\n\n")
 print(all_elements.head(20))
+print("\n\n\n")
+print(greek_gods.head(20))
