@@ -46,6 +46,8 @@ greek_gods = preprocess_one_col_csv('./nounbanks/GREEKGODS.csv')
 roman_gods = preprocess_one_col_csv('./nounbanks/ROMAN_GODS.csv')
 cosmetic_items = preprocess_one_col_csv('./nounbanks/COSMETIC_ITEMS.csv')
 office_supplies = preprocess_one_col_csv('./nounbanks/OFFICE_SUPPLIES.csv')
+disney_movies = preprocess_one_col_csv('./nounbanks/DISNEY_MOVIES.csv')
+
 
 
 
@@ -64,3 +66,5 @@ print("\n\n\n")
 print(cosmetic_items.head(20))
 print("\n\n\n")
 print(office_supplies.head(20))
+print("\n\n\n")
+print(disney_movies.head(20))
