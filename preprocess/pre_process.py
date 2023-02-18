@@ -48,7 +48,7 @@ cosmetic_items = preprocess_one_col_csv('./nounbanks/COSMETIC_ITEMS.csv')
 office_supplies = preprocess_one_col_csv('./nounbanks/OFFICE_SUPPLIES.csv')
 disney_movies = preprocess_one_col_csv('./nounbanks/DISNEY_MOVIES.csv')
 body_parts = preprocess_one_col_csv('./nounbanks/BODY_PARTS.csv')
-
+olympic_sports = preprocess_one_col_csv('./nounbanks/OLYMPIC_SPORTS.csv')
 
 
 print(usa_states.head(20))
@@ -70,3 +70,5 @@ print("\n\n\n")
 print(disney_movies.head(20))
 print("\n\n\n")
 print(body_parts.head(20))
+print("\n\n\n")
+print(olympic_sports.head(20))
