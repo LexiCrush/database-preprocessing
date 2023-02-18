@@ -1,5 +1,13 @@
 # Generate-Noun-Banks
 
+# Setup Env
+
+1. Install Python >= 3.7
+2. Install Pandas with pip: `pip install pandas`
+3. Import Built In 'csv' Module
+
+# usage
+
 ## Data Preprocessing
 
 The data preprocessing process consists of three steps:
