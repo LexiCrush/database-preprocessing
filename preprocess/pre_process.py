@@ -53,6 +53,8 @@ candy = preprocess_one_col_csv('./nounbanks/CANDY.csv')
 dogs = preprocess_one_col_csv('./nounbanks/DOGS.csv')
 mythical_creatures = preprocess_one_col_csv('./nounbanks/MYTHICAL_CREATURES.csv')
 beauty_brands = preprocess_one_col_csv('./nounbanks/BEAUTY_BRANDS.csv')
+nfl = preprocess_one_col_csv('./nounbanks/NFL.csv')
+
 
 
 print(usa_states.head(20))
@@ -84,3 +86,5 @@ print("\n\n\n")
 print(mythical_creatures.head(20))
 print("\n\n\n")
 print(beauty_brands.head(20))
+print("\n\n\n")
+print(nfl.head(20))
