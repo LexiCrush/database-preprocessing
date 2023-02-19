@@ -8,11 +8,9 @@
 
 
 
-## Data Preprocessing
+## Pre-Processing
 
-The data preprocessing process consists of three steps:
-
-1. Load harvested .csv files.
+1. Load harvested .csv files into `./nounbanks/`.
 2. Clean NounBanks (remove unnecessary characters, duplicate entries, or violations of *LexiCrush's game logic*).
 3. Convert NounBanks into Pandas dataframes and interact with contents.
 
