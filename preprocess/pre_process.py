@@ -57,7 +57,7 @@ nfl = preprocess_one_col_csv('./nounbanks/NFL.csv')
 clothes = preprocess_one_col_csv('./nounbanks/CLOTHES.csv')
 empires = preprocess_one_col_csv('./nounbanks/EMPIRES.csv')
 landmarks = preprocess_one_col_csv('./nounbanks/LANDMARKS.csv')
-
+marvel = preprocess_one_col_csv('./nounbanks/MARVEL.csv')
 
 
 print(usa_states.head(20))
@@ -97,3 +97,5 @@ print("\n\n\n")
 print(empires.head(20))
 print("\n\n\n")
 print(landmarks.head(20))
+print("\n\n\n")
+print(marvel.head(20))
