@@ -49,6 +49,7 @@ office_supplies = preprocess_one_col_csv('./nounbanks/OFFICE_SUPPLIES.csv')
 disney_movies = preprocess_one_col_csv('./nounbanks/DISNEY_MOVIES.csv')
 body_parts = preprocess_one_col_csv('./nounbanks/BODY_PARTS.csv')
 college_majors = preprocess_one_col_csv('./nounbanks/COLLEGE_MAJORS.csv')
+candy = preprocess_one_col_csv('./nounbanks/CANDY.csv')
 
 
 
@@ -73,4 +74,5 @@ print("\n\n\n")
 print(body_parts.head(20))
 print("\n\n\n")
 print(college_majors.head(20))
-
+print("\n\n\n")
+print(candy.head(20))
