@@ -51,6 +51,7 @@ body_parts = preprocess_one_col_csv('./nounbanks/BODY_PARTS.csv')
 college_majors = preprocess_one_col_csv('./nounbanks/COLLEGE_MAJORS.csv')
 candy = preprocess_one_col_csv('./nounbanks/CANDY.csv')
 dogs = preprocess_one_col_csv('./nounbanks/DOGS.csv')
+mythical_creatures = preprocess_one_col_csv('./nounbanks/MYTHICAL_CREATURES.csv')
 
 
 
@@ -80,3 +81,5 @@ print("\n\n\n")
 print(candy.head(20))
 print("\n\n\n")
 print(dogs.head(20))
+print("\n\n\n")
+print(mythical_creatures.head(20))
