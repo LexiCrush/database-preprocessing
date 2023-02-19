@@ -55,6 +55,7 @@ mythical_creatures = preprocess_one_col_csv('./nounbanks/MYTHICAL_CREATURES.csv'
 beauty_brands = preprocess_one_col_csv('./nounbanks/BEAUTY_BRANDS.csv')
 nfl = preprocess_one_col_csv('./nounbanks/NFL.csv')
 clothes = preprocess_one_col_csv('./nounbanks/CLOTHES.csv')
+empires = preprocess_one_col_csv('./nounbanks/EMPIRES.csv')
 
 
 
@@ -91,3 +92,5 @@ print("\n\n\n")
 print(nfl.head(20))
 print("\n\n\n")
 print(clothes.head(20))
+print("\n\n\n")
+print(empires.head(20))
