@@ -10,9 +10,16 @@
 
 ## Pre-Processing
 
-1. Load harvested .csv files into `./nounbanks/`.
-2. Clean NounBanks (remove unnecessary characters, duplicate entries, or violations of *LexiCrush's game logic*).
-3. Convert NounBanks into Pandas dataframes and interact with contents.
+1. Load harvested files into `./nounbanks/`.
+2. Clean each nounBank (unnecessary characters, duplicate entries, or violations of *LexiCrush* game logic).
+3. Convert each noun bank into a Pandas dataframe.
+4. Setup up a connection using MySQLdb.
+
+```(python)
+from pandas.io import sql 
+import MySQLdb
+```
+5. 
 
 
 DO STUFF
