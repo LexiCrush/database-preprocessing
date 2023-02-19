@@ -28,4 +28,4 @@ con = MySQLdb.connect()
 [Big List of Animals](https://gist.github.com/atduskgreg/3cf8ef48cb0d29cf151bedad81553a54)<br>
 
 ## Helpful Links
-[SQLalchemy, MySQLdb.connect(), & .to_sql()](https://stackoverflow.com/a/48393139/21242190)
+[SQLalchemy, MySQLdb.connect(), .to_sql()](https://stackoverflow.com/a/48393139/21242190)
