@@ -1,0 +1,251 @@
+Rank,Fast Food Chains
+1,McDonald's
+2,Starbucks
+3,Chick-fil-A
+4,Taco Bell
+5,Wendy's
+6,Dunkin'
+7,Burger King
+8,Subway
+9,Domino's
+10,Chipotle Mexican Grill
+11,Sonic Drive-In
+12,Panera Bread
+13,Pizza Hut
+14,KFC
+15,Popeyes
+16,Panda Express
+17,Dairy Queen
+18,Arby's
+19,Little Caesars
+20,Olive Garden
+21,Applebee's
+22,Jack in the Box
+23,Buffalo Wild Wings
+24,Texas Roadhouse
+25,Papa Johns
+26,Chili's Grill & Bar
+27,Whataburger
+28,IHOP
+29,Outback Steakhouse
+30,Culver's
+31,Denny's
+32,Cracker Barrel
+33,Raising Cane's Chicken Fingers
+34,Red Lobster
+35,Jimmy John's
+36,The Cheesecake Factory
+37,Zaxby's
+38,LongHorn Steakhouse
+39,Jersey Mike's Subs
+40,Wingstop
+41,Five Guys
+42,Hardee's
+43,In-N-Out Burger
+44,Carl's Jr.
+45,Bojangles
+46,Red Robin
+47,Waffle House
+48,Golden Corral
+49,BJ's Restaurant & Brewhouse
+50,Firehouse Subs
+51,El Pollo Loco
+52,Tropical Smoothie Cafe
+53,P.F. Chang's
+54,Del Taco
+55,Dutch Bros. Coffee
+56,Marco's Pizza
+57,Qdoba Mexican Eats
+58,McAlister's Deli
+59,Hooters
+60,Steak 'n Shake
+61,Krispy Kreme
+62,Papa Murphy's Pizza
+63,TGI Fridays
+64,Church's Chicken
+65,Shake Shack
+66,Freddy's Frozen Custard & Steakburgers
+67,First Watch
+68,Bob Evans
+69,Carrabba's Italian Grill
+70,Baskin-Robbins
+71,Moe's Southwest Grill
+72,Cheddar's Scratch Kitchen
+73,Ruth's Chris Steak House
+74,Checkers
+75,White Castle
+76,Smoothie King
+77,Tim Hortons
+78,MOD Pizza
+79,Yard House
+80,The Habit Burger Grill
+81,Auntie Anne's
+82,Captain D's Seafood Kitchen
+83,Noodles & Company
+84,Bonefish Grill
+85,Portillo's
+86,Jack's Family Restaurants
+87,Jason's Deli
+88,Jamba
+89,Perkins Restaurant & Bakery
+90,Charleys Philly Steaks
+91,California Pizza Kitchen
+92,Hungry Howie's Pizza
+93,Miller's Ale House
+94,The Capital Grille
+95,Cooper's Hawk Winery & Restaurants
+96,Dave & Buster's
+97,Round Table Pizza
+98,Potbelly Sandwich Shop
+99,Einstein Bros. Bagels
+100,Pollo Tropical
+101,Logan's Roadhouse
+102,Cold Stone Creamery
+103,Boston Market
+104,Taco John's
+105,Mellow Mushroom
+106,Twin Peaks
+107,Chuy's
+108,Saltgrass Steak House
+109,Jet's Pizza
+110,Fogo de Chao
+111,Maggiano's Little Italy
+112,O'Charley's
+113,Torchy's Tacos
+114,Wienerschnitzel
+115,Nothing Bundt Cakes
+116,Black Bear Diner
+117,Blaze Pizza
+118,Sweetgreen
+119,Fleming's Prime Steakhouse & Wine Bar
+120,Long John Silver's
+121,Schlotzsky's
+122,Rally's
+123,Caribou Coffee
+124,Topgolf
+125,Dickey's Barbecue Pit
+126,Chuck E. Cheese
+127,Krystal Company
+128,Cafe Rio Mexican Grill
+129,Famous Dave's
+130,HoneyBaked Ham Co.
+131,Fazoli's
+132,Ruby Tuesday
+133,Lazy Dog Restaurant & Bar
+134,Ninety Nine Restaurant & Pub
+135,On The Border Mexican Grill & Cantina
+136,Cicis
+137,Texas de Brazil Churrascaria
+138,Benihana
+139,Pizza Ranch
+140,Godfather's Pizza
+141,Braum's Ice Cream & Dairy Stores
+142,Taco Cabana
+143,Scooter's Coffee
+144,Penn Station East Coast Subs
+145,Chicken Salad Chick
+146,Mountain Mike's Pizza
+147,Seasons 52
+148,Walk-On's Sports Bistreaux
+149,A&W All American Food
+150,Smashburger
+151,Golden Chick
+152,Firebirds Wood Fired Grill
+153,Bahama Breeze Island Grille
+154,Corner Bakery
+155,Sarku Japan
+156,Slim Chickens
+157,Farmer Boys
+158,Uncle Julio's
+159,Cinnabon
+160,Village Inn
+161,Pappadeaux Seafood Kitchen
+162,Wetzel's Pretzels
+163,Huddle House
+164,Donatos Pizza
+165,Fuzzy's Taco Shop
+166,Peet's Coffee
+167,True Food Kitchen
+168,Newk's Eatery
+169,Old Chicago Pizza + Taproom
+170,Rubio's
+171,Ocean Prime
+172,Pei Wei
+173,STK
+174,Cava
+175,Jollibee
+176,Pret A Manger
+177,Sbarro
+178,Morton's The Steakhouse
+179,Mastro's Restaurants
+180,Frisch's Big Boy
+181,Lee's Famous Recipe Chicken
+182,Au Bon Pain
+183,Pollo Campero
+184,Zoes Kitchen
+185,Ono Hawaiian BBQ
+186,Smokey Bones
+187,Wayback Burgers
+188,Biggby Coffee
+189,Sonny's BBQ
+190,LaRosa's Pizzeria
+191,54th Street Restaurant & Drafthouse
+192,Paris Baguette
+193,Bill Miller Bar-B-Q
+194,BonChon
+195,L&L Hawaiian Barbecue
+196,Giordano's
+197,Uno Pizzeria & Grill
+198,NoRTH Italia
+199,Costa Vida Fresh Mexican Grill
+200,Buca di Beppo
+201,Bubba's 33
+202,WaBa Grill
+203,BurgerFi
+204,La Madeleine
+205,The Original Pancake House
+206,Cook-Out Restaurant
+207,Tijuana Flats
+208,Del Frisco's Double Eagle Steak House
+209,Great Harvest Bakery Cafe
+210,Lupe Tortilla
+211,Insomnia Cookies
+212,Eddie V's Prime Seafood
+213,Beef 'O' Brady's
+214,Bar Louie
+215,Roosters
+216,Bruegger's Bagels
+217,Taco Bueno
+218,Friendly's
+219,Wings and Rings
+220,Gyu-Kaku
+221,Bubba Gump Shrimp Co.
+222,Shoney's
+223,Which Wich
+224,Sizzler
+225,Another Broken Egg Cafe
+226,Anthony's Coal Fired Pizza
+227,Kung Fu Tea
+228,Hard Rock Cafe
+229,Metro Diner
+230,Duffy's Sports Grill
+231,Taziki's Mediterranean Cafe
+232,Pappasito's Cantina
+233,Andy's Frozen Custard
+234,The Old Spaghetti Factory
+235,Johnny Rockets
+236,Runza
+237,Great American Cookies
+238,The Melting Pot
+239,Legal Sea Foods
+240,Islands Fine Burgers & Drinks
+241,Crumbl Cookies
+242,Nobu
+243,Mendocino Farms
+244,Perry's Steakhouse & Grille
+245,Joe's Crab Shack
+246,Mimi's Cafe
+247,Menchie's Frozen Yogurt
+248,Ledo Pizza
+249,Glory Days Grill
+250,Brio Italian Grille
