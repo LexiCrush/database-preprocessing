@@ -1,1975 +1,1974 @@
-Title,Year,Rating,Votes,Genre
-Game of Thrones,(2011 TV Series),10,"748,557","[u'Adventure', u'Drama', u'Fantasy']"
-Breaking Bad,(2008 TV Series),9.5,"662,459","[u'Crime', u'Drama', u'Thriller']"
-The Walking Dead,(2010 TV Series),8.7,"500,301","[u'Drama', u'Horror']"
-The Big Bang Theory,(2007 TV Series),8.5,"438,226",[u'Comedy']
-Dexter,(2006 TV Series),8.9,"419,031","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-How I Met Your Mother,(2005 TV Series),8.5,"377,971","[u'Comedy', u'Drama', u'Romance']"
-Friends,(1994 TV Series),9,"365,611","[u'Comedy', u'Romance']"
-Sherlock,(2010 TV Series),9.3,"365,419","[u'Crime', u'Drama', u'Mystery']"
-Lost,(2004 TV Series),8.5,"317,981","[u'Adventure', u'Drama', u'Fantasy', u'Mystery', u'Sci-Fi', u'Thriller']"
-Prison Break,(2005 TV Series),8.6,"259,384","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-House M.D.,(2004 TV Series),8.9,"253,142","[u'Drama', u'Mystery']"
-Supernatural,(2005 TV Series),8.7,"232,424","[u'Drama', u'Fantasy', u'Horror', u'Mystery', u'Thriller']"
-True Detective,(2014 TV Series),9.3,"223,407","[u'Crime', u'Drama', u'Mystery']"
-Arrow,(2012 TV Series),8.2,"213,631","[u'Action', u'Adventure', u'Crime', u'Drama', u'Mystery', u'Sci-Fi']"
-The Simpsons,(1989 TV Series),8.9,"210,708","[u'Animation', u'Comedy']"
-House of Cards,(2013 TV Series),9.1,"203,278",[u'Drama']
-Family Guy,(1999 TV Series),8.4,"202,732","[u'Animation', u'Comedy']"
-Modern Family,(2009 TV Series),8.6,"193,819",[u'Comedy']
-South Park,(1997 TV Series),8.8,"193,282","[u'Animation', u'Comedy']"
-True Blood,(2008 TV Series),8,"190,292","[u'Drama', u'Fantasy', u'Mystery', u'Romance', u'Thriller']"
-The Vampire Diaries,(2009 TV Series),8,"186,601","[u'Drama', u'Fantasy', u'Horror', u'Mystery', u'Romance', u'Thriller']"
-Homeland,(2011 TV Series),8.5,"182,903","[u'Drama', u'Mystery', u'Thriller']"
-Suits,(2011 TV Series),8.8,"181,608","[u'Comedy', u'Drama']"
-Heroes,(2006 TV Series),7.7,"181,308","[u'Drama', u'Sci-Fi', u'Thriller']"
-Arrested Development,(2003 TV Series),9.1,"180,399",[u'Comedy']
-Two and a Half Men,(2003 TV Series),7.2,"173,194",[u'Comedy']
-Scrubs,(2001 TV Series),8.5,"163,632","[u'Comedy', u'Drama']"
-The Office,(2005 TV Series),8.8,"161,733",[u'Comedy']
-Firefly,(2002 TV Series),9.2,"156,002","[u'Adventure', u'Drama', u'Sci-Fi']"
-Fringe,(2008 TV Series),8.5,"154,733","[u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-American Horror Story,(2011 TV Series),8.4,"152,715","[u'Drama', u'Horror', u'Thriller']"
-The Sopranos,(1999 TV Series),9.3,"151,341","[u'Crime', u'Drama']"
-The Wire,(2002 TV Series),9.4,"150,527","[u'Crime', u'Drama', u'Thriller']"
-Spartacus: War of the Damned,(2010 TV Series),8.7,"147,077","[u'Action', u'Adventure', u'Biography', u'Drama', u'History']"
-Sons of Anarchy,(2008 TV Series),8.7,"142,103","[u'Crime', u'Drama', u'Thriller']"
-Once Upon a Time,(2011 TV Series),8.1,"139,045","[u'Adventure', u'Fantasy', u'Romance']"
-Seinfeld,(1989 TV Series),9,"138,356",[u'Comedy']
-Grey's Anatomy,(2005 TV Series),7.7,"134,407","[u'Drama', u'Romance']"
-Californication,(2007 TV Series),8.4,"128,697","[u'Comedy', u'Drama']"
-24,(2001 TV Series),8.5,"128,282","[u'Action', u'Drama', u'Mystery', u'Thriller']"
-Orange Is the New Black,(2013 TV Series),8.4,"124,683","[u'Comedy', u'Crime', u'Drama']"
-Doctor Who,(2005 TV Series),8.9,"122,209","[u'Adventure', u'Drama', u'Family', u'Mystery', u'Sci-Fi']"
-Community,(2009 TV Series),8.6,"122,141",[u'Comedy']
-Futurama,(1999 TV Series),8.7,"119,726","[u'Animation', u'Comedy', u'Sci-Fi']"
-Vikings,(2013 TV Series),8.6,"118,757","[u'Action', u'Drama', u'History', u'War']"
-Mad Men,(2007 TV Series),8.7,"117,210",[u'Drama']
-The Mentalist,(2008 TV Series),8.1,"115,613","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Boardwalk Empire,(2010 TV Series),8.7,"115,307","[u'Crime', u'Drama', u'History']"
-New Girl,(2011 TV Series),7.8,"114,369",[u'Comedy']
-Entourage,(2004 TV Series),8.6,"114,150","[u'Comedy', u'Drama']"
-Hannibal,(2013 TV Series),8.6,"113,254","[u'Crime', u'Drama', u'Horror', u'Thriller']"
-It's Always Sunny in Philadelphia,(2005 TV Series),8.8,"110,691",[u'Comedy']
-Glee,(2009 TV Series),6.8,"109,456","[u'Comedy', u'Drama', u'Music', u'Musical']"
-The X-Files,(1993 TV Series),8.8,"106,676","[u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-Battlestar Galactica,(2004 TV Series),8.8,"104,676","[u'Action', u'Adventure', u'Drama', u'Sci-Fi']"
-Castle,(2009 TV Series),8.3,"100,196","[u'Comedy', u'Crime', u'Drama', u'Mystery']"
-That '70s Show,(1998 TV Series),8.1,"99,830",[u'Comedy']
-Avatar: The Last Airbender,(2005 TV Series),9.2,"98,829","[u'Animation', u'Action', u'Adventure', u'Family', u'Fantasy', u'Mystery']"
-Chuck,(2007 TV Series),8.3,"98,206","[u'Action', u'Comedy', u'Drama']"
-Gossip Girl,(2007 TV Series),7.4,"97,611","[u'Drama', u'Romance']"
-Bones,(2005 TV Series),8,"93,849","[u'Comedy', u'Crime', u'Drama', u'Mystery', u'Romance']"
-Person of Interest,(2011 TV Series),8.5,"93,133","[u'Action', u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-Rome,(2005 TV Series),8.9,"92,191","[u'Action', u'Drama', u'History', u'Romance', u'War']"
-Criminal Minds,(2005 TV Series),8.2,"91,606","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Agents of S.H.I.E.L.D.,(2013 TV Series),7.5,"91,167","[u'Action', u'Drama', u'Sci-Fi']"
-Pretty Little Liars,(2010 TV Series),7.9,"90,552","[u'Drama', u'Mystery', u'Thriller']"
-Buffy the Vampire Slayer,(1997 TV Series),8.2,"89,507","[u'Action', u'Drama', u'Fantasy']"
-Downton Abbey,(2010 TV Series),8.8,"89,222","[u'Drama', u'Romance']"
-Revenge,(2011 TV Series),8,"88,397","[u'Drama', u'Mystery', u'Thriller']"
-Fargo,(2014 TV Series),9,"87,925","[u'Crime', u'Drama', u'Thriller']"
-Smallville,(2001 TV Series),7.5,"86,475","[u'Adventure', u'Drama', u'Romance', u'Sci-Fi']"
-Twin Peaks,(1990 TV Series),9,"86,213","[u'Drama', u'Mystery', u'Thriller']"
-Parks and Recreation,(2009 TV Series),8.6,"84,962",[u'Comedy']
-Desperate Housewives,(2004 TV Series),7.4,"84,109","[u'Comedy', u'Drama', u'Mystery', u'Romance']"
-Malcolm in the Middle,(2000 TV Series),8,"82,896",[u'Comedy']
-30 Rock,(2006 TV Series),8.3,"82,369",[u'Comedy']
-White Collar,(2009 TV Series),8.3,"78,798","[u'Comedy', u'Crime', u'Drama', u'Mystery']"
-Weeds,(2005 TV Series),8.1,"78,601","[u'Comedy', u'Crime', u'Drama']"
-Lie to Me,(2009 TV Series),8,"78,285","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Six Feet Under,(2001 TV Series),8.8,"77,174",[u'Drama']
-My Name Is Earl,(2005 TV Series),7.8,"76,180",[u'Comedy']
-The Fresh Prince of Bel-Air,(1990 TV Series),8,"75,975",[u'Comedy']
-Freaks and Geeks,(1999 TV Series),9,"75,505","[u'Comedy', u'Drama']"
-The IT Crowd,(2006 TV Series),8.6,"74,985",[u'Comedy']
-Death Note,(2006 TV Series),9,"72,845","[u'Animation', u'Crime', u'Drama', u'Fantasy', u'Horror', u'Mystery', u'Thriller']"
-Shameless,(2011 TV Series),8.7,"72,042","[u'Comedy', u'Drama']"
-NCIS,(2003 TV Series),8,"71,299","[u'Action', u'Comedy', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-The Flash,(2014 TV Series),8.2,"71,276","[u'Action', u'Adventure', u'Drama', u'Fantasy', u'Sci-Fi']"
-Sex and the City,(1998 TV Series),6.9,"69,620","[u'Comedy', u'Romance']"
-Married with Children,(1987 TV Series),8.1,"69,074",[u'Comedy']
-The Blacklist,(2013 TV Series),8.2,"68,418","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Gotham,(2014 TV Series),8.1,"67,356","[u'Crime', u'Drama', u'Thriller']"
-American Dad!,(2005 TV Series),7.6,"67,123","[u'Animation', u'Comedy']"
-Grimm,(2011 TV Series),7.8,"66,724","[u'Drama', u'Fantasy', u'Horror', u'Mystery']"
-The Newsroom,(2012 TV Series),8.7,"66,060",[u'Drama']
-Under the Dome,(2013 TV Series),7,"65,405","[u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-Revolution,(2012 TV Series),6.7,"65,128","[u'Action', u'Adventure', u'Drama', u'Sci-Fi']"
-Teen Wolf,(2011 TV Series),7.8,"64,802","[u'Comedy', u'Drama', u'Horror', u'Romance', u'Thriller']"
-The Following,(2013 TV Series),7.5,"64,392","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Misfits,(2009 TV Series),8.4,"63,756","[u'Comedy', u'Drama', u'Fantasy', u'Sci-Fi']"
-Terra Nova,(2011 TV Series),6.8,"63,664","[u'Adventure', u'Mystery', u'Sci-Fi']"
-Falling Skies,(2011 TV Series),7.3,"62,934","[u'Action', u'Sci-Fi', u'Thriller']"
-CSI: Crime Scene Investigation,(2000 TV Series),7.8,"61,717","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Archer,(2009 TV Series),8.9,"61,639","[u'Animation', u'Action', u'Comedy']"
-Psych,(2006 TV Series),8.4,"60,423","[u'Comedy', u'Crime', u'Mystery']"
-Leyla and Mecnun,(2011 TV Series),9.2,"60,243","[u'Adventure', u'Comedy', u'Drama', u'Fantasy', u'Mystery', u'Romance']"
-2 Broke Girls,(2011 TV Series),7,"58,613",[u'Comedy']
-The O.C.,(2003 TV Series),7.5,"58,268","[u'Comedy', u'Drama', u'Romance']"
-Top Gear,(2002 TV Series),9,"57,423","[u'Comedy', u'Talk-Show']"
-Better Call Saul,(2015 TV Series),9.2,"57,815","[u'Crime', u'Drama']"
-Elementary,(2012 TV Series),8,"55,984","[u'Crime', u'Drama', u'Mystery']"
-The Killing,(2011 TV Series),8.2,"55,911","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Dragon Ball Z,(1996 TV Series),8.9,"55,784","[u'Animation', u'Action', u'Adventure', u'Fantasy', u'Sci-Fi', u'Thriller']"
-Curb Your Enthusiasm,(1999 TV Series),8.8,"55,734",[u'Comedy']
-Oz,(1997 TV Series),8.9,"55,305","[u'Crime', u'Drama', u'Thriller']"
-The Office,(2001 TV Series),8.7,"54,959","[u'Comedy', u'Drama']"
-Burn Notice,(2007 TV Series),8,"54,436","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Deadwood,(2004 TV Series),8.8,"53,288","[u'Crime', u'Drama', u'History', u'Western']"
-Stargate SG-1,(1997 TV Series),8.5,"53,234","[u'Action', u'Adventure', u'Sci-Fi']"
-Justified,(2010 TV Series),8.7,"53,199","[u'Action', u'Crime', u'Drama', u'Thriller']"
-The King of Queens,(1998 TV Series),7.4,"52,913",[u'Comedy']
-The Legend of Korra,(2012 TV Series),8.7,"52,399","[u'Animation', u'Action', u'Adventure', u'Drama', u'Family', u'Fantasy']"
-Gilmore Girls,(2000 TV Series),8,"52,065","[u'Comedy', u'Drama']"
-Skins,(2007 TV Series),8.2,"52,018",[u'Drama']
-Star Trek: The Next Generation,(1987 TV Series),8.7,"51,752","[u'Action', u'Adventure', u'Mystery', u'Sci-Fi']"
-FlashForward,(2009 TV Series),7.6,"51,517","[u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-Veronica Mars,(2004 TV Series),8.4,"50,981","[u'Crime', u'Drama', u'Mystery']"
-The Originals,(2013 TV Series),8.5,"50,959","[u'Drama', u'Fantasy', u'Horror', u'Mystery']"
-One Tree Hill,(2003 TV Series),7.7,"50,252","[u'Drama', u'Sport']"
-Merlin,(2008 TV Series),7.9,"49,550","[u'Adventure', u'Drama', u'Family', u'Fantasy']"
-Luther,(2010 TV Series),8.6,"49,134","[u'Crime', u'Drama', u'Mystery']"
-Frasier,(1993 TV Series),8,"48,821",[u'Comedy']
-SpongeBob SquarePants,(1999 TV Series),8.1,"48,519","[u'Animation', u'Comedy', u'Family', u'Fantasy']"
-Charmed,(1998 TV Series),7.1,"48,215","[u'Drama', u'Fantasy', u'Mystery']"
-Terminator: The Sarah Connor Chronicles,(2008 TV Series),7.7,"48,086","[u'Action', u'Drama', u'Sci-Fi', u'Thriller']"
-The 100,(2014 TV Series),7.8,"47,995","[u'Drama', u'Sci-Fi']"
-Da Vinci's Demons,(2013 TV Series),8.1,"47,625","[u'Adventure', u'Drama', u'Fantasy', u'History', u'Mystery']"
-The Shield,(2002 TV Series),8.8,"46,550","[u'Crime', u'Drama', u'Thriller']"
-Monk,(2002 TV Series),8,"45,981","[u'Comedy', u'Crime', u'Drama', u'Mystery']"
-Louie,(2010 TV Series),8.7,"45,440","[u'Comedy', u'Drama']"
-Angel,(1999 TV Series),8,"45,285","[u'Action', u'Drama', u'Fantasy', u'Thriller']"
-Fawlty Towers,(1975 TV Series),8.9,"45,011",[u'Comedy']
-Nip/Tuck,(2003 TV Series),7.7,"44,816",[u'Drama']
-Law & Order: Special Victims Unit,(1999 TV Series),8.1,"44,646","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-The Tudors,(2007 TV Series),8.1,"44,295","[u'Drama', u'History', u'Romance', u'War']"
-The Inbetweeners,(2008 TV Series),8.5,"44,196",[u'Comedy']
-Jericho,(2006 TV Series),8,"44,165","[u'Action', u'Drama', u'Mystery', u'Sci-Fi']"
-Everybody Loves Raymond,(1996 TV Series),7.1,"44,031",[u'Comedy']
-Mr. Bean,(1990 TV Series),8.6,"43,740","[u'Comedy', u'Family']"
-Stargate: Atlantis,(2004 TV Series),8.1,"43,069","[u'Action', u'Drama', u'Sci-Fi', u'Adventure']"
-Bates Motel,(2013 TV Series),8.2,"42,922","[u'Drama', u'Mystery', u'Thriller']"
-V,(2009 TV Series),6.9,"42,530","[u'Drama', u'Sci-Fi', u'Thriller']"
-Orphan Black,(2013 TV Series),8.5,"41,771","[u'Action', u'Drama', u'Sci-Fi']"
-Girls,(2012 TV Series),7.4,"41,214","[u'Comedy', u'Drama']"
-Penny Dreadful,(2014 TV Series),8.2,"40,024","[u'Drama', u'Horror']"
-Pushing Daisies,(2007 TV Series),8.5,"39,659","[u'Comedy', u'Drama', u'Fantasy', u'Mystery', u'Romance']"
-CSI: Miami,(2002 TV Series),6.4,"39,473","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Batman: The Animated Series,(1992 TV Series),9,"39,460","[u'Animation', u'Action', u'Adventure', u'Crime', u'Drama', u'Fantasy', u'Mystery', u'Romance', u'Sci-Fi', u'Thriller']"
-Scandal,(2012 TV Series),8,"39,363","[u'Drama', u'Thriller']"
-Sleepy Hollow,(2013 TV Series),7.7,"39,266","[u'Adventure', u'Drama', u'Fantasy', u'Mystery', u'Thriller']"
-The Good Wife,(2009 TV Series),8.3,"39,083","[u'Crime', u'Drama', u'Mystery']"
-Nikita,(2010 TV Series),7.7,"38,985","[u'Action', u'Crime', u'Drama', u'Thriller']"
-Continuum,(2012 TV Series),7.8,"38,910","[u'Action', u'Sci-Fi', u'Thriller']"
-Cowboy Bebop,(1998 TV Series),9,"38,908","[u'Animation', u'Action', u'Adventure', u'Drama', u'Sci-Fi', u'Thriller']"
-Star Trek,(1966 TV Series),8.4,"38,818","[u'Action', u'Adventure', u'Sci-Fi']"
-Hawaii Five-0,(2010 TV Series),7.4,"38,749","[u'Action', u'Crime', u'Drama']"
-Brooklyn Nine-Nine,(2013 TV Series),8.3,"38,640","[u'Comedy', u'Crime']"
-Eastbound & Down,(2009 TV Series),8.3,"38,055","[u'Comedy', u'Drama', u'Sport']"
-Dollhouse,(2009 TV Series),7.8,"36,479","[u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-ER,(1994 TV Series),7.7,"36,162",[u'Drama']
-The West Wing,(1999 TV Series),8.8,"36,133",[u'Drama']
-Banshee,(2013 TV Series),8.4,"35,966","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Touch,(2012 TV Series),7.4,"35,863","[u'Drama', u'Mystery', u'Sci-Fi']"
-Eureka,(2006 TV Series),7.9,"35,859","[u'Comedy', u'Drama', u'Sci-Fi']"
-Flight of the Conchords,(2007 TV Series),8.7,"35,770","[u'Comedy', u'Music']"
-Attack on Titan,(2013 TV Series),9,"35,788","[u'Animation', u'Action', u'Adventure', u'Drama', u'Fantasy', u'Horror']"
-Almost Human,(2013 TV Series),8.1,"35,471","[u'Action', u'Crime', u'Drama', u'Sci-Fi']"
-Friday Night Lights,(2006 TV Series),8.7,"35,241","[u'Drama', u'Sport']"
-Monty Python's Flying Circus,(1969 TV Series),9,"34,661","[u'Comedy', u'Music']"
-Spaced,(1999 TV Series),8.8,"34,644",[u'Comedy']
-The Secret Circle,(2011 TV Series),7.5,"34,604","[u'Drama', u'Fantasy', u'Horror', u'Romance']"
-Adventure Time,(2010 TV Series),8.8,"34,596","[u'Animation', u'Adventure', u'Comedy', u'Fantasy']"
-The Strain,(2014 TV Series),7.7,"34,537","[u'Drama', u'Horror', u'Thriller']"
-Twilight Zone,(1959 TV Series),9,"34,420","[u'Fantasy', u'Horror', u'Mystery', u'Sci-Fi', u'Thriller']"
-MythBusters,(2003 TV Series),8.5,"34,390","[u'Documentary', u'Mystery']"
-SGU Stargate Universe,(2009 TV Series),7.7,"34,339","[u'Drama', u'Sci-Fi']"
-The Borgias,(2011 TV Series),8,"34,332","[u'Crime', u'Drama', u'History']"
-Alias,(2001 TV Series),7.6,"34,195","[u'Action', u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-Full House,(1987 TV Series),6.6,"34,103","[u'Comedy', u'Drama', u'Family']"
-Joey,(2004 TV Series),6,"34,065","[u'Comedy', u'Romance']"
-Extras,(2005 TV Series),8.5,"34,053","[u'Comedy', u'Drama']"
-3rd Rock from the Sun,(1996 TV Series),7.8,"33,607","[u'Comedy', u'Sci-Fi']"
-Warehouse 13,(2009 TV Series),7.6,"33,341","[u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-Alcatraz,(2012 TV Series),7.1,"33,303","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-The 4400,(2004 TV Series),7.4,"33,298","[u'Sci-Fi', u'Drama', u'Mystery', u'Thriller']"
-Cougar Town,(2009 TV Series),7,"33,232",[u'Comedy']
-Ghost Whisperer,(2005 TV Series),6.3,"33,230","[u'Drama', u'Fantasy']"
-Ugly Betty,(2006 TV Series),6.5,"32,991","[u'Comedy', u'Drama']"
-The Americans,(2013 TV Series),8.2,"33,013","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Naruto: Shipp¬ûden,(2007 TV Series),8.5,"32,898","[u'Animation', u'Action', u'Adventure', u'Drama', u'Fantasy']"
-Naruto,(2002 TV Series),7.9,"32,833","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Fantasy', u'Thriller']"
-Star Trek: Voyager,(1995 TV Series),7.7,"32,769","[u'Action', u'Adventure', u'Sci-Fi']"
-Wilfred,(2011 TV Series),7.9,"32,746",[u'Comedy']
-Black Books,(2000 TV Series),8.6,"32,723",[u'Comedy']
-Dead Like Me,(2003 TV Series),8.2,"32,671","[u'Comedy', u'Drama', u'Fantasy']"
-CSI: NY,(2004 TV Series),7,"32,598","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Will & Grace,(1998 TV Series),7.2,"32,582",[u'Comedy']
-King of the Hill,(1997 TV Series),7.2,"32,349","[u'Animation', u'Comedy', u'Drama']"
-90210,(2008 TV Series),6,"32,221","[u'Comedy', u'Drama', u'Romance']"
-Workaholics,(2011 TV Series),8.2,"31,884",[u'Comedy']
-Awkward.,(2011 TV Series),7.8,"31,703","[u'Comedy', u'Drama', u'Romance']"
-Leverage,(2008 TV Series),7.9,"31,452","[u'Action', u'Crime', u'Mystery']"
-Torchwood,(2006 TV Series),7.8,"31,251","[u'Action', u'Drama', u'Sci-Fi', u'Thriller']"
-The League,(2009 TV Series),8.4,"31,075","[u'Comedy', u'Sport']"
-Hell on Wheels,(2011 TV Series),8.3,"30,930","[u'Drama', u'Western']"
-Robot Chicken,(2005 TV Series),7.8,"30,403","[u'Animation', u'Comedy']"
-Numb3rs,(2005 TV Series),6.9,"30,400","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Black Mirror,(2011 TV Series),8.8,"30,371","[u'Drama', u'Sci-Fi', u'Thriller']"
-Coupling,(2000 TV Series),8.7,"30,035",[u'Comedy']
-Fullmetal Alchemist Brotherhood,(2009 TV Series),9.1,"29,595","[u'Animation', u'Action', u'Adventure', u'Drama', u'Sci-Fi']"
-Boston Legal,(2004 TV Series),8.5,"29,569","[u'Comedy', u'Crime', u'Drama', u'Mystery']"
-Cheers,(1982 TV Series),7.8,"29,506","[u'Comedy', u'Drama']"
-Black Sails,(2014 TV Series),8,"29,444","[u'Adventure', u'Drama']"
-Saturday Night Live,(1975 TV Series),8.2,"29,382","[u'Comedy', u'Music']"
-Hart of Dixie,(2011 TV Series),7.8,"29,259","[u'Comedy', u'Drama', u'Romance']"
-Ray Donovan,(2013 TV Series),8.2,"28,974","[u'Crime', u'Drama']"
-Carniv¬àle,(2003 TV Series),8.6,"28,952","[u'Drama', u'Fantasy', u'Mystery', u'Thriller']"
-Boy Meets World,(1993 TV Series),8.1,"28,900","[u'Comedy', u'Drama', u'Family']"
-Blue Mountain State,(2010 TV Series),8.5,"28,369","[u'Comedy', u'Sport']"
-NCIS: Los Angeles,(2009 TV Series),6.8,"28,297","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Xena: Warrior Princess,(1995 TV Series),6.7,"28,120","[u'Action', u'Adventure', u'Comedy', u'Drama', u'Fantasy', u'Romance']"
-Fullmetal Alchemist,(2003 TV Series),8.7,"28,046","[u'Animation', u'Comedy', u'Drama', u'Fantasy', u'Horror', u'Mystery', u'Sci-Fi']"
-Star Trek: Deep Space Nine,(1993 TV Series),7.9,"28,020","[u'Action', u'Adventure', u'Drama', u'Sci-Fi']"
-Raising Hope,(2010 TV Series),8,"27,887","[u'Comedy', u'Family']"
-Peep Show,(2003 TV Series),8.7,"27,882",[u'Comedy']
-Life,(2007 TV Series),8.3,"27,760","[u'Crime', u'Drama', u'Mystery']"
-M*A*S*H,(1972 TV Series),8.5,"27,575","[u'Comedy', u'Drama', u'War']"
-Happy Endings,(2011 TV Series),7.7,"27,421",[u'Comedy']
-One Piece,(1999 TV Series),8.9,"27,380","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Drama', u'Fantasy', u'Romance']"
-Home Improvement,(1991 TV Series),7.2,"27,162","[u'Comedy', u'Family']"
-The Cleveland Show,(2009 TV Series),5.6,"26,852","[u'Animation', u'Comedy']"
-The Middle,(2009 TV Series),7.4,"26,797",[u'Comedy']
-Bleach,(2004 TV Series),7.9,"26,770","[u'Animation', u'Action', u'Adventure', u'Fantasy', u'Thriller']"
-Legend of the Seeker,(2008 TV Series),7.7,"26,706","[u'Action', u'Adventure', u'Drama', u'Fantasy']"
-How to Get Away with Murder,(2014 TV Series),8.3,"26,763","[u'Crime', u'Drama', u'Mystery']"
-Dragon Ball Z,(1989 TV Series),8.9,"26,619","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Drama', u'Fantasy', u'Sci-Fi', u'Thriller']"
-Defiance,(2013 TV Series),7,"26,521","[u'Action', u'Drama', u'Sci-Fi']"
-Chappelle's Show,(2003 TV Series),8.8,"26,297","[u'Comedy', u'Music']"
-Bored to Death,(2009 TV Series),7.9,"25,959","[u'Comedy', u'Crime', u'Mystery']"
-According to Jim,(2001 TV Series),6.4,"25,884",[u'Comedy']
-Bob's Burgers,(2011 TV Series),8.1,"25,890","[u'Animation', u'Comedy']"
-Hannah Montana,(2006 TV Series),4.6,"25,694","[u'Comedy', u'Family', u'Music']"
-Star Trek: Enterprise,(2001 TV Series),7.5,"25,610","[u'Action', u'Adventure', u'Drama', u'Sci-Fi']"
-Broadchurch,(2013 TV Series),8.4,"25,506","[u'Crime', u'Drama', u'Mystery']"
-Dragon Ball,(1986 TV Series),8.7,"25,352","[u'Animation', u'Action', u'Adventure', u'Fantasy', u'Sci-Fi', u'Thriller']"
-Daredevil,(2015 TV Series),9.3,"28,080","[u'Action', u'Crime', u'Sci-Fi']"
-Beauty and the Beast,(2012 TV Series),7.3,"24,914","[u'Drama', u'Romance', u'Thriller']"
-The Nanny,(1993 TV Series),6.8,"24,891",[u'Comedy']
-Everybody Hates Chris,(2005 TV Series),7.3,"24,811",[u'Comedy']
-Haven,(2010 TV Series),7.6,"24,764","[u'Crime', u'Drama', u'Fantasy', u'Horror', u'Mystery', u'Sci-Fi', u'Thriller']"
-Silicon Valley,(2014 TV Series),8.4,"24,795",[u'Comedy']
-Dawson's Creek,(1998 TV Series),6.5,"24,542",[u'Drama']
-Anger Management,(2012 TV Series),6.7,"24,452",[u'Comedy']
-Roseanne,(1988 TV Series),7,"24,379","[u'Comedy', u'Drama']"
-Suburgatory,(2011 TV Series),7.3,"24,367",[u'Comedy']
-Dexter's Laboratory,(1996 TV Series),8,"24,101","[u'Animation', u'Comedy', u'Family', u'Sci-Fi']"
-Forever,(2014 TV Series),8.3,"24,170","[u'Drama', u'Sci-Fi']"
-The Wonder Years,(1988 TV Series),8.4,"24,071","[u'Comedy', u'Drama', u'Romance']"
-Outlander,(2014 TV Series),8.7,"23,997","[u'Drama', u'Romance', u'Sci-Fi']"
-The Fall,(2013 TV Series),8.3,"23,825","[u'Drama', u'Thriller']"
-Rules of Engagement,(2007 TV Series),7.3,"23,748","[u'Comedy', u'Romance']"
-Blackadder Goes Forth,(1989 TV Series),8.9,"23,693","[u'Comedy', u'War']"
-The Daily Show with Jon Stewart,(1996 TV Series),8.9,"23,590","[u'Comedy', u'News', u'Talk-Show']"
-The Tomorrow People,(2013 TV Series),7.3,"23,488","[u'Action', u'Drama', u'Sci-Fi']"
-Whose Line Is It Anyway?,(1998 TV Series),8.7,"23,448","[u'Comedy', u'Game-Show']"
-MacGyver,(1985 TV Series),7.7,"23,431","[u'Action', u'Adventure', u'Crime', u'Drama']"
-Hemlock Grove,(2013 TV Series),7.4,"23,431","[u'Horror', u'Mystery', u'Thriller']"
-Only Fools and Horses....,(1981 TV Series),8.9,"23,357",[u'Comedy']
-Constantine,(2014 TV Series),7.6,"23,169","[u'Fantasy', u'Horror']"
-Farscape,(1999 TV Series),8.4,"23,087","[u'Adventure', u'Sci-Fi']"
-The Colbert Report,(2005 TV Series),8.7,"23,085","[u'Comedy', u'News', u'Talk-Show']"
-Kyle XY,(2006 TV Series),7.6,"22,943","[u'Drama', u'Mystery', u'Sci-Fi']"
-Saved by the Bell,(1989 TV Series),7,"22,787",[u'Comedy']
-Undercover,(2011 TV Series),8.9,"22,691","[u'Action', u'Crime', u'Drama']"
-Dark Angel,(2000 TV Series),7.4,"22,632","[u'Action', u'Drama', u'Mystery', u'Sci-Fi']"
-The Cosby Show,(1984 TV Series),7.5,"22,538","[u'Comedy', u'Family', u'Romance']"
-Law & Order,(1990 TV Series),7.7,"22,419","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-The Event,(2010 TV Series),7,"22,381","[u'Crime', u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-Damages,(2007 TV Series),8.1,"22,365","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Drake & Josh,(2004 TV Series),7.5,"22,323","[u'Comedy', u'Family']"
-Party Down,(2009 TV Series),8.3,"22,107",[u'Comedy']
-The Black Adder,(1983 TV Series),8.3,"22,096","[u'Comedy', u'History']"
-The A-Team,(1983 TV Series),7.6,"22,050","[u'Action', u'Adventure', u'Crime']"
-Dracula,(2013 TV Series),7.4,"21,882","[u'Drama', u'Horror']"
-Las Vegas,(2003 TV Series),7.5,"21,776","[u'Crime', u'Drama']"
-Episodes,(2011 TV Series),7.8,"21,612",[u'Comedy']
-Masters of Sex,(2013 TV Series),8.1,"21,540",[u'Drama']
-"Sabrina, the Teenage Witch",(1996 TV Series),6.5,"21,345","[u'Comedy', u'Family', u'Fantasy']"
-Don't Trust the B---- in Apartment 23,(2012 TV Series),7.2,"21,324",[u'Comedy']
-Rescue Me,(2004 TV Series),8.4,"21,252","[u'Drama', u'Comedy']"
-Dharma & Greg,(1997 TV Series),6.3,"21,243","[u'Comedy', u'Romance']"
-Alphas,(2011 TV Series),7.3,"21,192","[u'Action', u'Drama', u'Sci-Fi', u'Thriller']"
-Life on Mars,(2006 TV Series),8.4,"21,153","[u'Crime', u'Drama', u'Mystery', u'Sci-Fi']"
-Star Wars: The Clone Wars,(2008 TV Series),7.9,"21,031","[u'Animation', u'Action', u'Adventure', u'Drama', u'Fantasy', u'Sci-Fi']"
-Parenthood,(2010 TV Series),8.1,"20,957","[u'Comedy', u'Drama']"
-Black-Adder II,(1986 TV Series),8.8,"20,955","[u'Comedy', u'History']"
-The Leftovers,(2014 TV Series),7.7,"20,803","[u'Drama', u'Fantasy', u'Mystery']"
-Ally McBeal,(1997 TV Series),6.8,"20,736","[u'Comedy', u'Drama', u'Fantasy', u'Music', u'Romance']"
-Father Ted,(1995 TV Series),8.7,"20,723",[u'Comedy']
-"Beverly Hills, 90210",(1990 TV Series),6.2,"20,713","[u'Drama', u'Romance']"
-Neon Genesis Evangelion,(1995 TV Series),8.6,"20,624","[u'Animation', u'Action', u'Drama', u'Sci-Fi', u'Thriller']"
-Greek,(2007 TV Series),7.5,"20,593","[u'Comedy', u'Drama']"
-Peaky Blinders,(2013 TV Series),8.8,"20,614",[u'Drama']
-An Idiot Abroad,(2010 TV Series),8.3,"20,578","[u'Documentary', u'Comedy', u'Reality-TV']"
-Covert Affairs,(2010 TV Series),7.4,"20,434","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-ALF,(1986 TV Series),7.3,"20,416","[u'Comedy', u'Drama', u'Family', u'Sci-Fi']"
-Better Off Ted,(2009 TV Series),8.2,"20,417",[u'Comedy']
-Reign,(2013 TV Series),7.7,"20,420","[u'Drama', u'Fantasy']"
-The Suite Life of Zack and Cody,(2005 TV Series),6.1,"20,419","[u'Comedy', u'Family']"
-Moonlight,(2007 TV Series),7.7,"20,403","[u'Drama', u'Fantasy', u'Horror', u'Thriller']"
-iCarly,(2007 TV Series),6.5,"20,391","[u'Comedy', u'Family']"
-Babylon 5,(1994 TV Series),8.2,"20,325","[u'Action', u'Adventure', u'Drama', u'Sci-Fi']"
-Marco Polo,(2014 TV Series),8.2,"20,297",[u'Adventure']
-Agent Carter,(2015 TV Series),8.3,"20,297","[u'Action', u'Adventure', u'Sci-Fi']"
-Harper's Island,(2009 TV Series),7.5,"20,148","[u'Drama', u'Horror', u'Mystery', u'Thriller']"
-Samurai Jack,(2001 TV Series),8.3,"20,131","[u'Animation', u'Action', u'Adventure', u'Fantasy', u'Sci-Fi', u'Thriller']"
-Doctor Who,(1963 TV Series),8.6,"20,056","[u'Adventure', u'Drama', u'Family', u'Sci-Fi']"
-Johnny Bravo,(1997 TV Series),7.4,"19,916","[u'Animation', u'Comedy']"
-Jersey Shore,(2009 TV Series),3.5,"19,903","[u'Comedy', u'Drama', u'Reality-TV', u'Romance']"
-Black Adder the Third,(1987 TV Series),8.8,"19,830",[u'Comedy']
-Red Dwarf,(1988 TV Series),8.6,"19,791","[u'Comedy', u'Sci-Fi']"
-7th Heaven,(1996 TV Series),5,"19,753","[u'Drama', u'Family']"
-Being Human,(2011 TV Series),7.5,"19,698","[u'Drama', u'Fantasy', u'Horror']"
-Trailer Park Boys,(2001 TV Series),8.6,"19,632","[u'Comedy', u'Crime', u'Drama']"
-The Flintstones,(1960 TV Series),7.6,"19,567","[u'Animation', u'Comedy', u'Family', u'Sci-Fi']"
-Reaper,(2007 TV Series),7.9,"19,524","[u'Adventure', u'Comedy', u'Drama', u'Fantasy', u'Thriller']"
-Justice League,(2001 TV Series),8.6,"19,495","[u'Animation', u'Action', u'Adventure', u'Drama', u'Family', u'Fantasy', u'Mystery', u'Romance', u'Sci-Fi', u'Thriller']"
-Rugrats,(1990 TV Series),7.6,"19,464","[u'Animation', u'Adventure', u'Comedy', u'Family', u'Fantasy']"
-Medium,(2005 TV Series),6.9,"19,452","[u'Crime', u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-Spin City,(1996 TV Series),7.4,"19,449",[u'Comedy']
-Roswell,(1999 TV Series),7.5,"19,433","[u'Drama', u'Mystery', u'Romance', u'Sci-Fi', u'Thriller']"
-Lost Girl,(2010 TV Series),7.8,"19,383","[u'Crime', u'Fantasy']"
-Rizzoli & Isles,(2010 TV Series),7.5,"19,374","[u'Crime', u'Drama', u'Mystery']"
-Dragon Ball,(1986 TV Series),8.8,"19,297","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Fantasy', u'Sci-Fi', u'Thriller']"
-Studio 60 on the Sunset Strip,(2006 TV Series),8.3,"19,235","[u'Comedy', u'Drama']"
-Teenage Mutant Ninja Turtles,(1987 TV Series),8,"19,238","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Crime', u'Drama', u'Family', u'Fantasy', u'Mystery', u'Sci-Fi', u'Thriller']"
-Rick and Morty,(2013 TV Series),9.2,"19,177","[u'Animation', u'Adventure', u'Comedy', u'Sci-Fi']"
-The Boondocks,(2005 TV Series),8.4,"19,122","[u'Animation', u'Action', u'Comedy', u'Drama']"
-Courage the Cowardly Dog,(1999 TV Series),8.3,"19,042","[u'Animation', u'Comedy', u'Fantasy', u'Horror']"
-The Golden Girls,(1985 TV Series),7.8,"18,943","[u'Comedy', u'Drama']"
-Pinky and the Brain,(1995 TV Series),8,"18,926","[u'Animation', u'Comedy', u'Family', u'Sci-Fi']"
-8 Simple Rules,(2002 TV Series),7.1,"18,903","[u'Comedy', u'Drama']"
-Hercules: The Legendary Journeys,(1995 TV Series),6.5,"18,868","[u'Action', u'Adventure', u'Drama', u'Fantasy', u'Romance']"
-Caprica,(2009 TV Series),7.1,"18,861","[u'Action', u'Drama', u'Sci-Fi']"
-Helix,(2014 TV Series),7,"18,824","[u'Sci-Fi', u'Thriller']"
-Hey Arnold!,(1996 TV Series),7.7,"18,762","[u'Animation', u'Adventure', u'Comedy', u'Drama', u'Family']"
-Being Human,(2008 TV Series),7.8,"18,755","[u'Comedy', u'Drama', u'Fantasy', u'Horror']"
-Pok¬émon,(1998 TV Series),7.3,"18,643","[u'Animation', u'Adventure', u'Comedy', u'Family', u'Fantasy']"
-American Idol,(2002 TV Series),4.2,"18,591","[u'Game-Show', u'Music', u'Reality-TV']"
-Top Gear,(1978 TV Series),8.6,"18,500",[u'Documentary']
-Southland,(2009 TV Series),8.5,"18,487","[u'Crime', u'Drama', u'Thriller']"
-Camelot,(2011 TV Series),6.6,"18,410","[u'Drama', u'Fantasy']"
-Agatha Christie's Poirot,(1989 TV Series),8.6,"18,397","[u'Drama', u'Mystery', u'Crime', u'Thriller']"
-The Last Ship,(2014 TV Series),7.3,"18,355","[u'Action', u'Drama', u'Sci-Fi', u'Thriller']"
-The Mindy Project,(2012 TV Series),7.4,"18,291",[u'Comedy']
-The Carrie Diaries,(2013 TV Series),7.1,"18,289","[u'Comedy', u'Romance']"
-Hustle,(2004 TV Series),8.2,"18,272","[u'Crime', u'Drama', u'Mystery']"
-Last Resort,(2012 TV Series),7.5,"18,225","[u'Action', u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-Quantum Leap,(1989 TV Series),8.1,"18,190","[u'Action', u'Adventure', u'Drama', u'Family', u'Mystery', u'Sci-Fi']"
-My Wife and Kids,(2001 TV Series),6.8,"18,173",[u'Comedy']
-Man vs. Wild,(2006 TV Series),8.3,"18,085","[u'Adventure', u'Reality-TV']"
-Beavis and Butt-Head,(1993 TV Series),7.6,"17,990","[u'Animation', u'Comedy', u'Music']"
-The Powerpuff Girls,(1998 TV Series),7.2,"17,975","[u'Animation', u'Action', u'Comedy', u'Family', u'Fantasy', u'Sci-Fi']"
-The L Word,(2004 TV Series),7.6,"17,924","[u'Drama', u'Romance']"
-Brothers & Sisters,(2006 TV Series),7.3,"17,798",[u'Drama']
-Awake,(2012 TV Series),7.9,"17,787","[u'Drama', u'Fantasy', u'Mystery', u'Sci-Fi']"
-The Bridge,(2011 TV Series),8.6,"17,668","[u'Crime', u'Mystery', u'Thriller']"
-Ringer,(2011 TV Series),6.9,"17,601","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Knight Rider,(1982 TV Series),6.9,"17,582","[u'Action', u'Crime', u'Sci-Fi']"
-X-Men,(1992 TV Series),8.5,"17,515","[u'Animation', u'Action', u'Family', u'Sci-Fi', u'Thriller']"
-Chicago Fire,(2012 TV Series),7.8,"17,441","[u'Action', u'Drama']"
-House of Lies,(2012 TV Series),7.4,"17,386","[u'Comedy', u'Drama']"
-Go On,(2012 TV Series),7.6,"17,373",[u'Comedy']
-Wizards of Waverly Place,(2007 TV Series),6.7,"17,375","[u'Comedy', u'Family', u'Fantasy']"
-Hung,(2009 TV Series),7.2,"17,335","[u'Comedy', u'Drama']"
-DuckTales,(1987 TV Series),8.1,"17,213","[u'Animation', u'Adventure', u'Comedy', u'Family']"
-Blue Bloods,(2010 TV Series),7.4,"17,185","[u'Crime', u'Drama']"
-Samurai Champloo,(2004 TV Series),8.7,"17,056","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Drama']"
-Phineas and Ferb,(2007 TV Series),8,"17,009","[u'Animation', u'Comedy', u'Family']"
-Daria,(1997 TV Series),8,"16,993","[u'Animation', u'Comedy']"
-Aqua Teen Hunger Force,(2000 TV Series),7.7,"16,968","[u'Animation', u'Comedy']"
-Cold Case,(2003 TV Series),7.6,"16,962","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-The Closer,(2005 TV Series),7.5,"16,860","[u'Crime', u'Drama', u'Mystery']"
-"Scooby Doo, Where Are You!",(1969 TV Series),7.9,"16,855","[u'Animation', u'Comedy', u'Mystery']"
-Erufen r¬îto,(2004 TV Series),8.3,"16,820","[u'Animation', u'Drama', u'Horror', u'Romance', u'Sci-Fi', u'Thriller']"
-Big Love,(2006 TV Series),7.6,"16,758",[u'Drama']
-Veep,(2012 TV Series),8,"16,720",[u'Comedy']
-United States of Tara,(2009 TV Series),7.9,"16,609","[u'Comedy', u'Drama']"
-The Fairly OddParents,(2001 TV Series),7.3,"16,610","[u'Animation', u'Comedy', u'Family', u'Fantasy']"
-Baywatch,(1989 TV Series),5,"16,582","[u'Drama', u'Action', u'Adventure']"
-The Venture Bros.,(2003 TV Series),8.6,"16,426","[u'Animation', u'Adventure', u'Comedy', u'Sci-Fi', u'Thriller']"
-Private Practice,(2007 TV Series),6.6,"16,425","[u'Comedy', u'Drama', u'Romance']"
-Columbo,(1971 TV Series),8.2,"16,416","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Nurse Jackie,(2009 TV Series),7.6,"16,405","[u'Comedy', u'Drama']"
-Strike Back,(2010 TV Series),8.3,"16,386","[u'Action', u'Drama', u'Thriller']"
-Utopia,(2013 TV Series),8.6,"16,261","[u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-"Ed, Edd, 'n' Eddy",(1999 TV Series),7.4,"16,214","[u'Animation', u'Comedy']"
-Pan Am,(2011 TV Series),6.9,"16,106","[u'Drama', u'History']"
-Switched at Birth,(2011 TV Series),7.9,"16,053","[u'Drama', u'Family']"
-Scorpion,(2014 TV Series),7.2,"16,008","[u'Action', u'Drama']"
-Family Matters,(1989 TV Series),6.5,"15,968","[u'Comedy', u'Drama', u'Family']"
-Law & Order: Criminal Intent,(2001 TV Series),7.3,"15,959","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-The Secret Life of the American Teenager,(2008 TV Series),5,"15,616","[u'Comedy', u'Drama', u'Family', u'Romance']"
-Survivor,(2000 TV Series),6.8,"15,599","[u'Adventure', u'Game-Show', u'Reality-TV']"
-QI,(2003 TV Series),8.9,"15,509","[u'Comedy', u'Game-Show']"
-Lilyhammer,(2012 TV Series),8.1,"15,480","[u'Comedy', u'Crime', u'Drama']"
-Witches of East End,(2013 TV Series),7.7,"15,350","[u'Drama', u'Fantasy']"
-Jackass,(2000 TV Series),7.2,"15,321","[u'Action', u'Comedy', u'Reality-TV', u'Thriller']"
-The Unit,(2006 TV Series),8.1,"15,261","[u'Action', u'Drama', u'Thriller', u'War']"
-Keeping Up with the Kardashians,(2007 TV Series),2.8,"15,241","[u'Drama', u'Reality-TV']"
-The Lying Game,(2011 TV Series),7.4,"14,950","[u'Drama', u'Mystery']"
-Little Britain,(2003 TV Series),7.7,"14,815",[u'Comedy']
-666 Park Avenue,(2012 TV Series),6.9,"14,761","[u'Drama', u'Fantasy', u'Mystery', u'Sci-Fi', u'Thriller']"
-Code Geass: Lelouch of the Rebellion,(2006 TV Series),8.8,"14,660","[u'Animation', u'Action', u'Adventure', u'Drama', u'Sci-Fi', u'Thriller']"
-Human Target,(2010 TV Series),7.8,"14,539","[u'Action', u'Adventure', u'Crime', u'Drama', u'Thriller']"
-Batman Beyond,(1999 TV Series),8.1,"14,535","[u'Adventure', u'Animation', u'Action', u'Crime', u'Mystery', u'Sci-Fi', u'Drama', u'Thriller']"
-My Little Pony: Friendship Is Magic,(2010 TV Series),7.8,"14,527","[u'Animation', u'Comedy', u'Family', u'Fantasy', u'Musical']"
-Miami Vice,(1984 TV Series),7.5,"14,487","[u'Action', u'Crime', u'Drama', u'Thriller']"
-Royal Pains,(2009 TV Series),7.1,"14,464","[u'Comedy', u'Drama']"
-Drawn Together,(2004 TV Series),7,"14,451","[u'Animation', u'Comedy']"
-'Allo 'Allo!,(1982 TV Series),8.4,"14,439","[u'Comedy', u'War']"
-America's Next Top Model,(2003 TV Series),5.5,"14,381","[u'Game-Show', u'Reality-TV']"
-The Transformers,(1984 TV Series),8,"14,353","[u'Animation', u'Action', u'Adventure', u'Family', u'Fantasy', u'Sci-Fi', u'Thriller']"
-Star Wars: Clone Wars,(2003 TV Series),7.6,"14,347","[u'Animation', u'Action', u'Adventure', u'Fantasy', u'Sci-Fi']"
-Mystery Science Theater 3000,(1988 TV Series),8.8,"14,305","[u'Comedy', u'Sci-Fi']"
-No Ordinary Family,(2010 TV Series),6.9,"14,261","[u'Action', u'Comedy', u'Drama', u'Sci-Fi']"
-Dragon Ball GT,(1996 TV Series),7.2,"14,201","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Fantasy', u'Sci-Fi', u'Thriller']"
-Boss,(2011 TV Series),8.1,"14,159","[u'Crime', u'Drama']"
-The Mighty Boosh,(2003 TV Series),8.4,"14,147","[u'Comedy', u'Fantasy', u'Musical']"
-Mighty Morphin Power Rangers,(1993 TV Series),6.4,"14,144","[u'Action', u'Adventure', u'Family', u'Sci-Fi']"
-Behzat ¬Ç.: Bir Ankara Polisiyesi,(2010 TV Series),8.8,"14,122","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-The River,(2012 TV Series),6.8,"14,090","[u'Action', u'Adventure', u'Horror', u'Sci-Fi']"
-Nashville,(2012 TV Series),7.7,"14,097","[u'Drama', u'Music']"
-Extant,(2014 TV Series),6.8,"14,023","[u'Drama', u'Sci-Fi', u'Thriller']"
-Smash,(2012 TV Series),7.6,"13,957","[u'Drama', u'Musical']"
-Digimon: Digital Monsters,(1999 TV Series),6.9,"13,952","[u'Animation', u'Action', u'Adventure', u'Family', u'Fantasy', u'Sci-Fi', u'Thriller']"
-Conan,(2010 TV Series),8.2,"13,822","[u'Comedy', u'Music', u'Talk-Show']"
-Derek,(2012 TV Series),8.2,"13,820","[u'Comedy', u'Drama']"
-Mike & Molly,(2010 TV Series),6.5,"13,730",[u'Comedy']
-Undeclared,(2001 TV Series),8,"13,574",[u'Comedy']
-The Knick,(2014 TV Series),8.6,"13,584",[u'Drama']
-Lois & Clark: The New Adventures of Superman,(1993 TV Series),6.8,"13,537","[u'Adventure', u'Comedy', u'Drama', u'Romance', u'Sci-Fi']"
-Perception,(2012 TV Series),7.5,"13,527","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Mad About You,(1992 TV Series),6.6,"13,517","[u'Comedy', u'Romance']"
-My So-Called Life,(1994 TV Series),8.4,"13,468",[u'Drama']
-Hell's Kitchen,(2005 TV Series),7,"13,400","[u'Game-Show', u'Reality-TV']"
-The Bridge,(2013 TV Series),7.7,"13,364","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-The Ren & Stimpy Show,(1991 TV Series),7.6,"13,355","[u'Animation', u'Comedy', u'Thriller']"
-Without a Trace,(2002 TV Series),6.9,"13,345","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Queer as Folk,(2000 TV Series),8.3,"13,312",[u'Drama']
-Intelligence,(2014 TV Series),7,"13,145","[u'Action', u'Sci-Fi']"
-Tales from the Crypt,(1989 TV Series),8,"13,135","[u'Comedy', u'Crime', u'Horror', u'Thriller']"
-Happy Tree Friends,(2006 TV Series),7.1,"13,119","[u'Animation', u'Comedy', u'Horror']"
-Flashpoint,(2008 TV Series),7.7,"13,108","[u'Action', u'Crime', u'Drama', u'Thriller']"
-Animaniacs,(1993 TV Series),7.9,"13,105","[u'Animation', u'Comedy', u'Family', u'Musical']"
-Sanctuary,(2008 TV Series),7.4,"13,051","[u'Crime', u'Mystery', u'Sci-Fi']"
-Drop Dead Diva,(2009 TV Series),7.4,"13,008","[u'Comedy', u'Drama']"
-Dominion,(2014 TV Series),6.8,"12,992","[u'Action', u'Drama', u'Fantasy', u'Horror', u'Sci-Fi']"
-"Magnum, P.I.",(1980 TV Series),7.5,"12,975","[u'Action', u'Adventure', u'Crime', u'Drama', u'Mystery']"
-I Love Lucy,(1951 TV Series),8.5,"12,868","[u'Comedy', u'Family']"
-Midsomer Murders,(1997 TV Series),7.7,"12,845","[u'Crime', u'Drama', u'Mystery']"
-Rocko's Modern Life,(1993 TV Series),8.1,"12,796","[u'Animation', u'Comedy']"
-Young Justice,(2010 TV Series),8.7,"12,787","[u'Animation', u'Action', u'Adventure', u'Drama', u'Romance', u'Sci-Fi']"
-Invader ZIM,(2001 TV Series),8.4,"12,683","[u'Animation', u'Comedy', u'Family', u'Sci-Fi']"
-"Two Guys, a Girl and a Pizza Place",(1998 TV Series),7.4,"12,671",[u'Comedy']
-Jackie Chan Adventures,(2000 TV Series),7.3,"12,634","[u'Animation', u'Fantasy', u'Family', u'Action', u'Comedy', u'Adventure']"
-The Killing,(2007 TV Series),8.4,"12,601","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Teen Titans,(2003 TV Series),7.4,"12,535","[u'Animation', u'Action', u'Adventure', u'Fantasy', u'Sci-Fi', u'Thriller']"
-Regular Show,(2009 TV Series),8.5,"12,503","[u'Animation', u'Adventure', u'Comedy', u'Fantasy']"
-How to Make It in America,(2010 TV Series),8,"12,439","[u'Comedy', u'Drama']"
-Unbreakable Kimmy Schmidt,(2015 TV Series),8.3,"12,551",[u'Comedy']
-The Black Donnellys,(2007 TV Series),8.2,"12,382","[u'Crime', u'Drama']"
-JAG,(1995 TV Series),6.5,"12,328","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Absolutely Fabulous,(1992 TV Series),8.1,"12,169",[u'Comedy']
-Just Shoot Me!,(1997 TV Series),6.9,"12,121",[u'Comedy']
-Recess,(1997 TV Series),8,"12,094","[u'Animation', u'Adventure', u'Comedy', u'Family', u'Sport']"
-In Treatment,(2008 TV Series),8.3,"12,047",[u'Drama']
-Lizzie McGuire,(2001 TV Series),6.5,"11,967","[u'Comedy', u'Drama', u'Family']"
-Rookie Blue,(2010 TV Series),7.7,"11,949","[u'Crime', u'Drama']"
-Resurrection,(2013 TV Series),7.5,"11,923","[u'Drama', u'Fantasy']"
-Longmire,(2012 TV Series),8.1,"11,896","[u'Action', u'Crime', u'Drama', u'Western']"
-Robin Hood,(2006 TV Series),7.6,"11,882","[u'Action', u'Adventure', u'Comedy', u'Drama', u'Romance']"
-The Last Man on Earth,(2015 TV Series),7.8,"12,012","[u'Action', u'Comedy', u'Sci-Fi']"
-The Pretender,(1996 TV Series),7.5,"11,843","[u'Drama', u'Sci-Fi', u'Mystery', u'Thriller']"
-Doug,(1991 TV Series),7.6,"11,827","[u'Animation', u'Comedy', u'Drama', u'Family', u'Fantasy']"
-Breakout Kings,(2011 TV Series),7.3,"11,779","[u'Crime', u'Drama', u'Thriller']"
-The Returned,(2012 TV Series),8.3,"11,713","[u'Drama', u'Fantasy', u'Thriller']"
-Spider-Man,(1994 TV Series),8.3,"11,651","[u'Animation', u'Action', u'Adventure', u'Crime', u'Drama', u'Family', u'Fantasy', u'Romance', u'Sci-Fi', u'Thriller']"
-Melissa & Joey,(2010 TV Series),7.1,"11,609",[u'Comedy']
-Reno 911!,(2003 TV Series),8,"11,601","[u'Comedy', u'Crime']"
-Sliders,(1995 TV Series),7.5,"11,590","[u'Sci-Fi', u'Adventure', u'Fantasy']"
-Grounded for Life,(2001 TV Series),7.5,"11,583",[u'Comedy']
-Last Man Standing,(2011 TV Series),7.2,"11,453",[u'Comedy']
-Metalocalypse,(2006 TV Series),8.3,"11,339","[u'Animation', u'Comedy', u'Music']"
-Yugio deyueru monsutazu,(2000 TV Series),6.6,"11,333","[u'Animation', u'Adventure', u'Family', u'Fantasy']"
-Dinosaurs,(1991 TV Series),7.5,"11,313","[u'Animation', u'Comedy', u'Family']"
-The Drew Carey Show,(1995 TV Series),6.9,"11,291","[u'Comedy', u'Drama']"
-Victorious,(2010 TV Series),7,"11,291","[u'Comedy', u'Drama', u'Family', u'Music', u'Romance']"
-Good Luck Charlie,(2010 TV Series),7.1,"11,223","[u'Comedy', u'Drama', u'Family']"
-The Big C,(2010 TV Series),8.1,"11,216","[u'Comedy', u'Drama']"
-That's So Raven,(2003 TV Series),6.3,"11,198","[u'Comedy', u'Family', u'Fantasy']"
-Franklin & Bash,(2011 TV Series),7.7,"11,189","[u'Comedy', u'Crime']"
-The Finder,(2012 TV Series),7.7,"11,144","[u'Comedy', u'Crime', u'Drama']"
-The Ricky Gervais Show,(2010 TV Series),8.2,"11,138","[u'Animation', u'Comedy']"
-Moonlighting,(1985 TV Series),7.7,"11,126","[u'Comedy', u'Drama', u'Mystery', u'Romance']"
-The Musketeers,(2014 TV Series),7.8,"11,126","[u'Adventure', u'Drama']"
-Tru Calling,(2003 TV Series),7.6,"11,097","[u'Adventure', u'Drama', u'Fantasy']"
-The Fosters,(2013 TV Series),8.1,"11,099",[u'Drama']
-Pawn Stars,(2009 TV Series),7.4,"11,036",[u'Reality-TV']
-Whitney,(2011 TV Series),5.5,"10,917",[u'Comedy']
-Empire,(2015 TV Series),8.2,"10,933","[u'Drama', u'Music']"
-Cow and Chicken,(1995 TV Series),6.8,"10,865","[u'Animation', u'Comedy', u'Family', u'Fantasy']"
-Ezel,(2009 TV Series),8.3,"10,827","[u'Crime', u'Drama', u'Mystery', u'Romance', u'Thriller']"
-Graceland,(2013 TV Series),7.8,"10,818","[u'Action', u'Crime', u'Drama']"
-Kim Possible,(2002 TV Series),7.1,"10,808","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Mystery', u'Romance']"
-Devious Maids,(2013 TV Series),7.9,"10,790","[u'Comedy', u'Drama', u'Mystery']"
-Unforgettable,(2011 TV Series),6.7,"10,779","[u'Crime', u'Drama']"
-CatDog,(1998 TV Series),6.6,"10,772","[u'Animation', u'Comedy', u'Family']"
-Northern Exposure,(1990 TV Series),8.3,"10,763","[u'Comedy', u'Drama', u'Fantasy']"
-"Murder, She Wrote",(1984 TV Series),6.8,"10,748","[u'Comedy', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Ripper Street,(2012 TV Series),8.1,"10,752","[u'Crime', u'Mystery']"
-The Adventures of Sherlock Holmes,(1984 TV Series),8.8,"10,737","[u'Crime', u'Drama', u'Mystery']"
-Believe,(2014 TV Series),7.3,"10,736","[u'Drama', u'Fantasy', u'Sci-Fi']"
-Berserk,(1997 TV Series),8.8,"10,744","[u'Animation', u'Action', u'Adventure', u'Fantasy', u'Horror']"
-Tyrant,(2014 TV Series),8,"10,731","[u'Action', u'Drama', u'Thriller']"
-The Penguins of Madagascar,(2008 TV Series),7.7,"10,721","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family']"
-Batman,(1966 TV Series),7.5,"10,661","[u'Action', u'Adventure', u'Comedy', u'Crime', u'Family', u'Fantasy', u'Mystery', u'Sci-Fi']"
-Star-Crossed,(2014 TV Series),7.4,"10,651","[u'Romance', u'Sci-Fi']"
-Portlandia,(2011 TV Series),7.8,"10,611",[u'Comedy']
-MI-5,(2002 TV Series),8.3,"10,596","[u'Drama', u'Thriller']"
-Tosh.0,(2009 TV Series),7.6,"10,593",[u'Comedy']
-Thundercats,(1985 TV Series),7.9,"10,591","[u'Animation', u'Action', u'Adventure', u'Family', u'Fantasy', u'Sci-Fi']"
-What I Like About You,(2002 TV Series),6.6,"10,556","[u'Comedy', u'Drama']"
-Body of Proof,(2011 TV Series),7,"10,528","[u'Crime', u'Drama']"
-The Amazing Race,(2001 TV Series),7.6,"10,428","[u'Action', u'Adventure', u'Game-Show', u'Reality-TV']"
-The Adventures of Tintin,(1991 TV Series),8.3,"10,402","[u'Animation', u'Adventure', u'Crime', u'Family', u'Mystery']"
-Even Stevens,(1999 TV Series),7.8,"10,374","[u'Comedy', u'Drama', u'Family']"
-Late Night with Conan O'Brien,(1993 TV Series),8.5,"10,372","[u'Comedy', u'Music', u'Talk-Show']"
-"Walker, Texas Ranger",(1993 TV Series),5.4,"10,367","[u'Action', u'Comedy', u'Crime', u'Drama', u'Western']"
-Life Unexpected,(2010 TV Series),7.6,"10,346",[u'Drama']
-Kenan & Kel,(1996 TV Series),7.9,"10,287","[u'Family', u'Comedy']"
-The Muppet Show,(1976 TV Series),8.6,"10,253","[u'Comedy', u'Family', u'Music']"
-Z Nation,(2014 TV Series),6.2,"10,248","[u'Action', u'Drama', u'Horror', u'Sci-Fi']"
-Little House on the Prairie,(1974 TV Series),7.3,"10,239","[u'Drama', u'Family', u'Romance', u'Western']"
-Dirty Sexy Money,(2007 TV Series),7.3,"10,220",[u'Drama']
-Penn & Teller: Bullshit!,(2003 TV Series),8.2,"10,202","[u'Comedy', u'Documentary']"
-Mom,(2013 TV Series),7,"10,207",[u'Comedy']
-Family Ties,(1982 TV Series),7.2,"10,198","[u'Comedy', u'Family']"
-Treme,(2010 TV Series),8.2,"10,181","[u'Drama', u'Music']"
-Stalker,(2014 TV Series),7.7,"10,189","[u'Drama', u'Thriller']"
-Trigun,(1998 TV Series),8.5,"10,162","[u'Animation', u'Action', u'Comedy', u'Drama', u'Sci-Fi', u'Western']"
-The Grim Adventures of Billy & Mandy,(2001 TV Series),7.8,"10,107","[u'Animation', u'Comedy', u'Family', u'Fantasy']"
-Primeval,(2007 TV Series),7.3,"10,055","[u'Action', u'Adventure', u'Mystery', u'Sci-Fi']"
-Shark,(2006 TV Series),7.1,"10,007","[u'Crime', u'Drama', u'Mystery']"
-I'm Alan Partridge,(1997 TV Series),8.7,"10,005",[u'Comedy']
-Shameless,(2004 TV Series),8.1,"9,980","[u'Comedy', u'Drama']"
-Ned's Declassified School Survival Guide,(2004 TV Series),7.4,"9,966","[u'Comedy', u'Family']"
-Wonderfalls,(2004 TV Series),8.4,"9,957","[u'Comedy', u'Drama']"
-NewsRadio,(1995 TV Series),7.9,"9,958","[u'Comedy', u'Romance']"
-Sword Art Online,(2012 TV Series),8.2,"9,961","[u'Animation', u'Action', u'Adventure', u'Fantasy', u'Romance', u'Sci-Fi', u'Thriller']"
-Da Ali G Show,(2003 TV Series),8,"9,894","[u'Comedy', u'Talk-Show']"
-The Bugs Bunny Show,(1960 TV Series),8.6,"9,866","[u'Animation', u'Comedy']"
-The Hills,(2006 TV Series),3.4,"9,848","[u'Drama', u'Reality-TV']"
-Summer Heights High,(2007 TV Series),8.6,"9,835","[u'Comedy', u'Drama', u'Family', u'Musical', u'Romance']"
-Invasion,(2005 TV Series),7.6,"9,823","[u'Drama', u'Horror', u'Mystery', u'Romance', u'Sci-Fi', u'Thriller']"
-Clerks,(2000 TV Series),7.4,"9,820","[u'Animation', u'Comedy']"
-He-Man and the Masters of the Universe,(1983 TV Series),7.5,"9,796","[u'Animation', u'Action', u'Adventure', u'Family', u'Fantasy', u'Sci-Fi']"
-Rectify,(2013 TV Series),8.4,"9,799",[u'Drama']
-Reba,(2001 TV Series),6.3,"9,763","[u'Comedy', u'Drama']"
-Outsourced,(2010 TV Series),7.5,"9,764",[u'Comedy']
-Isler G¬ü¬çler,(2012 TV Series),8.9,"9,765",[u'Comedy']
-Salem,(2014 TV Series),7.2,"9,786","[u'Drama', u'Fantasy', u'Thriller']"
-Everwood,(2002 TV Series),7.4,"9,737",[u'Drama']
-Garth Marenghi's Darkplace,(2004 TV Series),8.7,"9,706","[u'Comedy', u'Horror']"
-The Odyssey,(1997 TV Series),6.9,"9,701","[u'Adventure', u'Fantasy', u'Drama']"
-Baby Daddy,(2012 TV Series),7.3,"9,706","[u'Comedy', u'Drama', u'Family']"
-Last Week Tonight with John Oliver,(2014 TV Series),9.3,"9,691","[u'Comedy', u'News', u'Talk-Show']"
-Secret Diary of a Call Girl,(2007 TV Series),7.4,"9,436",[u'Drama']
-Inspector Gadget,(1983 TV Series),6.8,"9,422","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Crime', u'Family', u'Mystery', u'Sci-Fi']"
-Happy Days,(1974 TV Series),7.5,"9,395","[u'Comedy', u'Family', u'Music']"
-From Dusk Till Dawn,(2014 TV Series),7,"9,393","[u'Action', u'Crime', u'Horror']"
-The Crazy Ones,(2013 TV Series),7.1,"9,396",[u'Comedy']
-Bewitched,(1964 TV Series),7.7,"9,365","[u'Comedy', u'Family', u'Fantasy']"
-Gargoyles,(1994 TV Series),8.1,"9,329","[u'Animation', u'Action', u'Adventure', u'Crime', u'Drama', u'Family', u'Fantasy', u'Mystery', u'Romance', u'Thriller']"
-The Young Ones,(1982 TV Series),8.2,"9,313",[u'Comedy']
-InuYasha,(2000 TV Series),7.9,"9,304","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Drama', u'Fantasy', u'Romance', u'Sci-Fi']"
-The New Normal,(2012 TV Series),6.8,"9,294",[u'Comedy']
-Ghost in the Shell: Stand Alone Complex,(2002 TV Series),8.6,"9,293","[u'Animation', u'Action', u'Crime', u'Sci-Fi', u'Thriller']"
-The Bugs Bunny/Looney Tunes Comedy Hour,(1985 TV Series),8.5,"9,268","[u'Animation', u'Family', u'Comedy']"
-The Goldbergs,(2013 TV Series),8,"9,224",[u'Comedy']
-Magic City,(2012 TV Series),7.6,"9,194","[u'Crime', u'Drama']"
-Video Game High School,(2012 TV Series),7.7,"9,140","[u'Action', u'Romance', u'Sci-Fi']"
-12 Monkeys,(2015 TV Series),7.8,"9,183","[u'Adventure', u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-The New Adventures of Old Christine,(2006 TV Series),7,"9,130",[u'Comedy']
-Battlestar Galactica,(1978 TV Series),7,"9,038","[u'Sci-Fi', u'Action', u'Adventure']"
-The Thick of It,(2005 TV Series),8.8,"9,026",[u'Comedy']
-The Jetsons,(1962 TV Series),7,"9,014","[u'Animation', u'Comedy', u'Family', u'Sci-Fi']"
-Gravity Falls,(2012 TV Series),8.9,"9,005","[u'Animation', u'Adventure', u'Comedy', u'Family', u'Mystery']"
-BoJack Horseman,(2014 TV Series),8.2,"8,988","[u'Animation', u'Comedy']"
-Hot in Cleveland,(2010 TV Series),7.2,"8,970",[u'Comedy']
-Halt and Catch Fire,(2014 TV Series),8.2,"8,814",[u'Drama']
-Foster's Home for Imaginary Friends,(2004 TV Series),7.9,"8,735","[u'Animation', u'Comedy', u'Family', u'Fantasy']"
-Chip 'n' Dale Rescue Rangers,(1989 TV Series),7.7,"8,727","[u'Animation', u'Adventure', u'Comedy', u'Family', u'Mystery']"
-Growing Pains,(1985 TV Series),6.6,"8,720","[u'Comedy', u'Family']"
-Rurouni Kenshin: Wandering Samurai,(1996 TV Series),8.7,"8,713","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Drama', u'Fantasy', u'History', u'Romance', u'Thriller']"
-Magnificent Century,(2011 TV Series),6.4,"8,711","[u'Biography', u'Drama', u'History', u'Romance', u'War']"
-Rubicon,(2010 TV Series),7.9,"8,684","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Becker,(1998 TV Series),7.3,"8,681",[u'Comedy']
-The Glades,(2010 TV Series),7.5,"8,677","[u'Action', u'Crime', u'Drama', u'Mystery']"
-Early Edition,(1996 TV Series),7.5,"8,670","[u'Drama', u'Fantasy', u'Sci-Fi']"
-Late Show with David Letterman,(1993 TV Series),6.9,"8,663","[u'Comedy', u'Music', u'Talk-Show']"
-Ellen: The Ellen DeGeneres Show,(2003 TV Series),7.4,"8,657","[u'Comedy', u'Talk-Show']"
-The Affair,(2014 TV Series),8,"8,673",[u'Drama']
-Life's Too Short,(2011 TV Series),7.6,"8,652",[u'Comedy']
-Masters of Horror,(2005 TV Series),7.6,"8,585","[u'Horror', u'Thriller']"
-Defying Gravity,(2009 TV Series),7.3,"8,559","[u'Drama', u'Sci-Fi']"
-Highlander,(1992 TV Series),7.4,"8,550","[u'Action', u'Adventure', u'Fantasy', u'Mystery', u'Sci-Fi']"
-Dallas,(2012 TV Series),7.1,"8,546",[u'Drama']
-Missing,(2012 TV Series),6.9,"8,528","[u'Action', u'Drama', u'Thriller']"
-Duck Dynasty,(2012 TV Series),6.6,"8,523",[u'Reality-TV']
-Impractical Jokers,(2011 TV Series),8.9,"8,518","[u'Comedy', u'Reality-TV']"
-Once Upon a Time in Wonderland,(2013 TV Series),7.1,"8,489","[u'Adventure', u'Drama', u'Fantasy', u'Mystery', u'Romance']"
-Degrassi: The Next Generation,(2001 TV Series),7.5,"8,469",[u'Drama']
-Copper,(2012 TV Series),7.5,"8,463","[u'Action', u'Drama']"
-Chicago P.D.,(2014 TV Series),8.1,"8,472","[u'Action', u'Drama']"
-Heroes,(2006 TV Series),7.5,"8,379",[u'Drama']
-Dragon Ball Z Kai,(2009 TV Series),8.8,"8,381","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Fantasy', u'Sci-Fi']"
-Hellcats,(2010 TV Series),6.8,"8,356","[u'Comedy', u'Drama']"
-Looking,(2014 TV Series),8.2,"8,366","[u'Comedy', u'Drama']"
-Jane by Design,(2011 TV Series),7.4,"8,312","[u'Comedy', u'Drama']"
-Up All Night,(2011 TV Series),6.5,"8,311",[u'Comedy']
-Are You Afraid of the Dark?,(1990 TV Series),8.4,"8,308","[u'Drama', u'Family', u'Fantasy', u'Horror', u'Mystery', u'Sci-Fi', u'Thriller']"
-Keeping Up Appearances,(1990 TV Series),7.8,"8,276",[u'Comedy']
-Call the Midwife,(2012 TV Series),8.4,"8,229",[u'Drama']
-In Plain Sight,(2008 TV Series),7.2,"8,219","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Sailor Moon,(1995 TV Series),7.7,"8,220","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Fantasy', u'Romance', u'Thriller']"
-So You Think You Can Dance,(2005 TV Series),6.8,"8,190","[u'Game-Show', u'Music', u'Reality-TV']"
-Surface,(2005 TV Series),7.2,"8,182","[u'Adventure', u'Mystery', u'Sci-Fi', u'Thriller']"
-FLCL,(2000 TV Series),8.4,"8,179","[u'Animation', u'Comedy', u'Drama', u'Fantasy', u'Sci-Fi']"
-The Voice,(2011 TV Series),6.6,"8,173","[u'Game-Show', u'Music', u'Reality-TV']"
-The Pink Panther Show,(1969 TV Series),7.7,"8,143","[u'Animation', u'Comedy']"
-Zoey 101,(2005 TV Series),5.7,"8,110","[u'Comedy', u'Drama', u'Family']"
-Eli Stone,(2008 TV Series),7.7,"8,083","[u'Comedy', u'Drama', u'Fantasy', u'Musical']"
-The Mask,(1995 TV Series),7,"8,067","[u'Animation', u'Comedy', u'Fantasy']"
-Samantha Who?,(2007 TV Series),7.4,"8,057","[u'Comedy', u'Mystery', u'Romance']"
-Bosch,(2014 TV Series),8.4,"8,070","[u'Drama', u'Mystery']"
-Borgen,(2010 TV Series),8.5,"7,906",[u'Drama']
-Darkwing Duck,(1991 TV Series),7.7,"7,870","[u'Animation', u'Family', u'Comedy', u'Action', u'Mystery']"
-The Angry Beavers,(1997 TV Series),7.5,"7,866","[u'Animation', u'Comedy', u'Family']"
-Gavin & Stacey,(2007 TV Series),7.9,"7,856","[u'Comedy', u'Romance']"
-Bottom,(1991 TV Series),8.2,"7,850","[u'Comedy', u'Crime']"
-Eastwick,(2009 TV Series),6.4,"7,845","[u'Drama', u'Fantasy']"
-Journeyman,(2007 TV Series),8.2,"7,829","[u'Fantasy', u'Romance', u'Sci-Fi']"
-21 Jump Street,(1987 TV Series),7.3,"7,815","[u'Crime', u'Drama', u'Mystery']"
-NYPD Blue,(1993 TV Series),7.5,"7,805","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Hello Ladies,(2013 TV Series),7.5,"7,766",[u'Comedy']
-Joan of Arcadia,(2003 TV Series),6.9,"7,744","[u'Drama', u'Fantasy']"
-The Late Late Show with Craig Ferguson,(2005 TV Series),8.3,"7,726","[u'Comedy', u'Music', u'Talk-Show']"
-Code Geass: Lelouch of the Rebellion R2,(2008 TV Series),8.9,"7,735","[u'Animation', u'Action', u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-Green Wing,(2004 TV Series),8.4,"7,723","[u'Comedy', u'Drama']"
-Hellsing X,(2006 TV Series),8.6,"7,704","[u'Animation', u'Action', u'Fantasy', u'Horror']"
-The Tonight Show with Jay Leno,(1992 TV Series),5.3,"7,692","[u'Comedy', u'Music', u'Talk-Show']"
-"Tim and Eric Awesome Show, Great Job!",(2007 TV Series),7.2,"7,653","[u'Comedy', u'Music']"
-Steins;Gate,(2011 TV Series),8.9,"7,651","[u'Animation', u'Comedy', u'Drama', u'Romance', u'Sci-Fi', u'Thriller']"
-The Outer Limits,(1995 TV Series),7.8,"7,634","[u'Drama', u'Fantasy', u'Horror', u'Mystery', u'Sci-Fi', u'Thriller']"
-The Avengers: Earth's Mightiest Heroes,(2010 TV Series),8.5,"7,632","[u'Animation', u'Action', u'Family', u'Sci-Fi']"
-George Lopez,(2002 TV Series),6.7,"7,621","[u'Comedy', u'Drama']"
-Life on Mars,(2008 TV Series),7.4,"7,618","[u'Crime', u'Drama', u'Mystery', u'Sci-Fi']"
-The Angry Video Game Nerd,(2006 TV Series),8.9,"7,617",[u'Comedy']
-Selfie,(2014 TV Series),7.3,"7,623",[u'Comedy']
-The Hitch Hikers Guide to the Galaxy,(1981 TV Series),8.1,"7,603","[u'Comedy', u'Sci-Fi', u'Adventure']"
-The Incredible Hulk,(1978 TV Series),7,"7,584","[u'Action', u'Adventure', u'Drama', u'Sci-Fi']"
-Crossing Jordan,(2001 TV Series),6.9,"7,570","[u'Crime', u'Drama', u'Mystery']"
-Andromeda,(2000 TV Series),6.6,"7,552","[u'Action', u'Adventure', u'Drama', u'Fantasy', u'Romance', u'Sci-Fi']"
-My Mad Fat Diary,(2013 TV Series),8.7,"7,547","[u'Comedy', u'Drama']"
-The Suite Life on Deck,(2008 TV Series),6.1,"7,521","[u'Action', u'Adventure', u'Comedy', u'Family']"
-The Brady Bunch,(1969 TV Series),6.7,"7,511","[u'Comedy', u'Family']"
-Step by Step,(1991 TV Series),6.4,"7,502",[u'Comedy']
-A Young Doctor's Notebook,(2012 TV Series),8,"7,464","[u'Comedy', u'Drama']"
-Shake It Up!,(2010 TV Series),4.8,"7,465","[u'Comedy', u'Family']"
-Police Squad!,(1982 TV Series),8.6,"7,451","[u'Comedy', u'Crime']"
-Dallas,(1978 TV Series),6.9,"7,443",[u'Drama']
-Hercules,(1998 TV Series),6.6,"7,441","[u'Animation', u'Action', u'Adventure', u'Family', u'Fantasy']"
-Fairy Tail,(2009 TV Series),8.4,"7,448","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Fantasy']"
-Tiny Toon Adventures,(1990 TV Series),7.7,"7,426","[u'Animation', u'Comedy', u'Family']"
-The Hour,(2011 TV Series),7.9,"7,403",[u'Drama']
-"Harvey Birdman, Attorney at Law",(2000 TV Series),8,"7,400","[u'Animation', u'Comedy', u'Sci-Fi']"
-Kurtlar Vadisi,(2003 TV Series),7.1,"7,385","[u'Action', u'Crime', u'Drama', u'Thriller']"
-Kenny vs. Spenny,(2002 TV Series),8,"7,381","[u'Comedy', u'Game-Show', u'Reality-TV']"
-Project Runway,(2004 TV Series),7.4,"7,378","[u'Game-Show', u'Reality-TV']"
-Mr Selfridge,(2013 TV Series),7.7,"7,373",[u'Drama']
-Bitten,(2014 TV Series),7.1,"7,379","[u'Drama', u'Fantasy', u'Horror', u'Mystery']"
-Avrupa Yakasi,(2004 TV Series),8.5,"7,367",[u'Comedy']
-Terriers,(2010 TV Series),8.6,"7,362","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Make It or Break It,(2009 TV Series),7.5,"7,355","[u'Drama', u'Sport']"
-Superman,(1996 TV Series),8.2,"7,334","[u'Animation', u'Action', u'Adventure', u'Family', u'Sci-Fi']"
-The Nine Lives of Chloe King,(2011 TV Series),7.3,"7,304","[u'Action', u'Adventure', u'Crime', u'Drama', u'Fantasy', u'Sci-Fi']"
-The Cape,(2011 TV Series),5.8,"7,304","[u'Action', u'Drama']"
-TURN: Washington's Spies,(2014 TV Series),8,"7,331","[u'Drama', u'War']"
-GCB,(2012 TV Series),6.9,"7,293","[u'Comedy', u'Drama']"
-Homicide: Life on the Street,(1993 TV Series),8.7,"7,292","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Get Smart,(1965 TV Series),8.3,"7,287","[u'Comedy', u'Crime']"
-All in the Family,(1971 TV Series),8.5,"7,286","[u'Comedy', u'Drama']"
-Gilligan's Island,(1964 TV Series),7.5,"7,281","[u'Comedy', u'Family']"
-Felicity,(1998 TV Series),6.7,"7,265",[u'Drama']
-The War at Home,(2005 TV Series),7.5,"7,227",[u'Comedy']
-Arthur,(1996 TV Series),7.5,"7,196","[u'Animation', u'Comedy', u'Family']"
-The Librarians,(2014 TV Series),7.2,"7,199",[u'Adventure']
-Mistresses,(2013 TV Series),7,"7,190","[u'Drama', u'Thriller']"
-Dancing with the Stars,(2005 TV Series),4.7,"7,141","[u'Family', u'Game-Show', u'Music', u'Reality-TV']"
-Being Erica,(2009 TV Series),7.5,"7,139","[u'Comedy', u'Drama', u'Fantasy']"
-TaleSpin,(1990 TV Series),7.7,"7,121","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Drama', u'Family', u'Fantasy', u'Mystery']"
-The Wild Thornberrys,(1998 TV Series),6.8,"7,102","[u'Animation', u'Adventure', u'Comedy', u'Family', u'Fantasy']"
-Late Night with Jimmy Fallon,(2009 TV Series),7,"7,079","[u'Comedy', u'Music', u'Talk-Show']"
-Atlantis,(2013 TV Series),6.7,"7,061","[u'Adventure', u'Drama', u'Fantasy']"
-Through the Wormhole,(2010 TV Series),8.9,"7,053","[u'Documentary', u'Family', u'Mystery']"
-The Adventures of Pete & Pete,(1993 TV Series),8.4,"7,047","[u'Comedy', u'Drama']"
-Three's Company,(1977 TV Series),7.6,"7,040",[u'Comedy']
-Melrose Place,(1992 TV Series),5.7,"7,019",[u'Drama']
-Miranda,(2009 TV Series),8,"7,017",[u'Comedy']
-Legends,(2014 TV Series),7.6,"7,015","[u'Action', u'Crime', u'Drama', u'Thriller']"
-The Prisoner,(1967 TV Series),8.8,"6,987","[u'Action', u'Drama', u'Mystery', u'Sci-Fi']"
-The Guild,(2007 TV Series),8.4,"6,982",[u'Comedy']
-H2O: Just Add Water,(2006 TV Series),7.2,"6,959","[u'Drama', u'Family', u'Fantasy']"
-The Andy Griffith Show,(1960 TV Series),8.4,"6,943","[u'Comedy', u'Family']"
-Millennium,(1996 TV Series),8.1,"6,936","[u'Crime', u'Drama', u'Mystery', u'Horror', u'Thriller']"
-Third Watch,(1999 TV Series),7.9,"6,919","[u'Action', u'Crime', u'Drama']"
-Knight Rider,(2008 TV Series),5.7,"6,900","[u'Adventure', u'Mystery', u'Thriller']"
-iZombie,(2015 TV Series),8.1,"7,141","[u'Comedy', u'Crime', u'Drama', u'Horror', u'Sci-Fi']"
-"Sister, Sister",(1994 TV Series),6.1,"6,892","[u'Comedy', u'Drama', u'Family']"
-Kings,(2009 TV Series),8.3,"6,887","[u'Drama', u'Sci-Fi']"
-Lucky Louie,(2006 TV Series),8.1,"6,881",[u'Comedy']
-Claymore,(2007 TV Series),8.2,"6,877","[u'Animation', u'Action', u'Adventure', u'Drama', u'Fantasy', u'Mystery']"
-The Dresden Files,(2007 TV Series),7.8,"6,862","[u'Action', u'Crime', u'Drama', u'Fantasy', u'Mystery']"
-Persons Unknown,(2010 TV Series),6.9,"6,855","[u'Drama', u'Mystery', u'Thriller']"
-Big Brother,(2000 TV Series),5.3,"6,838","[u'Game-Show', u'Reality-TV']"
-The Smurfs,(1981 TV Series),7.4,"6,840","[u'Animation', u'Family', u'Fantasy']"
-The Riches,(2007 TV Series),8,"6,833","[u'Comedy', u'Crime', u'Drama']"
-Foyle's War,(2002 TV Series),8.5,"6,824","[u'Crime', u'Drama', u'Mystery', u'War']"
-Real Time with Bill Maher,(2003 TV Series),7.7,"6,820","[u'Comedy', u'News', u'Talk-Show']"
-Captain Planet and the Planeteers,(1990 TV Series),6.7,"6,817","[u'Animation', u'Adventure', u'Comedy', u'Family']"
-The Chicago Code,(2011 TV Series),7.7,"6,807","[u'Action', u'Crime', u'Drama']"
-Broad City,(2014 TV Series),8.5,"6,817",[u'Comedy']
-Garfield and Friends,(1988 TV Series),7.4,"6,794","[u'Animation', u'Comedy']"
-Bionic Woman,(2007 TV Series),5.7,"6,778","[u'Action', u'Sci-Fi', u'Thriller']"
-Wings,(1990 TV Series),7.3,"6,778","[u'Comedy', u'Drama']"
-The Vicar of Dibley,(1994 TV Series),8,"6,776",[u'Comedy']
-Twisted,(2013 TV Series),7.6,"6,764","[u'Drama', u'Mystery', u'Thriller']"
-Monster,(2004 TV Series),8.7,"6,762","[u'Animation', u'Drama', u'Mystery', u'Thriller']"
-The Addams Family,(1964 TV Series),8.1,"6,752","[u'Comedy', u'Family', u'Horror']"
-MADtv,(1995 TV Series),7.1,"6,746",[u'Comedy']
-The Client List,(2012 TV Series),6.7,"6,732",[u'Drama']
-Home Movies,(1999 TV Series),8.2,"6,708","[u'Animation', u'Comedy', u'Drama']"
-Survivors,(2008 TV Series),7.6,"6,704","[u'Drama', u'Sci-Fi']"
-Transparent,(2014 TV Series),8.1,"6,708","[u'Comedy', u'Drama']"
-Kitchen Nightmares,(2007 TV Series),7.4,"6,698",[u'Reality-TV']
-The Neighbors,(2012 TV Series),6.7,"6,692","[u'Comedy', u'Romance', u'Sci-Fi']"
-I Dream of Jeannie,(1965 TV Series),7.6,"6,662","[u'Comedy', u'Family', u'Fantasy']"
-Stephen King's Dead Zone,(2002 TV Series),7.5,"6,650","[u'Drama', u'Fantasy', u'Mystery', u'Sci-Fi']"
-Hunted,(2012 TV Series),7.5,"6,634","[u'Action', u'Drama']"
-Fairly Legal,(2011 TV Series),7.3,"6,603","[u'Comedy', u'Drama']"
-La Femme Nikita,(1997 TV Series),7.5,"6,579","[u'Action', u'Drama', u'Romance', u'Thriller']"
-Jeeves and Wooster,(1990 TV Series),8.7,"6,561",[u'Comedy']
-The Being Frank Show,(2010 TV Series),7.8,"6,544",[u'Talk-Show']
-Poketto Monsut¬â,(1997 TV Series),6.8,"6,541","[u'Animation', u'Action', u'Adventure', u'Thriller']"
-Sesame Street,(1969 TV Series),8.3,"6,532","[u'Animation', u'Comedy', u'Family', u'Fantasy', u'Music']"
-Wolverine and the X-Men,(2008 TV Series),8.1,"6,523","[u'Animation', u'Action', u'Adventure', u'Drama', u'Sci-Fi']"
-Goosebumps,(1995 TV Series),7.8,"6,511","[u'Fantasy', u'Horror', u'Thriller']"
-Breaking In,(2011 TV Series),7.2,"6,490","[u'Comedy', u'Crime']"
-Day Break,(2006 TV Series),8.2,"6,434","[u'Action', u'Drama', u'Sci-Fi', u'Thriller']"
-Key and Peele,(2012 TV Series),8.3,"6,430",[u'Comedy']
-Sonny with a Chance,(2009 TV Series),6.2,"6,403","[u'Comedy', u'Family', u'Romance']"
-Men at Work,(2012 TV Series),7.1,"6,394","[u'Comedy', u'Drama']"
-Here Comes Honey Boo Boo,(2012 TV Series),2.7,"6,392",[u'Reality-TV']
-"Dr. Quinn, Medicine Woman",(1993 TV Series),6.6,"6,385","[u'Drama', u'Family', u'Western']"
-Ergo Proxy,(2006 TV Series),8.1,"6,368","[u'Animation', u'Adventure', u'Crime', u'Mystery', u'Sci-Fi']"
-In Living Color,(1990 TV Series),8,"6,363",[u'Comedy']
-A Gifted Man,(2011 TV Series),7,"6,301","[u'Drama', u'Fantasy']"
-The Gates,(2010 TV Series),7.2,"6,273","[u'Crime', u'Drama', u'Fantasy', u'Mystery', u'Thriller']"
-John Doe,(2002 TV Series),7.9,"6,263","[u'Drama', u'Mystery', u'Sci-Fi']"
-Crossing Lines,(2013 TV Series),7.4,"6,262","[u'Action', u'Crime', u'Drama']"
-Taxi,(1978 TV Series),7.8,"6,260",[u'Comedy']
-The Tick,(1994 TV Series),7.9,"6,247","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Fantasy', u'Sci-Fi']"
-Vegas,(2012 TV Series),7.3,"6,245","[u'Action', u'Crime', u'Drama', u'Mystery', u'Western']"
-Party of Five,(1994 TV Series),6.7,"6,244",[u'Drama']
-Storage Wars,(2010 TV Series),6.6,"6,187",[u'Reality-TV']
-Jessie,(2011 TV Series),6,"6,177","[u'Comedy', u'Family']"
-Red Band Society,(2014 TV Series),8.1,"6,177","[u'Comedy', u'Drama']"
-Punk'd,(2003 TV Series),6.1,"6,153","[u'Comedy', u'Reality-TV']"
-Jimmy Kimmel Live!,(2003 TV Series),6.9,"6,141","[u'Comedy', u'Music', u'Talk-Show']"
-Fresh Meat,(2011 TV Series),8,"6,144","[u'Comedy', u'Drama']"
-Red vs. Blue: The Blood Gulch Chronicles,(2003 TV Series),8.6,"6,117","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Fantasy', u'Sci-Fi']"
-Bunheads,(2012 TV Series),7.6,"6,119","[u'Comedy', u'Drama']"
-Darker Than Black,(2007 TV Series),8.1,"6,098","[u'Animation', u'Action', u'Fantasy', u'Horror', u'Sci-Fi', u'Thriller']"
-Whitechapel,(2009 TV Series),8,"6,075","[u'Crime', u'Mystery', u'Thriller']"
-Necessary Roughness,(2011 TV Series),7,"6,060",[u'Drama']
-Dirt,(2007 TV Series),7,"6,056",[u'Drama']
-Wallander,(2008 TV Series),7.9,"6,058","[u'Crime', u'Thriller']"
-Crisis,(2014 TV Series),7.2,"6,053","[u'Action', u'Drama', u'Thriller']"
-Hunter x Hunter,(2011 TV Series),9.1,"6,061","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Fantasy']"
-Lipstick Jungle,(2008 TV Series),6.5,"6,029","[u'Comedy', u'Drama']"
-The Listener,(2009 TV Series),6.7,"6,025","[u'Crime', u'Drama', u'Fantasy', u'Sci-Fi']"
-TRON: Uprising,(2012 TV Series),8.2,"5,999","[u'Animation', u'Action', u'Adventure', u'Sci-Fi']"
-Faking It,(2014 TV Series),7.8,"5,998",[u'Comedy']
-Codename: Kids Next Door,(2002 TV Series),7.2,"5,985","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Sci-Fi']"
-Space: Above and Beyond,(1995 TV Series),7.7,"5,971","[u'Drama', u'Sci-Fi']"
-The Munsters,(1964 TV Series),8,"5,966","[u'Comedy', u'Family', u'Fantasy', u'Horror', u'Sci-Fi']"
-Dirty Jobs,(2005 TV Series),7.9,"5,962",[u'Reality-TV']
-Ravenswood,(2013 TV Series),6.8,"5,958","[u'Drama', u'Horror']"
-My Family,(2000 TV Series),7.6,"5,957",[u'Comedy']
-The Oblongs,(2001 TV Series),7,"5,923","[u'Animation', u'Comedy', u'Sci-Fi']"
-Alfred Hitchcock Presents,(1955 TV Series),8.7,"5,917","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-The Sarah Silverman Program.,(2007 TV Series),7,"5,885",[u'Comedy']
-The Good Guys,(2010 TV Series),8.1,"5,872","[u'Action', u'Comedy']"
-Big Time Rush,(2009 TV Series),6.1,"5,830","[u'Comedy', u'Musical']"
-V,(1984 TV Series),7.3,"5,832","[u'Action', u'Adventure', u'Sci-Fi', u'Thriller']"
-Danny Phantom,(2004 TV Series),7.2,"5,824","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Sci-Fi']"
-Ashes to Ashes,(2008 TV Series),8.2,"5,808","[u'Crime', u'Drama', u'Fantasy', u'Sci-Fi', u'Thriller']"
-Madam Secretary,(2014 TV Series),7.3,"5,798",[u'Drama']
-Viva la Bam,(2003 TV Series),6.7,"5,782","[u'Comedy', u'Reality-TV']"
-Mortal Kombat,(2011 TV Series),7.8,"5,773","[u'Action', u'Crime', u'Fantasy', u'Thriller']"
-X-Men: Evolution,(2000 TV Series),8,"5,750","[u'Animation', u'Action', u'Drama', u'Fantasy', u'Romance', u'Sci-Fi', u'Thriller']"
-You're the Worst,(2014 TV Series),8.3,"5,744","[u'Comedy', u'Romance']"
-Kingdom Hospital,(2004 TV Series),6.8,"5,740","[u'Drama', u'Fantasy', u'Horror', u'Mystery']"
-Doc Martin,(2004 TV Series),8.3,"5,716","[u'Comedy', u'Drama']"
-Major Crimes,(2012 TV Series),7.6,"5,715","[u'Crime', u'Drama', u'Mystery']"
-Jane the Virgin,(2014 TV Series),7.7,"5,697",[u'Comedy']
-Still Standing,(2002 TV Series),7.6,"5,671",[u'Comedy']
-Beast Wars: Transformers,(1996 TV Series),8.2,"5,649","[u'Action', u'Fantasy', u'Animation', u'Sci-Fi', u'Thriller']"
-America's Got Talent,(2006 TV Series),5.5,"5,634","[u'Game-Show', u'Music', u'Reality-TV']"
-Brotherhood,(2006 TV Series),7.8,"5,633","[u'Crime', u'Drama']"
-Wipeout,(2008 TV Series),6.7,"5,631","[u'Comedy', u'Game-Show', u'Reality-TV']"
-New Amsterdam,(2008 TV Series),7.5,"5,628","[u'Crime', u'Drama', u'Sci-Fi']"
-Accidentally on Purpose,(2009 TV Series),6.3,"5,622","[u'Comedy', u'Romance']"
-Serial Experiments Lain,(1998 TV Series),8.3,"5,618","[u'Animation', u'Horror', u'Mystery', u'Sci-Fi', u'Thriller']"
-Diff'rent Strokes,(1978 TV Series),6.7,"5,611","[u'Comedy', u'Drama', u'Family']"
-"Doogie Howser, M.D.",(1989 TV Series),6.6,"5,605","[u'Comedy', u'Drama', u'Family']"
-Who's the Boss?,(1984 TV Series),6.5,"5,590","[u'Comedy', u'Family', u'Romance']"
-Ugly Americans,(2010 TV Series),8.1,"5,568","[u'Animation', u'Comedy', u'Horror']"
-Aaahh!!! Real Monsters,(1994 TV Series),7.5,"5,548","[u'Animation', u'Comedy', u'Horror']"
-Soul Eater,(2008 TV Series),8.1,"5,542","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Horror']"
-Dads,(2013 TV Series),5.5,"5,516",[u'Comedy']
-Mr. Show with Bob and David,(1995 TV Series),8.6,"5,512",[u'Comedy']
-The Amanda Show,(1999 TV Series),6.7,"5,507","[u'Comedy', u'Family']"
-The Apprentice,(2004 TV Series),5.5,"5,503","[u'Game-Show', u'Reality-TV']"
-Mob City,(2013 TV Series),7.6,"5,451","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Clarissa Explains It All,(1991 TV Series),7.3,"5,425",[u'Comedy']
-Mr. Sunshine,(2011 TV Series),6.9,"5,398",[u'Comedy']
-About a Boy,(2014 TV Series),7.5,"5,390","[u'Comedy', u'Drama', u'Romance']"
-Galavant,(2015 TV Series),7.7,"5,391","[u'Comedy', u'Musical']"
-Night Court,(1984 TV Series),7.7,"5,366",[u'Comedy']
-Perfect Strangers,(1986 TV Series),7.2,"5,363","[u'Comedy', u'Family']"
-Ed,(2000 TV Series),7.6,"5,360","[u'Comedy', u'Drama']"
-The Spectacular Spider-Man,(2008 TV Series),8.1,"5,332","[u'Animation', u'Action', u'Adventure', u'Sci-Fi']"
-Yu Yu Hakusho: Ghost Files,(1992 TV Series),8.7,"5,323","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Drama', u'Fantasy', u'Horror', u'Romance', u'Thriller']"
-Bloodline,(2015 TV Series),8.4,"5,424","[u'Drama', u'Thriller']"
-Cranford,(2007 TV Series),8.5,"5,283",[u'Drama']
-Deadliest Catch,(2005 TV Series),8.2,"5,283","[u'Documentary', u'Adventure', u'Reality-TV']"
-Ultimate Spider-Man,(2012 TV Series),7.1,"5,277","[u'Animation', u'Action', u'Adventure', u'Sci-Fi']"
-Celebrity Deathmatch,(1998 TV Series),6.9,"5,286","[u'Animation', u'Action', u'Comedy', u'Sport']"
-The Batman,(2004 TV Series),7.3,"5,270","[u'Animation', u'Action', u'Adventure', u'Crime', u'Family', u'Mystery', u'Sci-Fi', u'Thriller']"
-Mork & Mindy,(1978 TV Series),7.2,"5,223","[u'Comedy', u'Family', u'Sci-Fi']"
-Legit,(2013 TV Series),8.2,"5,227",[u'Comedy']
-Black-ish,(2014 TV Series),6.9,"5,221",[u'Comedy']
-Ancient Aliens,(2009 TV Series),7.5,"5,213","[u'Documentary', u'History', u'Sci-Fi']"
-Emily Owens M.D.,(2012 TV Series),7.6,"5,204",[u'Drama']
-The Paradise,(2012 TV Series),7.9,"5,198",[u'Drama']
-Inspector Morse,(1987 TV Series),8.1,"5,180","[u'Crime', u'Drama', u'Mystery']"
-Ghost Hunters,(2004 TV Series),6.6,"5,174",[u'Documentary']
-The Dukes of Hazzard,(1979 TV Series),7.1,"5,173","[u'Action', u'Adventure', u'Comedy']"
-Freakazoid!,(1995 TV Series),7.6,"5,165","[u'Animation', u'Comedy', u'Fantasy']"
-Power,(2014 TV Series),7.8,"5,170","[u'Crime', u'Drama']"
-EastEnders,(1985 TV Series),5.2,"5,164","[u'Crime', u'Drama']"
-Timon & Pumbaa,(1995 TV Series),7.1,"5,153","[u'Animation', u'Comedy', u'Family']"
-That Mitchell and Webb Look,(2006 TV Series),8,"5,150",[u'Comedy']
-Blood Ties,(2006 TV Series),7.4,"5,147","[u'Drama', u'Fantasy', u'Horror', u'Mystery', u'Romance']"
-Mushi-Shi,(2005 TV Series),8.7,"5,088","[u'Animation', u'Drama', u'Fantasy', u'Horror', u'Mystery', u'Thriller']"
-House of Payne,(2006 TV Series),3.2,"5,074","[u'Comedy', u'Drama', u'Family', u'Romance']"
-Charlie's Angels,(1976 TV Series),6.5,"5,074","[u'Action', u'Adventure', u'Crime', u'Drama', u'Mystery']"
-A Bit of Fry and Laurie,(1987 TV Series),8.6,"5,068",[u'Comedy']
-Army Wives,(2007 TV Series),7.2,"5,066",[u'Drama']
-Sports Night,(1998 TV Series),8.5,"5,051","[u'Comedy', u'Drama', u'Sport']"
-The Practice,(1997 TV Series),7.8,"5,035","[u'Crime', u'Drama', u'Mystery', u'Romance', u'Thriller']"
-Crossbones,(2014 TV Series),6.5,"5,035","[u'Adventure', u'Drama']"
-Da Ali G Show,(2000 TV Series),8,"5,035","[u'Comedy', u'Talk-Show']"
-Airwolf,(1984 TV Series),6.8,"5,019","[u'Action', u'Adventure', u'Sci-Fi']"
-Inspector Lewis,(2007 TV Series),7.9,"5,017","[u'Crime', u'Drama', u'Mystery']"
-The Young Indiana Jones Chronicles,(1992 TV Series),7.3,"5,013","[u'Action', u'Adventure', u'Family', u'Mystery']"
-Common Law,(2012 TV Series),8,"5,007","[u'Comedy', u'Crime']"
-Wolf's Rain,(2003 TV Series),8.1,"5,006","[u'Action', u'Sci-Fi', u'Animation', u'Fantasy', u'Adventure', u'Drama']"
-The Soup,(2004 TV Series),8.4,"5,002",[u'Comedy']
-Frisky Dingo,(2006 TV Series),8.3,"4,992","[u'Animation', u'Comedy', u'Sci-Fi']"
-Harry's Law,(2011 TV Series),7.3,"4,975","[u'Comedy', u'Crime', u'Drama', u'Mystery']"
-Gary Unmarried,(2008 TV Series),6.8,"4,967",[u'Comedy']
-The Bernie Mac Show,(2001 TV Series),6.8,"4,964","[u'Comedy', u'Drama', u'Family']"
-The Kids in the Hall,(1988 TV Series),8.5,"4,954",[u'Comedy']
-Hogan's Heroes,(1965 TV Series),8,"4,945","[u'Comedy', u'War']"
-The Adventures of Brisco County Jr.,(1993 TV Series),8.6,"4,945","[u'Action', u'Sci-Fi', u'Western', u'Adventure', u'Comedy']"
-Outnumbered,(2007 TV Series),8.2,"4,929","[u'Comedy', u'Drama']"
-The Twilight Zone,(1985 TV Series),7.8,"4,903","[u'Sci-Fi', u'Fantasy', u'Mystery', u'Thriller', u'Horror']"
-Enlightened,(2011 TV Series),7.5,"4,894","[u'Comedy', u'Drama']"
-The X Factor,(2011 TV Series),5.2,"4,889","[u'Music', u'Reality-TV']"
-Austin & Ally,(2011 TV Series),6,"4,891","[u'Comedy', u'Music']"
-DreamWorks Dragons,(2012 TV Series),8.2,"4,886","[u'Animation', u'Adventure', u'Comedy', u'Family', u'Fantasy']"
-'Til Death,(2006 TV Series),6.6,"4,874",[u'Comedy']
-"Yes, Dear",(2000 TV Series),7,"4,868",[u'Comedy']
-The Bold and the Beautiful,(1987 TV Series),3.5,"4,869","[u'Drama', u'Romance']"
-Teenage Mutant Ninja Turtles,(2003 TV Series),7.7,"4,864","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Fantasy', u'Sci-Fi', u'Thriller']"
-The Adventures of Jimmy Neutron: Boy Genius,(2002 TV Series),6.8,"4,858","[u'Animation', u'Adventure', u'Comedy', u'Family', u'Sci-Fi']"
-Popular,(1999 TV Series),7.5,"4,854","[u'Comedy', u'Drama']"
-Brickleberry,(2012 TV Series),7,"4,866","[u'Animation', u'Comedy']"
-Black Lagoon,(2006 TV Series),8.2,"4,858","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Crime', u'Mystery']"
-Thundercats,(2011 TV Series),7.9,"4,839","[u'Animation', u'Action', u'Adventure', u'Sci-Fi']"
-The Life & Times of Tim,(2008 TV Series),8.1,"4,837","[u'Animation', u'Comedy']"
-The Hard Times of RJ Berger,(2010 TV Series),7.5,"4,838",[u'Comedy']
-Brass Eye,(1997 TV Series),8.9,"4,836",[u'Comedy']
-Fresh Off the Boat,(2015 TV Series),8.3,"4,880",[u'Comedy']
-Outcasts,(2010 TV Series),6.6,"4,828","[u'Drama', u'Sci-Fi']"
-Childrens Hospital,(2008 TV Series),8,"4,820",[u'Comedy']
-The Tonight Show with Conan O'Brien,(2009 TV Series),8.3,"4,803","[u'Comedy', u'Music', u'Talk-Show']"
-The Critic,(1994 TV Series),8.1,"4,798","[u'Animation', u'Comedy', u'Drama', u'Romance']"
-Man v. Food,(2008 TV Series),7.5,"4,794",[u'Reality-TV']
-The Yogi Bear Show,(1961 TV Series),6.7,"4,789","[u'Animation', u'Family', u'Comedy']"
-Forbidden Love,(2008 TV Series),7.2,"4,785","[u'Drama', u'Romance']"
-Survivorman,(2004 TV Series),8.4,"4,775","[u'Documentary', u'Adventure']"
-Trophy Wife,(2013 TV Series),6.9,"4,768",[u'Comedy']
-The Tonight Show Starring Jimmy Fallon,(2014 TV Series),8.2,"4,775","[u'Comedy', u'Music', u'Talk-Show']"
-Beetlejuice,(1989 TV Series),7.4,"4,763","[u'Comedy', u'Animation', u'Fantasy', u'Horror']"
-Mrs. Brown's Boys,(2011 TV Series),7.5,"4,761",[u'Comedy']
-Tengen toppa gurren lagann,(2007 TV Series),8.5,"4,732","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Drama', u'Sci-Fi']"
-Shaun the Sheep,(2007 TV Series),8.5,"4,728","[u'Animation', u'Comedy', u'Family']"
-Taz-Mania,(1991 TV Series),7,"4,718","[u'Animation', u'Comedy', u'Family', u'Sci-Fi']"
-The League of Gentlemen,(1999 TV Series),8.6,"4,719","[u'Comedy', u'Horror']"
-Adventures of the Gummi Bears,(1985 TV Series),7.7,"4,712","[u'Fantasy', u'Animation', u'Family']"
-Paranoia Agent,(2004 TV Series),8.2,"4,711","[u'Animation', u'Drama', u'Horror', u'Mystery']"
-Mozart in the Jungle,(2014 TV Series),8.2,"4,716",[u'Comedy']
-Yes Minister,(1980 TV Series),8.8,"4,707",[u'Comedy']
-Spawn,(1997 TV Series),8.1,"4,704","[u'Animation', u'Action', u'Crime', u'Drama', u'Fantasy', u'Horror', u'Thriller']"
-The Nostalgia Critic,(2007 TV Series),8.7,"4,679",[u'Comedy']
-Sleeper Cell,(2005 TV Series),8.2,"4,673","[u'Crime', u'Drama', u'Thriller']"
-Dilbert,(1999 TV Series),7.3,"4,660","[u'Animation', u'Comedy']"
-Gang Related,(2014 TV Series),7.6,"4,660","[u'Action', u'Crime', u'Drama', u'Thriller']"
-Detective Conan,(1996 TV Series),8.5,"4,647","[u'Animation', u'Comedy', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-All That,(1994 TV Series),7.5,"4,645","[u'Comedy', u'Music']"
-Ben 10,(2005 TV Series),7,"4,641","[u'Animation', u'Action', u'Adventure', u'Family', u'Sci-Fi']"
-Titus,(2000 TV Series),7.6,"4,626","[u'Comedy', u'Drama']"
-Transporter: The Series,(2012 TV Series),6.7,"4,624","[u'Action', u'Crime']"
-Jonas,(2009 TV Series),4.4,"4,616","[u'Comedy', u'Family', u'Music']"
-The Dick Van Dyke Show,(1961 TV Series),8.5,"4,577","[u'Comedy', u'Family']"
-Phil of the Future,(2004 TV Series),7.3,"4,561","[u'Adventure', u'Comedy', u'Family', u'Sci-Fi']"
-Teenage Mutant Ninja Turtles,(2012 TV Series),8.3,"4,553","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Sci-Fi']"
-Skins,(2011 TV Series),3.9,"4,541","[u'Comedy', u'Drama']"
-WWF Raw,(1993 TV Series),8,"4,541",[u'Sport']
-The Firm,(2012 TV Series),7.1,"4,538","[u'Action', u'Drama', u'Mystery', u'Thriller']"
-British Men Behaving Badly,(1992 TV Series),7.8,"4,542",[u'Comedy']
-Zero Hour,(2013 TV Series),6.4,"4,535","[u'Drama', u'Fantasy', u'Thriller']"
-Wire in the Blood,(2002 TV Series),8.4,"4,527","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Low Winter Sun,(2013 TV Series),7.1,"4,507","[u'Crime', u'Drama']"
-Bonanza,(1959 TV Series),7.4,"4,506",[u'Western']
-The Fades,(2010 TV Series),7.9,"4,501","[u'Fantasy', u'Horror']"
-Sealab 2021,(2000 TV Series),8,"4,492","[u'Animation', u'Comedy', u'Sci-Fi']"
-Chowder,(2007 TV Series),7.5,"4,487","[u'Animation', u'Comedy', u'Family']"
-The Amazing World of Gumball,(2011 TV Series),8.1,"4,471","[u'Animation', u'Comedy', u'Family', u'Fantasy']"
-10 Things I Hate About You,(2009 TV Series),7.5,"4,442",[u'Comedy']
-Mission: Impossible,(1966 TV Series),8,"4,439","[u'Action', u'Adventure', u'Crime', u'Drama', u'Thriller']"
-Men in Trees,(2006 TV Series),7.3,"4,435","[u'Comedy', u'Drama', u'Romance']"
-The Simple Life,(2003 TV Series),3.7,"4,433","[u'Comedy', u'Reality-TV']"
-Kurtlar Vadisi: Pusu,(2007 TV Series),6.6,"4,434","[u'Action', u'Adventure', u'Drama', u'Thriller']"
-The Biggest Loser,(2004 TV Series),5.5,"4,430","[u'Game-Show', u'Reality-TV']"
-Star Wars Rebels,(2014 TV Series),7.9,"4,435","[u'Animation', u'Action', u'Adventure', u'Fantasy', u'Sci-Fi']"
-The Confession,(2011 TV Series),7.9,"4,424","[u'Action', u'Crime', u'Drama', u'Thriller']"
-Girl Meets World,(2014 TV Series),7.1,"4,423","[u'Comedy', u'Family']"
-The Kill Point,(2007 TV Series),7.5,"4,405","[u'Action', u'Crime', u'Drama', u'Thriller']"
-The Love Boat,(1977 TV Series),6,"4,406","[u'Comedy', u'Romance']"
-Cory in the House,(2007 TV Series),4.5,"4,395","[u'Comedy', u'Drama', u'Family']"
-Blossom,(1990 TV Series),5.9,"4,385","[u'Comedy', u'Drama']"
-Friends with Better Lives,(2014 TV Series),7.1,"4,384",[u'Comedy']
-Fear Factor,(2001 TV Series),5.6,"4,370","[u'Game-Show', u'Reality-TV', u'Thriller']"
-Shark Tank,(2009 TV Series),7.3,"4,370",[u'Reality-TV']
-The Unusuals,(2009 TV Series),8,"4,364","[u'Comedy', u'Drama']"
-Martin,(1992 TV Series),7.3,"4,355","[u'Comedy', u'Drama', u'Romance']"
-The Playboy Club,(2011 TV Series),6.5,"4,343","[u'Crime', u'Drama']"
-Kardes Payi,(2014 TV Series),9.3,"4,335","[u'Comedy', u'Drama', u'Family']"
-Jonathan Creek,(1997 TV Series),8.2,"4,330","[u'Crime', u'Drama', u'Mystery']"
-The Larry Sanders Show,(1992 TV Series),8.6,"4,327",[u'Comedy']
-The Michael J. Fox Show,(2013 TV Series),6.7,"4,326",[u'Comedy']
-The Real Ghostbusters,(1986 TV Series),7.7,"4,311","[u'Animation', u'Action', u'Comedy', u'Family', u'Fantasy', u'Sci-Fi']"
-Ben and Kate,(2012 TV Series),6.6,"4,306",[u'Comedy']
-Gantz,(2004 TV Series),7.4,"4,299","[u'Animation', u'Drama', u'Fantasy', u'Horror', u'Sci-Fi', u'Thriller']"
-Baccano!,(2007 TV Series),8.5,"4,293","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Crime', u'Fantasy', u'Horror', u'Thriller']"
-Luck,(2011 TV Series),7.6,"4,284","[u'Drama', u'Sport']"
-$#*! My Dad Says,(2010 TV Series),6.3,"4,282",[u'Comedy']
-Stromberg,(2004 TV Series),8.5,"4,278",[u'Comedy']
-Clone High,(2002 TV Series),8.3,"4,275","[u'Animation', u'Comedy', u'Sci-Fi']"
-Off the Map,(2011 TV Series),7.2,"4,260","[u'Action', u'Adventure', u'Drama']"
-The Six Million Dollar Man,(1974 TV Series),7.2,"4,260","[u'Action', u'Adventure', u'Crime', u'Drama', u'Mystery', u'Sci-Fi']"
-Mr. Bean: The Animated Series,(2002 TV Series),6.8,"4,257","[u'Animation', u'Comedy', u'Family']"
-American Pickers,(2010 TV Series),6.9,"4,255","[u'Documentary', u'Reality-TV']"
-Backstrom,(2015 TV Series),7.3,"4,269","[u'Comedy', u'Crime', u'Drama']"
-SeaQuest 2032,(1993 TV Series),6.7,"4,248","[u'Action', u'Family', u'Adventure', u'Sci-Fi']"
-Highschool of the Dead,(2010 TV Series),7.7,"4,244","[u'Animation', u'Action', u'Drama', u'Horror', u'Romance', u'Thriller']"
-Nash Bridges,(1996 TV Series),6.9,"4,243","[u'Action', u'Crime', u'Drama', u'Mystery']"
-How Not to Live Your Life,(2007 TV Series),8.4,"4,233",[u'Comedy']
-Lexx,(1997 TV Series),7.4,"4,230","[u'Adventure', u'Sci-Fi', u'Fantasy', u'Comedy']"
-Days of Our Lives,(1965 TV Series),5.2,"4,226",[u'Drama']
-Top Cat,(1961 TV Series),7.3,"4,222","[u'Animation', u'Comedy', u'Family']"
-Boston Public,(2000 TV Series),7.2,"4,218","[u'Comedy', u'Drama']"
-Threshold,(2005 TV Series),7.3,"4,219","[u'Action', u'Drama', u'Sci-Fi', u'Thriller']"
-Batman: The Brave and the Bold,(2008 TV Series),7.3,"4,198","[u'Animation', u'Action', u'Adventure', u'Crime', u'Family', u'Fantasy', u'Sci-Fi']"
-Death in Paradise,(2011 TV Series),8,"4,200","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Touched by an Angel,(1994 TV Series),5.9,"4,192","[u'Drama', u'Family', u'Fantasy']"
-Top Gear USA,(2010 TV Series),5.1,"4,188",[u'Documentary']
-Buck Rogers in the 25th Century,(1979 TV Series),6.9,"4,186","[u'Action', u'Adventure', u'Sci-Fi']"
-The Increasingly Poor Decisions of Todd Margaret,(2009 TV Series),7.7,"4,173",[u'Comedy']
-Little Britain USA,(2008 TV Series),7.7,"4,171",[u'Comedy']
-Remington Steele,(1982 TV Series),7.3,"4,167","[u'Adventure', u'Comedy', u'Crime', u'Drama', u'Mystery', u'Romance']"
-The Return of Sherlock Holmes,(1986 TV Series),8.9,"4,165","[u'Crime', u'Drama', u'Mystery']"
-Love/Hate,(2010 TV Series),8.4,"4,162","[u'Crime', u'Drama']"
-Death Valley,(2011 TV Series),7.9,"4,158","[u'Comedy', u'Horror']"
-Top Chef,(2006 TV Series),7.6,"4,156","[u'Game-Show', u'Reality-TV']"
-The Comeback,(2005 TV Series),8.1,"4,152",[u'Comedy']
-The Magic School Bus,(1994 TV Series),8,"4,149","[u'Animation', u'Fantasy', u'Adventure', u'Family']"
-Judging Amy,(1999 TV Series),6.9,"4,144",[u'Drama']
-The Melancholy of Haruhi Suzumiya,(2006 TV Series),8.1,"4,127","[u'Animation', u'Comedy', u'Sci-Fi']"
-The Millers,(2013 TV Series),6,"4,126",[u'Comedy']
-Goof Troop,(1992 TV Series),6.9,"4,115","[u'Animation', u'Family', u'Comedy']"
-Due South,(1994 TV Series),8.2,"4,108","[u'Adventure', u'Drama', u'Comedy', u'Crime']"
-Murphy Brown,(1988 TV Series),7,"4,107",[u'Comedy']
-The Graham Norton Show,(2007 TV Series),8.1,"4,105","[u'Comedy', u'Talk-Show']"
-Squidbillies,(2005 TV Series),6.7,"4,101","[u'Animation', u'Comedy']"
-Sanford and Son,(1972 TV Series),8,"4,101",[u'Comedy']
-My Boys,(2006 TV Series),7.5,"4,096",[u'Comedy']
-Are You Being Served?,(1972 TV Series),8.1,"4,092",[u'Comedy']
-Ghost Adventures,(2008 TV Series),7.7,"4,092","[u'History', u'Sci-Fi', u'Thriller']"
-The Rockford Files,(1974 TV Series),8.2,"4,079","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-John from Cincinnati,(2007 TV Series),7.3,"4,071",[u'Drama']
-Fortitude,(2015 TV Series),7.6,"4,118","[u'Drama', u'Mystery', u'Thriller']"
-WKRP in Cincinnati,(1978 TV Series),8.1,"4,039",[u'Comedy']
-The Bletchley Circle,(2012 TV Series),8,"4,022","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Face Off,(2011 TV Series),8.1,"4,027","[u'Game-Show', u'Reality-TV']"
-The Beverly Hillbillies,(1962 TV Series),7.2,"4,022","[u'Comedy', u'Family']"
-Home and Away,(1988 TV Series),5.2,"4,021",[u'Drama']
-Traveler,(2007 TV Series),8.4,"4,017","[u'Action', u'Crime', u'Thriller']"
-Enlisted,(2014 TV Series),7,"4,021",[u'Comedy']
-Masterchef,(2010 TV Series),7.3,"4,019",[u'Reality-TV']
-Life with Louie,(1995 TV Series),8.2,"4,017","[u'Animation', u'Family', u'Comedy']"
-Mock the Week,(2005 TV Series),8.1,"4,012","[u'Comedy', u'Game-Show']"
-Murdoch Mysteries,(2008 TV Series),8.1,"4,008","[u'Crime', u'Drama', u'Mystery']"
-The Marvelous Misadventures of Flapjack,(2008 TV Series),8.4,"4,003","[u'Animation', u'Comedy', u'Family']"
-"Bill Nye, the Science Guy",(1993 TV Series),8.5,"4,000","[u'Documentary', u'Comedy', u'Family']"
-Space: 1999,(1975 TV Series),7.3,"3,995","[u'Adventure', u'Drama', u'Sci-Fi']"
-South of Nowhere,(2005 TV Series),8.2,"3,990","[u'Drama', u'Romance']"
-Beauty and the Beast,(1987 TV Series),7,"3,987","[u'Crime', u'Fantasy', u'Drama', u'Romance']"
-State of Affairs,(2014 TV Series),6.5,"3,984","[u'Drama', u'Thriller']"
-Dance Moms,(2011 TV Series),4.6,"3,974",[u'Reality-TV']
-Mind of Mencia,(2005 TV Series),3.1,"3,966",[u'Comedy']
-Sledge Hammer!,(1986 TV Series),8.3,"3,966","[u'Action', u'Comedy']"
-Surviving Jack,(2014 TV Series),8.4,"3,944",[u'Comedy']
-Rocket Power,(1999 TV Series),6.9,"3,941","[u'Animation', u'Family', u'Sport']"
-Anthony Bourdain: No Reservations,(2005 TV Series),8.4,"3,935",[u'Documentary']
-"Yes, Prime Minister",(1986 TV Series),8.8,"3,935",[u'Comedy']
-The Young and the Restless,(1973 TV Series),5.1,"3,934",[u'Drama']
-Comic Book Men,(2012 TV Series),7.7,"3,930",[u'Reality-TV']
-Gomorrah,(2014 TV Series),8.8,"3,930","[u'Crime', u'Drama', u'Thriller']"
-Hill Street Blues,(1981 TV Series),8.2,"3,918",[u'Drama']
-Salute Your Shorts,(1991 TV Series),8.4,"3,914","[u'Comedy', u'Drama']"
-Super Fun Night,(2013 TV Series),6.4,"3,903",[u'Comedy']
-Mixology,(2013 TV Series),7.1,"3,902",[u'Comedy']
-Young & Hungry,(2014 TV Series),7.6,"3,888",[u'Comedy']
-Lark Rise to Candleford,(2008 TV Series),8.1,"3,875",[u'Drama']
-Guys with Kids,(2012 TV Series),6.3,"3,870",[u'Comedy']
-Hex,(2004 TV Series),7.2,"3,860","[u'Horror', u'Drama', u'Fantasy', u'Comedy']"
-The Outer Limits,(1963 TV Series),8.3,"3,856","[u'Fantasy', u'Horror', u'Sci-Fi', u'Drama', u'Mystery', u'Thriller']"
-The Mysteries of Laura,(2014 TV Series),6.4,"3,862","[u'Comedy', u'Crime', u'Mystery']"
-Endeavour,(2013 TV Series),8.6,"3,851","[u'Crime', u'Drama', u'Mystery']"
-Psychoville,(2009 TV Series),8,"3,830","[u'Comedy', u'Horror', u'Mystery', u'Sci-Fi']"
-Blade: The Series,(2006 TV Series),6.6,"3,813","[u'Action', u'Fantasy', u'Horror', u'Sci-Fi']"
-Extreme Makeover: Home Edition,(2003 TV Series),6.3,"3,811","[u'Family', u'Reality-TV']"
-The New Batman Adventures,(1997 TV Series),8.6,"3,809","[u'Animation', u'Action', u'Adventure', u'Crime', u'Drama', u'Family', u'Fantasy', u'Mystery']"
-Angel Beats!,(2010 TV Series),8.1,"3,803","[u'Animation', u'Action', u'Sci-Fi']"
-Strangers with Candy,(1999 TV Series),8.1,"3,801",[u'Comedy']
-Sweet Life,(2001 TV Series),8.7,"3,801","[u'Comedy', u'Family']"
-The Class,(2006 TV Series),8,"3,798",[u'Comedy']
-The Jeffersons,(1975 TV Series),7.5,"3,797",[u'Comedy']
-"Are You There, Chelsea?",(2012 TV Series),5.1,"3,792",[u'Comedy']
-Soap,(1977 TV Series),8.2,"3,793",[u'Comedy']
-The Looney Tunes Show,(2011 TV Series),7.8,"3,789","[u'Animation', u'Comedy', u'Family']"
-Ouran High School Host Club,(2006 TV Series),8.5,"3,787","[u'Animation', u'Comedy', u'Romance']"
-Ramsay's Kitchen Nightmares,(2004 TV Series),7.8,"3,781",[u'Reality-TV']
-Cult,(2013 TV Series),6.2,"3,780","[u'Drama', u'Mystery', u'Thriller']"
-Vicious,(2013 TV Series),7.9,"3,781",[u'Comedy']
-Kitchen Confidential,(2005 TV Series),8.3,"3,774",[u'Comedy']
-Relic Hunter,(1999 TV Series),6.5,"3,771","[u'Fantasy', u'Mystery', u'Adventure', u'Action', u'Sci-Fi']"
-Sam & Cat,(2013 TV Series),6,"3,771","[u'Comedy', u'Drama', u'Family']"
-Teletubbies,(1997 TV Series),3.3,"3,762","[u'Family', u'Fantasy', u'Musical']"
-Corner Gas,(2004 TV Series),8.2,"3,750",[u'Comedy']
-The Bugs Bunny/Road Runner Hour,(1968 TV Series),8.6,"3,752","[u'Animation', u'Comedy']"
-A to Z,(2014 TV Series),6.9,"3,750",[u'Comedy']
-A Touch of Frost,(1992 TV Series),7.8,"3,747","[u'Crime', u'Drama', u'Mystery']"
-Leave It to Beaver,(1957 TV Series),7.7,"3,744","[u'Comedy', u'Family']"
-Inside the Actors Studio,(1994 TV Series),8.8,"3,736",[u'Talk-Show']
-Over There,(2005 TV Series),7.9,"3,735","[u'Action', u'Drama', u'War']"
-The Proud Family,(2001 TV Series),6,"3,729","[u'Animation', u'Family', u'Comedy', u'Fantasy']"
-Mary Tyler Moore,(1970 TV Series),8.2,"3,722",[u'Comedy']
-Dynasty,(1981 TV Series),6.1,"3,720",[u'Drama']
-Life with Derek,(2005 TV Series),7.6,"3,717","[u'Comedy', u'Drama', u'Family']"
-Hope & Faith,(2003 TV Series),5.5,"3,711",[u'Comedy']
-Manhattan,(2014 TV Series),7.8,"3,708",[u'Drama']
-Chelsea Lately,(2007 TV Series),6.4,"3,702","[u'Comedy', u'Talk-Show']"
-Cracker,(1993 TV Series),8.5,"3,690","[u'Crime', u'Drama', u'Mystery']"
-Manhattan Love Story,(2014 TV Series),7,"3,690",[u'Comedy']
-Diagnosis Murder,(1993 TV Series),6.8,"3,691","[u'Crime', u'Mystery', u'Drama']"
-October Road,(2007 TV Series),7.5,"3,688","[u'Comedy', u'Drama', u'Romance']"
-Star Trek: The Animated Series,(1973 TV Series),7.7,"3,686","[u'Animation', u'Action', u'Adventure', u'Family', u'Sci-Fi']"
-Duckman: Private Dick/Family Man,(1994 TV Series),7.9,"3,683","[u'Animation', u'Comedy', u'Drama']"
-Saving Hope,(2012 TV Series),7.4,"3,682","[u'Drama', u'Fantasy']"
-¬Æon Flux,(1991 TV Series),7.8,"3,680","[u'Animation', u'Adventure', u'Sci-Fi', u'Thriller']"
-The Bachelor,(2002 TV Series),2.8,"3,675","[u'Game-Show', u'Reality-TV', u'Romance']"
-Kuzey G¬üney,(2011 TV Series),7.7,"3,678",[u'Drama']
-Mad Love,(2011 TV Series),6.7,"3,656","[u'Comedy', u'Romance']"
-"Dr. Katz, Professional Therapist",(1995 TV Series),7.4,"3,652","[u'Animation', u'Comedy']"
-Starsky and Hutch,(1975 TV Series),7.1,"3,640","[u'Action', u'Crime', u'Drama']"
-Eye Candy,(2015 TV Series),7.4,"3,639","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Undateable,(2014 TV Series),7.1,"3,629",[u'Comedy']
-El Chavo del Ocho,(1972 TV Series),9,"3,620","[u'Comedy', u'Family']"
-Knights of the Zodiac,(1986 TV Series),8.6,"3,615","[u'Animation', u'Adventure', u'Drama', u'Family', u'Fantasy']"
-Friday Night Dinner,(2011 TV Series),8,"3,595",[u'Comedy']
-The View,(1997 TV Series),3.1,"3,592",[u'Talk-Show']
-The Whitest Kids U'Know,(2007 TV Series),8.6,"3,590",[u'Comedy']
-Hit & Miss,(2012 TV Series),7.9,"3,587",[u'Drama']
-The Royle Family,(1998 TV Series),8,"3,586",[u'Comedy']
-The Mob Doctor,(2012 TV Series),6.4,"3,584","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Saving Grace,(2007 TV Series),7.5,"3,583","[u'Drama', u'Fantasy']"
-The Universe,(2007 TV Series),8.9,"3,553","[u'Documentary', u'History']"
-Matlock,(1986 TV Series),7,"3,550","[u'Crime', u'Drama', u'Mystery']"
-RuPaul's Drag Race,(2009 TV Series),7.9,"3,548",[u'Reality-TV']
-Alien Nation,(1989 TV Series),6.8,"3,540","[u'Drama', u'Sci-Fi']"
-The Thin Blue Line,(1995 TV Series),7.6,"3,538","[u'Comedy', u'Crime']"
-Partners,(2012 TV Series),6.3,"3,531",[u'Comedy']
-Queer as Folk,(1999 TV Series),8.2,"3,531",[u'Drama']
-The Avengers,(1961 TV Series),8.4,"3,529","[u'Action', u'Comedy', u'Crime', u'Mystery', u'Sci-Fi', u'Thriller']"
-Ben de ¬Özledim,(2013 TV Series),8.6,"3,535","[u'Comedy', u'Fantasy']"
-Men of a Certain Age,(2009 TV Series),8.1,"3,526","[u'Comedy', u'Drama']"
-¬Äkta m¬änniskor,(2012 TV Series),8,"3,526","[u'Drama', u'Sci-Fi', u'Thriller']"
-Aladdin,(1994 TV Series),7.2,"3,527","[u'Animation', u'Comedy', u'Family']"
-ReBoot,(1994 TV Series),8,"3,519","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Sci-Fi', u'Thriller']"
-Dog the Bounty Hunter,(2003 TV Series),5.2,"3,508","[u'Adventure', u'Crime', u'Reality-TV']"
-Earth 2,(1994 TV Series),6.9,"3,499","[u'Adventure', u'Sci-Fi']"
-The Flash,(1990 TV Series),7.3,"3,502","[u'Action', u'Crime', u'Fantasy', u'Sci-Fi']"
-Jeremiah,(2002 TV Series),6.9,"3,497","[u'Action', u'Drama', u'Sci-Fi']"
-The Exes,(2011 TV Series),6.9,"3,497",[u'Comedy']
-NCIS: New Orleans,(2014 TV Series),7.1,"3,503","[u'Crime', u'Drama']"
-Neighbours,(1985 TV Series),5.6,"3,477",[u'Drama']
-Bad Education,(2012 TV Series),7.6,"3,472",[u'Comedy']
-Popeye the Sailor,(1960 TV Series),7.2,"3,472","[u'Animation', u'Comedy', u'Family', u'Romance']"
-Teen Titans Go!,(2013 TV Series),5.3,"3,464","[u'Animation', u'Action', u'Comedy', u'Family']"
-A.N.T. Farm,(2011 TV Series),4.8,"3,456","[u'Comedy', u'Drama', u'Family']"
-Catfish: The TV Show,(2012 TV Series),7.2,"3,453",[u'Reality-TV']
-Ground Floor,(2013 TV Series),7.4,"3,450",[u'Comedy']
-Duck Dodgers,(2003 TV Series),7.8,"3,447","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Fantasy', u'Sci-Fi']"
-Betrayal,(2013 TV Series),7,"3,444",[u'Drama']
-The Oprah Winfrey Show,(1986 TV Series),5.2,"3,442","[u'Drama', u'Talk-Show']"
-The Memoirs of Sherlock Holmes,(1994 TV Series),8.8,"3,438","[u'Crime', u'Drama', u'Mystery']"
-The Defenders,(2010 TV Series),7.4,"3,438",[u'Drama']
-The Lone Gunmen,(2001 TV Series),7.5,"3,436","[u'Drama', u'Sci-Fi', u'Thriller']"
-Scooby-Doo! Mystery Incorporated,(2010 TV Series),7.9,"3,433","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Mystery']"
-Waking the Dead,(2000 TV Series),7.9,"3,432","[u'Crime', u'Drama', u'Mystery']"
-Green Lantern: The Animated Series,(2011 TV Series),8.2,"3,427","[u'Animation', u'Action', u'Sci-Fi']"
-Fraggle Rock,(1983 TV Series),8,"3,426","[u'Animation', u'Adventure', u'Comedy', u'Family', u'Fantasy', u'Musical']"
-The Night Shift,(2014 TV Series),7.2,"3,423","[u'Action', u'Comedy', u'Drama']"
-The Man in the High Castle,(2015 TV Series),8.5,"3,420","[u'Drama', u'Sci-Fi', u'Thriller']"
-Charlie's Angels,(2011 TV Series),4.4,"3,407","[u'Action', u'Adventure', u'Crime', u'Drama', u'Mystery']"
-Cops,(1989 TV Series),7.1,"3,399","[u'Action', u'Crime', u'Reality-TV']"
-Teen Mom,(2009 TV Series),3.4,"3,400",[u'Reality-TV']
-Eleventh Hour,(2008 TV Series),7.3,"3,388","[u'Drama', u'Sci-Fi', u'Thriller']"
-Parker Lewis Can't Lose,(1990 TV Series),8,"3,386",[u'Comedy']
-Whose Line Is It Anyway?,(1988 TV Series),8.3,"3,382","[u'Comedy', u'Game-Show']"
-Walking with Dinosaurs,(1999 TV Series),8.5,"3,379","[u'Documentary', u'Animation', u'History']"
-Future Diary,(2011 TV Series),8.1,"3,372","[u'Animation', u'Action', u'Drama', u'Romance', u'Thriller']"
-Borgia,(2011 TV Series),7.9,"3,364",[u'Drama']
-Ridiculousness,(2011 TV Series),6.2,"3,365","[u'Comedy', u'Reality-TV']"
-Hawaii Five-O,(1968 TV Series),7.5,"3,366","[u'Crime', u'Drama', u'Mystery']"
-Into the Universe with Stephen Hawking,(2010 TV Series),8.7,"3,363",[u'Documentary']
-Mad Dogs,(2011 TV Series),7.6,"3,362","[u'Comedy', u'Crime', u'Drama']"
-Ellen,(1994 TV Series),6.3,"3,357",[u'Comedy']
-"What's New, Scooby-Doo?",(2002 TV Series),7,"3,355","[u'Animation', u'Comedy', u'Mystery']"
-Crusade,(1999 TV Series),6.8,"3,351","[u'Action', u'Drama', u'Sci-Fi']"
-Bad Judge,(2014 TV Series),5.8,"3,354",[u'Comedy']
-Psycho-Pass,(2012 TV Series),8.4,"3,352","[u'Animation', u'Action', u'Crime', u'Sci-Fi', u'Thriller']"
-Dark Blue,(2009 TV Series),7.6,"3,328","[u'Action', u'Crime', u'Drama', u'Thriller']"
-American Dragon: Jake Long,(2005 TV Series),6.6,"3,320","[u'Animation', u'Family']"
-The Guardian,(2001 TV Series),7.4,"3,316","[u'Drama', u'Crime']"
-A Different World,(1987 TV Series),6.7,"3,315",[u'Comedy']
-CHiPs,(1977 TV Series),6.4,"3,314","[u'Crime', u'Drama', u'Mystery']"
-Criminal Minds: Suspect Behavior,(2011 TV Series),6.3,"3,304","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-1600 Penn,(2012 TV Series),5.7,"3,299",[u'Comedy']
-Jon & Kate Plus 8,(2007 TV Series),5,"3,294","[u'Family', u'Reality-TV']"
-Deception,(2013 TV Series),6.6,"3,294","[u'Crime', u'Drama', u'Mystery']"
-The Facts of Life,(1979 TV Series),6.7,"3,293",[u'Comedy']
-Primeval: New World,(2012 TV Series),6.6,"3,292","[u'Action', u'Adventure', u'Drama', u'Sci-Fi']"
-Captain Tsubasa,(1983 TV Series),8.1,"3,286","[u'Animation', u'Biography', u'Drama', u'Family', u'Sport']"
-Hotel Babylon,(2006 TV Series),7.7,"3,277","[u'Comedy', u'Drama']"
-Kojak,(1973 TV Series),7.1,"3,277","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-"Eerie, Indiana",(1991 TV Series),8.2,"3,258","[u'Drama', u'Family', u'Horror', u'Sci-Fi', u'Thriller']"
-The Waltons,(1971 TV Series),7.6,"3,253","[u'Drama', u'Family', u'Romance']"
-Fear Itself,(2008 TV Series),7,"3,248",[u'Horror']
-Superjail!,(2007 TV Series),8.1,"3,239","[u'Animation', u'Comedy', u'Crime', u'Fantasy']"
-Mission Hill,(1999 TV Series),8,"3,236","[u'Animation', u'Comedy', u'Drama']"
-Heartland,(2007 TV Series),8.3,"3,231","[u'Drama', u'Family']"
-Transformers Prime,(2010 TV Series),7.7,"3,227","[u'Animation', u'Action', u'Adventure', u'Sci-Fi']"
-Not Going Out,(2006 TV Series),7.9,"3,224",[u'Comedy']
-Fruits Basket,(2001 TV Series),8.2,"3,222","[u'Animation', u'Comedy', u'Drama', u'Fantasy', u'Romance']"
-Kung Fu,(1972 TV Series),7.8,"3,214","[u'Adventure', u'Drama', u'Western']"
-The Inbetweeners,(2012 TV Series),3.6,"3,207",[u'Comedy']
-Finding Carter,(2014 TV Series),8.1,"3,205",[u'Drama']
-Alarm f¬ür Cobra 11 - Die Autobahnpolizei,(1996 TV Series),6.3,"3,185","[u'Action', u'Crime', u'Drama']"
-Wonder Woman,(1975 TV Series),7,"3,185","[u'Action', u'Adventure', u'Family', u'Fantasy', u'Sci-Fi']"
-Amazing Stories,(1985 TV Series),7.5,"3,183","[u'Adventure', u'Fantasy', u'Horror', u'Mystery', u'Sci-Fi', u'Thriller']"
-Gungrave,(2003 TV Series),8.2,"3,172","[u'Animation', u'Action', u'Crime', u'Drama', u'Horror', u'Sci-Fi']"
-Golden Boy,(2013 TV Series),7.2,"3,164",[u'Drama']
-Underbelly,(2008 TV Series),8.2,"3,160","[u'Crime', u'Drama', u'Mystery']"
-Laverne & Shirley,(1976 TV Series),6.9,"3,162","[u'Comedy', u'Family']"
-McLeod's Daughters,(2001 TV Series),7,"3,144",[u'Drama']
-What About Brian,(2006 TV Series),7.3,"3,140","[u'Comedy', u'Drama', u'Romance']"
-Space Ghost Coast to Coast,(1994 TV Series),8.1,"3,135","[u'Animation', u'Comedy', u'Sci-Fi', u'Talk-Show']"
-Sarabhai vs Sarabhai,(2004 TV Series),9.5,"3,137",[u'Comedy']
-The Real World,(1992 TV Series),4.9,"3,133","[u'Drama', u'Reality-TV']"
-Lost in Space,(1965 TV Series),7.2,"3,131","[u'Adventure', u'Comedy', u'Family', u'Fantasy', u'Sci-Fi']"
-Good Times,(1974 TV Series),7.3,"3,130",[u'Comedy']
-Melrose Place,(2009 TV Series),6.1,"3,125",[u'Drama']
-Charles in Charge,(1984 TV Series),6.1,"3,119","[u'Comedy', u'Family']"
-Total Drama,(2007 TV Series),7.3,"3,118","[u'Animation', u'Comedy', u'Drama']"
-Smart Guy,(1997 TV Series),7.5,"3,115","[u'Comedy', u'Drama', u'Family']"
-Jeopardy!,(1984 TV Series),8.4,"3,113",[u'Game-Show']
-Privileged,(2008 TV Series),7,"3,113",[u'Comedy']
-Yalan D¬ünya,(2012 TV Series),7.5,"3,113",[u'Comedy']
-Blood+,(2005 TV Series),7.8,"3,108","[u'Animation', u'Action', u'Adventure', u'Drama', u'Horror']"
-Jack the Ripper,(1988 TV Series),7.7,"3,108","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Fantasy Island,(1977 TV Series),6.6,"3,104","[u'Adventure', u'Comedy', u'Drama', u'Fantasy']"
-Rob & Big,(2006 TV Series),7.9,"3,100","[u'Comedy', u'Reality-TV', u'Sport']"
-Prime Suspect,(2011 TV Series),7.3,"3,095","[u'Crime', u'Drama', u'Thriller']"
-The Girls Next Door,(2005 TV Series),5.7,"3,091","[u'Comedy', u'Reality-TV', u'Romance']"
-The Fall Guy,(1981 TV Series),7.1,"3,090","[u'Action', u'Adventure']"
-America's Funniest Home Videos,(1989 TV Series),6.3,"3,087","[u'Comedy', u'Family', u'Reality-TV']"
-Tokyo Ghoul,(2014 TV Series),8.4,"3,093","[u'Action', u'Drama', u'Fantasy', u'Horror', u'Animation']"
-V.I.P.,(1998 TV Series),4,"3,076","[u'Action', u'Comedy', u'Crime']"
-Coronation Street,(1960 TV Series),6,"3,070",[u'Drama']
-Aliens in America,(2007 TV Series),7.7,"3,067",[u'Comedy']
-Sirens,(2014 TV Series),7.7,"3,074",[u'Comedy']
-Phoenix Nights,(2001 TV Series),8.4,"3,060",[u'Comedy']
-The Honeymooners,(1955 TV Series),8.7,"3,057","[u'Comedy', u'Family']"
-Hardcore Pawn,(2009 TV Series),4.8,"3,055",[u'Reality-TV']
-Angry Boys,(2011 TV Series),7.8,"3,052",[u'Comedy']
-One Foot in the Grave,(1990 TV Series),8,"3,053",[u'Comedy']
-Kommissar Rex,(1994 TV Series),7.1,"3,047","[u'Crime', u'Action', u'Mystery']"
-Drunk History,(2013 TV Series),7.7,"3,048","[u'Comedy', u'History']"
-Rush,(2014 TV Series),7.6,"3,035","[u'Action', u'Drama']"
-Moone Boy,(2012 TV Series),8.2,"3,024",[u'Comedy']
-How It's Made,(2001 TV Series),7.9,"3,025",[u'Documentary']
-Clannad: After Story,(2008 TV Series),8.9,"3,019","[u'Animation', u'Comedy', u'Drama', u'Romance']"
-The Jerry Springer Show,(1991 TV Series),3.8,"3,012","[u'Comedy', u'Drama', u'Talk-Show']"
-Laguna Beach: The Real Orange County,(2004 TV Series),4.6,"3,010","[u'Drama', u'Reality-TV']"
-Second Spring,(1999 TV Series),8.8,"3,007","[u'Comedy', u'Drama', u'Family', u'Romance']"
-The O'Reilly Factor,(1996 TV Series),3.3,"3,001",[u'Talk-Show']
-Stella,(2005 TV Series),8.1,"2,995",[u'Comedy']
-Satyamev Jayate,(2012 TV Series),9.4,"2,994","[u'Documentary', u'Talk-Show']"
-G.I. Joe,(1985 TV Series),7.8,"2,988","[u'Animation', u'Action', u'Adventure', u'War']"
-The Game,(2006 TV Series),7,"2,981","[u'Comedy', u'Drama', u'Romance', u'Sport']"
-Wallander,(2005 TV Series),7.6,"2,972","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Moral Orel,(2005 TV Series),7.6,"2,956","[u'Animation', u'Comedy', u'Drama']"
-The Secret World of Alex Mack,(1994 TV Series),7.9,"2,958","[u'Comedy', u'Drama', u'Fantasy', u'Sci-Fi', u'Thriller']"
-Summerland,(2004 TV Series),7.1,"2,956",[u'Drama']
-WWE Smackdown!,(1999 TV Series),7.2,"2,947",[u'Sport']
-Green Acres,(1965 TV Series),7.4,"2,943","[u'Comedy', u'Family']"
-Motive,(2013 TV Series),7.2,"2,941","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-American Gothic,(1995 TV Series),8.2,"2,937","[u'Drama', u'Horror', u'Thriller']"
-Miss Fisher's Murder Mysteries,(2012 TV Series),8.4,"2,939","[u'Crime', u'Drama', u'Mystery']"
-General Hospital,(1963 TV Series),6.8,"2,917",[u'Drama']
-Sugar Rush,(2005 TV Series),8,"2,916","[u'Drama', u'Romance']"
-Birds of Prey,(2002 TV Series),6.6,"2,915","[u'Action', u'Adventure', u'Drama', u'Fantasy', u'Sci-Fi']"
-Shin Chan,(1992 TV Series),7.8,"2,912","[u'Animation', u'Action', u'Comedy', u'Fantasy']"
-Dad's Army,(1968 TV Series),8.1,"2,905","[u'Comedy', u'War']"
-Totally Spies!,(2001 TV Series),6.7,"2,903","[u'Animation', u'Comedy', u'Action', u'Mystery']"
-Commander in Chief,(2005 TV Series),6.7,"2,897",[u'Drama']
-The Untold History of the United States,(2012 TV Series),8.8,"2,899",[u'Documentary']
-Huff,(2004 TV Series),8.1,"2,896","[u'Drama', u'Comedy']"
-Devil May Cry,(2007 TV Series),7.3,"2,890","[u'Animation', u'Action', u'Fantasy', u'Horror']"
-Clannad,(2007 TV Series),8.3,"2,889","[u'Animation', u'Comedy', u'Drama', u'Fantasy', u'Romance']"
-House of Anubis,(2011 TV Series),7.5,"2,888","[u'Drama', u'Family', u'Mystery']"
-The PJs,(1999 TV Series),6.6,"2,882","[u'Animation', u'Comedy']"
-Porridge,(1974 TV Series),8.3,"2,882",[u'Comedy']
-Coach,(1989 TV Series),7,"2,882","[u'Comedy', u'Sport']"
-Small Wonder,(1985 TV Series),7.1,"2,880","[u'Comedy', u'Sci-Fi']"
-Brainiac: Science Abuse,(2003 TV Series),7,"2,879","[u'Documentary', u'Comedy']"
-Chasing Life,(2014 TV Series),8.1,"2,875",[u'Drama']
-Kickin' It,(2011 TV Series),6.1,"2,872","[u'Action', u'Comedy', u'Family']"
-The Day Today,(1994 TV Series),8.7,"2,874",[u'Comedy']
-My Own Worst Enemy,(2008 TV Series),7.4,"2,865","[u'Action', u'Drama', u'Thriller']"
-The Twilight Zone,(2002 TV Series),7.3,"2,856","[u'Adventure', u'Drama', u'Fantasy', u'Horror', u'Mystery', u'Sci-Fi']"
-Never Mind the Buzzcocks,(1996 TV Series),8.3,"2,854","[u'Comedy', u'Game-Show', u'Music']"
-The X Factor,(2004 TV Series),4.5,"2,851","[u'Music', u'Reality-TV']"
-Between Two Ferns with Zach Galifianakis,(2008 TV Series),8.7,"2,851","[u'Comedy', u'Talk-Show']"
-Samurai 7,(2004 TV Series),7.8,"2,846","[u'Animation', u'Action', u'Adventure', u'Sci-Fi']"
-Hollyoaks,(1995 TV Series),5.3,"2,836",[u'Drama']
-Tales from the Darkside,(1983 TV Series),7.7,"2,830","[u'Fantasy', u'Horror', u'Thriller']"
-Better with You,(2010 TV Series),6.9,"2,828",[u'Comedy']
-The Tick,(2001 TV Series),8,"2,814",[u'Comedy']
-Blue Exorcist,(2011 TV Series),7.8,"2,815","[u'Animation', u'Action', u'Drama', u'Fantasy', u'Horror']"
-Full Metal Panic!,(2002 TV Series),7.8,"2,812","[u'Action', u'Comedy', u'Romance', u'Sci-Fi', u'Animation']"
-Happy Town,(2010 TV Series),7.1,"2,811","[u'Drama', u'Mystery', u'Thriller']"
-Barney & Friends,(1992 TV Series),3.5,"2,811","[u'Adventure', u'Comedy', u'Family', u'Fantasy', u'Musical', u'Sci-Fi']"
-Wonder Showzen,(2005 TV Series),8.5,"2,802","[u'Animation', u'Comedy']"
-Detroit 1-8-7,(2010 TV Series),7.7,"2,798","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Wentworth,(2013 TV Series),8.6,"2,807","[u'Crime', u'Drama']"
-As Told by Ginger,(2000 TV Series),7.3,"2,800","[u'Animation', u'Family']"
-Pingu,(1986 TV Series),7.5,"2,800","[u'Animation', u'Family']"
-The Trip,(2010 TV Series),8.3,"2,792",[u'Comedy']
-GTO: Great Teacher Onizuka,(1998 TV Series),8.7,"2,792","[u'Drama', u'Comedy', u'Action', u'Adventure']"
-Bar¬átok k¬özt,(1998 TV Series),2.6,"2,789","[u'Family', u'Drama']"
-The Bachelorette,(2003 TV Series),2.9,"2,787","[u'Game-Show', u'Reality-TV', u'Romance']"
-Toddlers and Tiaras,(2009 TV Series),1.8,"2,785",[u'Reality-TV']
-A Pup Named Scooby-Doo,(1988 TV Series),6.7,"2,784","[u'Animation', u'Comedy', u'Mystery']"
-Chobits,(2002 TV Series),7.5,"2,782","[u'Animation', u'Comedy', u'Drama', u'Romance', u'Sci-Fi']"
-Fastlane,(2002 TV Series),7.4,"2,781","[u'Action', u'Crime', u'Thriller']"
-Sinbad,(2012 TV Series),6.6,"2,779","[u'Action', u'Adventure', u'Fantasy']"
-Siberia,(2013 TV Series),7.1,"2,774","[u'Adventure', u'Drama', u'Mystery', u'Sci-Fi', u'Thriller']"
-Nathan for You,(2013 TV Series),8.9,"2,768","[u'Documentary', u'Comedy']"
-Mortal Kombat: Conquest,(1998 TV Series),6.6,"2,766","[u'Action', u'Adventure', u'Fantasy', u'Sci-Fi']"
-Endgame,(2011 TV Series),7.7,"2,758","[u'Crime', u'Drama']"
-Wacky Races,(1968 TV Series),7.7,"2,756","[u'Animation', u'Family', u'Sport']"
-Ranma _,(1989 TV Series),8,"2,751","[u'Animation', u'Action', u'Comedy', u'Fantasy', u'Romance']"
-Web Therapy,(2011 TV Series),6.8,"2,754",[u'Comedy']
-Line of Duty,(2012 TV Series),8.2,"2,750","[u'Crime', u'Drama', u'Thriller']"
-Black Box,(2014 TV Series),6.5,"2,751",[u'Drama']
-Newhart,(1982 TV Series),7.8,"2,745",[u'Comedy']
-Pimp My Ride,(2004 TV Series),5.8,"2,746",[u'Reality-TV']
-The Real Housewives of Beverly Hills,(2010 TV Series),4.3,"2,743",[u'Reality-TV']
-New Tricks,(2003 TV Series),8,"2,744","[u'Comedy', u'Crime', u'Drama', u'Mystery']"
-Have I Got News for You,(1990 TV Series),8.1,"2,739","[u'Comedy', u'Game-Show']"
-The Wayans Bros.,(1995 TV Series),7.3,"2,738",[u'Comedy']
-Allen Gregory,(2011 TV Series),4.4,"2,735","[u'Animation', u'Comedy']"
-Jake 2.0,(2003 TV Series),6.8,"2,731","[u'Drama', u'Sci-Fi']"
-The Bionic Woman,(1976 TV Series),6.7,"2,738","[u'Action', u'Sci-Fi', u'Adventure']"
-Mind Your Language,(1977 TV Series),8.9,"2,723",[u'Comedy']
-Static Shock,(2000 TV Series),7.3,"2,723","[u'Animation', u'Action', u'Adventure', u'Family', u'Sci-Fi']"
-Dejimon adobench¬â,(1999 TV Series),7.7,"2,722","[u'Animation', u'Action', u'Adventure', u'Family', u'Sci-Fi', u'Thriller']"
-Picket Fences,(1992 TV Series),7.8,"2,718",[u'Drama']
-Real Husbands of Hollywood,(2013 TV Series),7.8,"2,714","[u'Comedy', u'Reality-TV']"
-Sonic the Hedgehog,(1993 TV Series),7.1,"2,712","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Fantasy', u'Sci-Fi']"
-Tom Goes to the Mayor,(2004 TV Series),6.8,"2,710","[u'Comedy', u'Animation']"
-Do No Harm,(2013 TV Series),6.9,"2,702",[u'Drama']
-Check It Out! with Dr. Steve Brule,(2010 TV Series),8.8,"2,701","[u'Comedy', u'Talk-Show']"
-"Welcome Back, Kotter",(1975 TV Series),7.2,"2,696",[u'Comedy']
-Life As We Know It,(2004 TV Series),8.1,"2,694","[u'Comedy', u'Drama']"
-Chase,(2010 TV Series),7,"2,685","[u'Action', u'Crime', u'Drama', u'Thriller']"
-Johnny Test,(2005 TV Series),5.3,"2,687","[u'Animation', u'Comedy', u'Sci-Fi']"
-The Carol Burnett Show,(1967 TV Series),8.8,"2,685","[u'Comedy', u'Family']"
-The Persuaders!,(1971 TV Series),8.2,"2,680","[u'Action', u'Adventure', u'Comedy']"
-Robin Hood,(1984 TV Series),8.5,"2,678","[u'Action', u'Fantasy', u'Drama']"
-Barney Miller,(1974 TV Series),8.1,"2,676","[u'Comedy', u'Drama']"
-Spider-Man,(2003 TV Series),7.3,"2,674","[u'Adventure', u'Animation', u'Drama', u'Sci-Fi', u'Action', u'Crime', u'Thriller']"
-The Booth at the End,(2011 TV Series),8.6,"2,672","[u'Drama', u'Mystery']"
-Earth: Final Conflict,(1997 TV Series),6.3,"2,670","[u'Action', u'Drama', u'Mystery', u'Sci-Fi']"
-Mutant X,(2001 TV Series),6,"2,670","[u'Action', u'Drama', u'Adventure', u'Fantasy', u'Sci-Fi']"
-The Odd Couple,(1970 TV Series),8,"2,671",[u'Comedy']
-Gunsmoke,(1955 TV Series),8,"2,669",[u'Western']
-Quincy M.E.,(1976 TV Series),7.3,"2,666","[u'Drama', u'Mystery', u'Crime']"
-Punky Brewster,(1984 TV Series),6.4,"2,661","[u'Family', u'Comedy']"
-The Streets of San Francisco,(1972 TV Series),7.3,"2,664","[u'Action', u'Crime', u'Drama', u'Mystery']"
-My Super Sweet 16,(2005 TV Series),1.9,"2,658","[u'Documentary', u'Reality-TV']"
-Escaflowne,(1996 TV Series),7.9,"2,656","[u'Animation', u'Action', u'Adventure', u'Drama', u'Fantasy', u'Romance', u'Sci-Fi']"
-Red Widow,(2013 TV Series),6.6,"2,655",[u'Drama']
-Kung Fu Panda: Legends of Awesomeness,(2011 TV Series),7.2,"2,653","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family']"
-Animal Practice,(2012 TV Series),5.7,"2,650",[u'Comedy']
-The Equalizer,(1985 TV Series),7.8,"2,651","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Renegade,(1992 TV Series),6,"2,651","[u'Action', u'Adventure', u'Crime', u'Drama']"
-Beyond Belief: Fact or Fiction,(1997 TV Series),8,"2,645","[u'Mystery', u'Thriller', u'Fantasy', u'Horror', u'Sci-Fi']"
-Kr¬öd M¬ändoon and the Flaming Sword of Fire,(2009 TV Series),7.2,"2,643","[u'Action', u'Comedy']"
-Lip Service,(2010 TV Series),7.7,"2,642",[u'Drama']
-River Monsters,(2009 TV Series),8.2,"2,637",[u'Documentary']
-Running Wilde,(2010 TV Series),7,"2,634",[u'Comedy']
-Solsidan,(2010 TV Series),8.2,"2,626","[u'Comedy', u'Drama']"
-The Sarah Jane Adventures,(2007 TV Series),7.6,"2,623","[u'Drama', u'Family', u'Sci-Fi']"
-8 Out of 10 Cats,(2005 TV Series),8,"2,624","[u'Comedy', u'Game-Show']"
-Hidden Palms,(2007 TV Series),7.1,"2,621","[u'Drama', u'Mystery']"
-Mahabharat,(1988 TV Series),9.3,"2,621","[u'Drama', u'War']"
-The Storyteller,(1987 TV Series),8.9,"2,616",[u'Fantasy']
-Geordie Shore,(2011 TV Series),5.2,"2,617","[u'Comedy', u'Drama', u'Reality-TV', u'Romance']"
-Man Seeking Woman,(2015 TV Series),7.4,"2,620",[u'Comedy']
-King & Maxwell,(2013 TV Series),7.2,"2,612","[u'Crime', u'Drama']"
-Whose Line Is It Anyway?,(2013 TV Series),8.7,"2,612","[u'Comedy', u'Game-Show']"
-Battle Creek,(2015 TV Series),7.4,"2,632","[u'Comedy', u'Crime', u'Drama']"
-Night Gallery,(1969 TV Series),8.1,"2,606","[u'Drama', u'Fantasy', u'Horror', u'Mystery', u'Sci-Fi', u'Thriller']"
-Mobile Suit Gundam Wing,(2000 TV Series),8.4,"2,605","[u'Animation', u'Action', u'Adventure', u'Drama', u'Romance', u'Sci-Fi']"
-The Benny Hill Show,(1969 TV Series),7.6,"2,603",[u'Comedy']
-Babar,(1989 TV Series),6.5,"2,606","[u'Animation', u'Comedy', u'Drama', u'Family', u'Fantasy']"
-Tenacious D: The Complete Master Works,(1997 TV Series),8.2,"2,600","[u'Comedy', u'Music']"
-Perry Mason,(1957 TV Series),8.3,"2,601","[u'Crime', u'Drama', u'Mystery']"
-Tell Me You Love Me,(2007 TV Series),7.4,"2,598","[u'Drama', u'Romance']"
-How the Universe Works,(2010 TV Series),9,"2,598",[u'Documentary']
-Shaman King,(2001 TV Series),8,"2,593","[u'Animation', u'Action', u'Adventure', u'Fantasy']"
-LazyTown,(2004 TV Series),5.7,"2,591","[u'Adventure', u'Comedy', u'Family', u'Music', u'Sport']"
-Murder in the First,(2014 TV Series),7.2,"2,594","[u'Crime', u'Drama', u'Mystery']"
-Important Things with Demetri Martin,(2009 TV Series),7.9,"2,589",[u'Comedy']
-All Grown Up,(2003 TV Series),5.2,"2,585","[u'Animation', u'Comedy', u'Drama', u'Family']"
-"Knowing Me, Knowing You with Alan Partridge",(1994 TV Series),8.4,"2,585","[u'Comedy', u'Talk-Show']"
-Deadman Wonderland,(2011 TV Series),7.6,"2,584","[u'Animation', u'Action', u'Drama', u'Horror', u'Thriller']"
-Jonny Quest,(1964 TV Series),8,"2,581","[u'Animation', u'Action', u'Adventure', u'Family', u'Sci-Fi']"
-Outlaw Star,(1998 TV Series),7.9,"2,579","[u'Animation', u'Comedy', u'Drama', u'Sci-Fi']"
-Wildboyz,(2003 TV Series),7.4,"2,577","[u'Documentary', u'Adventure', u'Comedy']"
-Welcome to Sweden,(2014 TV Series),6.6,"2,574",[u'Comedy']
-Xiaolin Showdown,(2003 TV Series),7.4,"2,570","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family']"
-Saved by the Bell: The College Years,(1993 TV Series),6.2,"2,571",[u'Comedy']
-Avonlea,(1990 TV Series),8.7,"2,567","[u'Drama', u'Adventure', u'Family', u'Mystery', u'Romance']"
-Flash Gordon,(2007 TV Series),4.7,"2,568","[u'Action', u'Adventure', u'Drama', u'Sci-Fi']"
-Lights Out,(2011 TV Series),8.1,"2,565",[u'Drama']
-Unsolved Mysteries,(1987 TV Series),8.3,"2,559","[u'Crime', u'Drama', u'Horror', u'Mystery', u'Thriller']"
-Big Train,(1998 TV Series),8,"2,559",[u'Comedy']
-Please Like Me,(2013 TV Series),8.4,"2,551","[u'Comedy', u'Drama']"
-The Life of Mammals,(2002 TV Series),9.2,"2,549",[u'Documentary']
-Hart to Hart,(1979 TV Series),6.7,"2,549","[u'Action', u'Adventure', u'Crime', u'Mystery', u'Romance']"
-Todd and the Book of Pure Evil,(2010 TV Series),8.3,"2,537","[u'Comedy', u'Horror', u'Sci-Fi']"
-Klovn,(2005 TV Series),8.4,"2,537",[u'Comedy']
-Deal or No Deal,(2005 TV Series),5,"2,538",[u'Game-Show']
-Nathan Barley,(2005 TV Series),8.3,"2,535",[u'Comedy']
-The Naked Brothers Band,(2007 TV Series),3.1,"2,530","[u'Comedy', u'Family', u'Musical']"
-The Greatest American Hero,(1981 TV Series),7.3,"2,530","[u'Adventure', u'Comedy', u'Sci-Fi']"
-Mama's Family,(1983 TV Series),7.2,"2,531",[u'Comedy']
-Tour of Duty,(1987 TV Series),8.4,"2,529","[u'Action', u'Drama', u'War']"
-She-Ra: Princess of Power,(1985 TV Series),6.7,"2,527","[u'Animation', u'Action', u'Adventure', u'Family', u'Sci-Fi']"
-Two Pints of Lager and a Packet of Crisps,(2001 TV Series),7,"2,527",[u'Comedy']
-Last Exile,(2003 TV Series),8,"2,523","[u'Action', u'Adventure', u'Animation', u'Fantasy']"
-Dog with a Blog,(2012 TV Series),4.6,"2,525","[u'Comedy', u'Drama', u'Family']"
-Silent Witness,(1996 TV Series),7.7,"2,521","[u'Crime', u'Drama', u'Mystery']"
-Dora the Explorer,(2000 TV Series),3.9,"2,518","[u'Animation', u'Adventure', u'Family']"
-ReGenesis,(2004 TV Series),8,"2,510","[u'Drama', u'Sci-Fi', u'Thriller']"
-Kingdom,(2014 TV Series),8.4,"2,519",[u'Drama']
-American Chopper: The Series,(2003 TV Series),6.4,"2,506","[u'Comedy', u'Reality-TV', u'Sport']"
-Inside Amy Schumer,(2013 TV Series),7,"2,502",[u'Comedy']
-Open All Hours,(1976 TV Series),7.7,"2,494",[u'Comedy']
-"Nu, pogodi!",(1969 TV Series),9,"2,494","[u'Action', u'Family', u'Animation', u'Comedy']"
-Vratice se rode,(2007 TV Series),9,"2,495","[u'Comedy', u'Crime', u'Drama', u'Romance']"
-Fatmag¬ül'¬ün Su¬çu Ne?,(2010 TV Series),5.3,"2,492","[u'Drama', u'Romance']"
-Lilo & Stitch: The Series,(2003 TV Series),6.6,"2,486","[u'Animation', u'Family', u'Sci-Fi', u'Comedy']"
-Silk,(2011 TV Series),7.9,"2,484",[u'Drama']
-Designing Women,(1986 TV Series),6.9,"2,479",[u'Comedy']
-D.Gray-man,(2006 TV Series),7.9,"2,468","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Drama', u'Fantasy', u'Horror']"
-Rake,(2014 TV Series),6.9,"2,464","[u'Action', u'Comedy', u'Drama']"
-Spy,(2011 TV Series),8.1,"2,463",[u'Comedy']
-Wildfire,(2005 TV Series),7.6,"2,462","[u'Drama', u'Family', u'Romance']"
-Painkiller Jane,(2007 TV Series),5.7,"2,460","[u'Action', u'Sci-Fi']"
-Spiral,(2005 TV Series),8.5,"2,461","[u'Crime', u'Drama', u'Mystery']"
-Beware the Batman,(2013 TV Series),7.5,"2,460","[u'Animation', u'Action']"
-The Osbournes,(2002 TV Series),5.5,"2,456","[u'Comedy', u'Music', u'Reality-TV']"
-Deadliest Warrior,(2009 TV Series),7.7,"2,453","[u'Action', u'Game-Show', u'History']"
-Dance Academy,(2010 TV Series),8.2,"2,454","[u'Drama', u'Family']"
-Steven Universe,(2013 TV Series),7.7,"2,468","[u'Animation', u'Action', u'Comedy', u'Family', u'Fantasy']"
-The Bob Newhart Show,(1972 TV Series),8.2,"2,451",[u'Comedy']
-Togetherness,(2015 TV Series),7.6,"2,451","[u'Comedy', u'Drama']"
-First Wave,(1998 TV Series),7.2,"2,441","[u'Adventure', u'Drama', u'Sci-Fi']"
-Kourtney & Kim Take Miami,(2009 TV Series),3.3,"2,440",[u'Reality-TV']
-The Middleman,(2008 TV Series),8.2,"2,438","[u'Comedy', u'Drama', u'Sci-Fi']"
-Boys Over Flowers,(2009 TV Series),8.4,"2,437","[u'Comedy', u'Drama', u'Romance']"
-CSI: Cyber,(2015 TV Series),4.8,"2,470","[u'Crime', u'Drama']"
-The Catherine Tate Show,(2004 TV Series),7.3,"2,434",[u'Comedy']
-Satisfaction,(2014 TV Series),7.3,"2,432",[u'Drama']
-The Brak Show,(2000 TV Series),7.2,"2,422","[u'Animation', u'Comedy', u'Sci-Fi']"
-Alpha House,(2013 TV Series),7.6,"2,419","[u'Comedy', u'Drama']"
-Friends with Benefits,(2011 TV Series),6.8,"2,419",[u'Comedy']
-The Red Road,(2014 TV Series),7.3,"2,420",[u'Drama']
-Kidnapped,(2006 TV Series),7.7,"2,412","[u'Crime', u'Drama']"
-Those Who Kill,(2014 TV Series),7.2,"2,414","[u'Action', u'Crime', u'Thriller']"
-Dungeons & Dragons,(1983 TV Series),8,"2,410","[u'Animation', u'Adventure', u'Comedy', u'Fantasy']"
-Pee-wee's Playhouse,(1986 TV Series),8,"2,403","[u'Family', u'Comedy', u'Musical']"
-Chicago Hope,(1994 TV Series),6.7,"2,403","[u'Drama', u'Mystery', u'Thriller']"
-Dark Shadows,(1966 TV Series),8.1,"2,404","[u'Drama', u'Fantasy', u'Horror', u'Mystery', u'Romance', u'Sci-Fi', u'Thriller']"
-The Almighty Johnsons,(2011 TV Series),8.3,"2,407",[u'Drama']
-The L.A. Complex,(2012 TV Series),7.3,"2,394",[u'Drama']
-Unfabulous,(2004 TV Series),6.1,"2,392",[u'Comedy']
-Inspector George Gently,(2007 TV Series),7.9,"2,389","[u'Crime', u'Drama', u'Mystery']"
-Swat Kats: The Radical Squadron,(1993 TV Series),8.6,"2,385","[u'Animation', u'Action', u'Family', u'Sci-Fi', u'Thriller']"
-Mercy,(2009 TV Series),7.1,"2,385",[u'Drama']
-Seven Days,(1998 TV Series),7.2,"2,384","[u'Sci-Fi', u'Action', u'Drama']"
-The Inspector Lynley Mysteries,(2001 TV Series),7.4,"2,381","[u'Crime', u'Drama', u'Mystery']"
-When They Cry,(2006 TV Series),8.3,"2,362","[u'Animation', u'Horror', u'Mystery', u'Thriller']"
-Man Up,(2011 TV Series),6.6,"2,351",[u'Comedy']
-As Time Goes By,(1992 TV Series),8.3,"2,351","[u'Comedy', u'Romance']"
-Law & Order: UK,(2009 TV Series),7.5,"2,348","[u'Crime', u'Drama', u'Mystery']"
-Monday Mornings,(2013 TV Series),7.7,"2,343",[u'Drama']
-The Glee Project,(2011 TV Series),6.7,"2,342",[u'Reality-TV']
-Marvel's Avengers Assemble,(2013 TV Series),6.9,"2,343","[u'Animation', u'Action', u'Adventure', u'Sci-Fi']"
-Less Than Perfect,(2002 TV Series),7.1,"2,339",[u'Comedy']
-Code Monkeys,(2007 TV Series),7,"2,337","[u'Animation', u'Comedy']"
-Dennis the Menace,(1986 TV Series),6.3,"2,334","[u'Animation', u'Family', u'Comedy']"
-Highway to Heaven,(1984 TV Series),6.5,"2,331","[u'Drama', u'Family', u'Fantasy']"
-Cashmere Mafia,(2008 TV Series),6.6,"2,328","[u'Comedy', u'Drama']"
-Ben 10: Alien Force,(2008 TV Series),7,"2,326","[u'Animation', u'Action', u'Family', u'Sci-Fi']"
-The Man Show,(1999 TV Series),6.8,"2,313","[u'Comedy', u'Talk-Show']"
-Quack Pack,(1996 TV Series),6.9,"2,311","[u'Animation', u'Adventure', u'Comedy', u'Family']"
-Chaos,(2011 TV Series),7.1,"2,306","[u'Action', u'Adventure', u'Drama']"
-I Hate My Teenage Daughter,(2011 TV Series),5.2,"2,305",[u'Comedy']
-Muppet Babies,(1984 TV Series),7.7,"2,307","[u'Animation', u'Family']"
-L.A. Law,(1986 TV Series),7,"2,304",[u'Drama']
-Fate/Zero,(2011 TV Series),8.4,"2,305","[u'Animation', u'Action', u'Fantasy']"
-Reckless,(2014 TV Series),7.1,"2,300","[u'Crime', u'Drama']"
-Odyssey 5,(2002 TV Series),7.6,"2,295","[u'Drama', u'Mystery', u'Sci-Fi']"
-Liv and Maddie,(2013 TV Series),6.1,"2,294","[u'Comedy', u'Drama', u'Family']"
-Durarara!!,(2010 TV Series),8.2,"2,293","[u'Animation', u'Drama', u'Thriller']"
-Living Single,(1993 TV Series),7.2,"2,291",[u'Comedy']
-Teachers,(2001 TV Series),7.9,"2,286","[u'Comedy', u'Drama']"
-Fauji,(1988 TV Series),8.5,"2,285","[u'Action', u'Drama']"
-Bent,(2012 TV Series),6.9,"2,277",[u'Comedy']
-S¬üper Baba,(1993 TV Series),8.9,"2,276","[u'Drama', u'Comedy', u'Family']"
-Kroll Show,(2013 TV Series),6.8,"2,275",[u'Comedy']
-Auction Hunters,(2010 TV Series),6,"2,271",[u'Reality-TV']
-Lab Rats,(2012 TV Series),6.5,"2,275","[u'Action', u'Comedy', u'Sci-Fi']"
-The Mysterious Cities of Gold,(1982 TV Series),8.8,"2,267","[u'Animation', u'Adventure', u'Family']"
-Romanzo criminale - La serie,(2008 TV Series),8.7,"2,263","[u'Crime', u'Drama', u'Thriller']"
-Cake Boss,(2009 TV Series),6.8,"2,261","[u'Family', u'Reality-TV']"
-The Saint,(1962 TV Series),7.6,"2,259","[u'Action', u'Comedy', u'Crime', u'Drama']"
-Intruders,(2014 TV Series),6.7,"2,256","[u'Mystery', u'Thriller']"
-Otvorena vrata,(1994 TV Series),9.2,"2,255",[u'Comedy']
-Il ¬était une fois... la vie,(1986 TV Series),8.3,"2,258","[u'Animation', u'Family']"
-The Fast Show,(1994 TV Series),8.4,"2,253",[u'Comedy']
-Ja'mie: Private School Girl,(2013 TV Series),7.2,"2,250",[u'Comedy']
-American Dreams,(2002 TV Series),7.5,"2,248","[u'Drama', u'Music']"
-Cavemen,(2007 TV Series),4.4,"2,246",[u'Comedy']
-Matador,(1978 TV Series),9.2,"2,241",[u'Drama']
-Good Eats,(1999 TV Series),9.1,"2,238",[u'Documentary']
-The No. 1 Ladies' Detective Agency,(2008 TV Series),8.3,"2,236","[u'Comedy', u'Crime', u'Drama', u'Family', u'Mystery']"
-The Goodwin Games,(2013 TV Series),6.7,"2,235",[u'Comedy']
-N.H.K ni y¬ôkoso!,(2006 TV Series),8.5,"2,236","[u'Animation', u'Comedy', u'Drama', u'Romance']"
-Karadayi,(2012 TV Series),8,"2,237","[u'Crime', u'Drama']"
-Swingtown,(2008 TV Series),7.7,"2,226",[u'Drama']
-Thunderbirds,(1965 TV Series),7.9,"2,224","[u'Animation', u'Action', u'Family', u'Sci-Fi']"
-Robotech,(1985 TV Series),8.6,"2,220","[u'Animation', u'Action', u'Adventure', u'Sci-Fi']"
-The Real Housewives of New Jersey,(2009 TV Series),3.8,"2,219",[u'Reality-TV']
-Criss Angel Mindfreak,(2005 TV Series),6.1,"2,215",[u'Reality-TV']
-Family Tree,(2013 TV Series),7.5,"2,214",[u'Comedy']
-Worst Week,(2008 TV Series),7.6,"2,210",[u'Comedy']
-Kill La Kill,(2013 TV Series),8.2,"2,213","[u'Animation', u'Action', u'Comedy', u'Drama', u'Sci-Fi']"
-The Road Runner Show,(1966 TV Series),8.1,"2,209","[u'Animation', u'Family', u'Comedy']"
-The Wild Wild West,(1965 TV Series),8.3,"2,205","[u'Action', u'Adventure', u'Comedy', u'Sci-Fi', u'Thriller', u'Western']"
-Olympus,(2015 TV Series),6.6,"2,744",[u'Fantasy']
-Weird Science,(1994 TV Series),6.9,"2,194","[u'Comedy', u'Sci-Fi']"
-Black Butler,(2008 TV Series),8.1,"2,196","[u'Animation', u'Comedy', u'Crime', u'Drama', u'Horror', u'Mystery', u'Thriller']"
-Bobby's World,(1990 TV Series),7.5,"2,195","[u'Animation', u'Family']"
-Judge Judy,(1996 TV Series),5.9,"2,193","[u'Crime', u'Reality-TV']"
-My Life as a Teenage Robot,(2003 TV Series),6.8,"2,193","[u'Animation', u'Action', u'Comedy', u'Family', u'Sci-Fi']"
-Cardcaptor Sakura,(1998 TV Series),8,"2,190","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Fantasy', u'Romance']"
-Vice,(2013 TV Series),8.9,"2,196","[u'Documentary', u'News']"
-The Man from U.N.C.L.E.,(1964 TV Series),7.9,"2,191","[u'Action', u'Adventure', u'Crime']"
-Profiler,(1996 TV Series),7.3,"2,186","[u'Crime', u'Drama', u'Thriller', u'Mystery']"
-Biker Mice from Mars,(1993 TV Series),7.1,"2,185","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Sci-Fi']"
-Emergency!,(1972 TV Series),7.9,"2,186","[u'Action', u'Adventure', u'Comedy', u'Drama']"
-Hawthorne,(2009 TV Series),6.1,"2,182",[u'Drama']
-Voltron: Defender of the Universe,(1984 TV Series),7.9,"2,182","[u'Animation', u'Family', u'Sci-Fi']"
-Would I Lie to You?,(2007 TV Series),8.1,"2,182","[u'Comedy', u'Game-Show']"
-Sailor Moon,(1992 TV Series),8,"2,183","[u'Animation', u'Action', u'Comedy', u'Fantasy', u'Romance', u'Thriller']"
-The Beast,(2009 TV Series),8,"2,178","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-The Real Housewives of Orange County,(2006 TV Series),3.8,"2,176","[u'Documentary', u'Reality-TV']"
-Black Dynamite,(2011 TV Series),8.2,"2,173","[u'Animation', u'Action', u'Comedy', u'Crime']"
-Big Brother: UK,(2000 TV Series),4.2,"2,170","[u'Game-Show', u'Reality-TV']"
-Trauma,(2009 TV Series),7.7,"2,170",[u'Drama']
-Umbre,(2014 TV Series),9.3,"2,171",[u'Drama']
-Kolchak: The Night Stalker,(1974 TV Series),8.6,"2,168","[u'Comedy', u'Horror', u'Mystery', u'Thriller']"
-The Ultimate Fighter,(2005 TV Series),7.9,"2,165","[u'Action', u'Reality-TV', u'Sport']"
-Perfect Couples,(2010 TV Series),6.5,"2,163","[u'Comedy', u'Romance']"
-Napoleon Dynamite,(2012 TV Series),6.3,"2,160","[u'Animation', u'Comedy']"
-The Odd Couple,(2015 TV Series),6.4,"2,168",[u'Comedy']
-Los Serrano,(2003 TV Series),7.3,"2,153","[u'Comedy', u'Family', u'Drama', u'Romance']"
-Him & Her,(2010 TV Series),7.9,"2,152",[u'Comedy']
-Bad Girls Club,(2006 TV Series),4.7,"2,151",[u'Reality-TV']
-The Real Housewives of Atlanta,(2008 TV Series),4,"2,147",[u'Reality-TV']
-The Lizzie Bennet Diaries,(2012 TV Series),9,"2,142","[u'Comedy', u'Drama']"
-Pacific Blue,(1996 TV Series),5.5,"2,142","[u'Action', u'Drama']"
-My Babysitter's a Vampire,(2011 TV Series),7.2,"2,143","[u'Action', u'Comedy', u'Fantasy']"
-Secrets and Lies,(2015 TV Series),7.4,"2,160","[u'Crime', u'Drama']"
-Simon & Simon,(1981 TV Series),7.1,"2,144","[u'Action', u'Mystery', u'Drama']"
-Marry Me,(2014 TV Series),6.5,"2,141",[u'Comedy']
-Bir Demet Tiyatro,(1995 TV Series),8.5,"2,138","[u'Comedy', u'Family']"
-Miami Ink,(2005 TV Series),6.8,"2,135","[u'Documentary', u'Reality-TV']"
-2 Stupid Dogs,(1993 TV Series),7.7,"2,132","[u'Animation', u'Comedy', u'Family']"
-Basilisk: K¬ôga ninp¬ô ch¬ô,(2005 TV Series),8,"2,129","[u'Animation', u'Drama', u'Fantasy']"
-Girlfriends,(2000 TV Series),6.9,"2,129",[u'Comedy']
-Mental,(2009 TV Series),7,"2,122",[u'Drama']
-Camp Lazlo!,(2005 TV Series),6.6,"2,123","[u'Animation', u'Comedy', u'Family']"
-The Invisible Man,(2000 TV Series),7.7,"2,122","[u'Comedy', u'Thriller', u'Sci-Fi']"
-Burning Love,(2012 TV Series),8,"2,121","[u'Comedy', u'Romance']"
-Undercover Boss,(2010 TV Series),5.9,"2,118",[u'Reality-TV']
-Dog Whisperer with Cesar Millan,(2004 TV Series),8.1,"2,117","[u'Family', u'Reality-TV']"
-Gold Rush: Alaska,(2010 TV Series),7,"2,114",[u'Reality-TV']
-The Lost World,(1999 TV Series),7.2,"2,112","[u'Action', u'Sci-Fi', u'Adventure']"
-Caroline in the City,(1995 TV Series),6.2,"2,112",[u'Comedy']
-Planet of the Apes,(1974 TV Series),7.2,"2,108","[u'Adventure', u'Sci-Fi', u'Thriller']"
-Blakes 7,(1978 TV Series),8,"2,108","[u'Adventure', u'Drama', u'Sci-Fi']"
-Testees,(2008 TV Series),7.3,"2,107",[u'Comedy']
-Glass Home,(2010 TV Series),8.2,"2,106",[u'Drama']
-The Case-Book of Sherlock Holmes,(1991 TV Series),8.9,"2,102","[u'Crime', u'Drama', u'Horror', u'Mystery', u'Thriller']"
-The Chaser's War on Everything,(2006 TV Series),8.9,"2,100",[u'Comedy']
-Cidade dos Homens,(2002 TV Series),8.4,"2,098","[u'Comedy', u'Crime', u'Drama']"
-A Touch of Cloth,(2012 TV Series),8,"2,095","[u'Action', u'Comedy', u'Crime', u'Mystery']"
-Blue's Clues,(1996 TV Series),6.8,"2,094","[u'Family', u'Animation']"
-The Returned,(2015 TV Series),7.3,"2,131","[u'Drama', u'Horror']"
-Camp,(2013 TV Series),7.4,"2,089","[u'Comedy', u'Drama']"
-Cybill,(1995 TV Series),6.8,"2,087",[u'Comedy']
-Allegiance,(2015 TV Series),7.3,"2,091","[u'Drama', u'Thriller']"
-Friday the 13th,(1987 TV Series),7.7,"2,072",[u'Horror']
-Uncle Grandpa,(2010 TV Series),4.6,"2,069","[u'Animation', u'Comedy', u'Fantasy']"
-Golden Years,(1991 TV Series),5.2,"2,063","[u'Drama', u'Horror', u'Sci-Fi', u'Thriller']"
-Cavalcade of Cartoon Comedy,(2008 TV Series),6.5,"2,058","[u'Animation', u'Comedy']"
-LA Ink,(2007 TV Series),5.6,"2,056","[u'Documentary', u'Reality-TV']"
-Human Giant,(2007 TV Series),8.4,"2,056",[u'Comedy']
-Love Bites,(2011 TV Series),7.6,"2,056",[u'Comedy']
-16 and Pregnant,(2009 TV Series),3,"2,049",[u'Reality-TV']
-Comedians in Cars Getting Coffee,(2012 TV Series),8.3,"2,048","[u'Comedy', u'Talk-Show']"
-Chosen,(2013 TV Series),7.5,"2,047",[u'Drama']
-Wishbone,(1995 TV Series),8.5,"2,046","[u'Adventure', u'Comedy', u'Family']"
-Comedy Nights with Kapil,(2013 TV Series),8.7,"2,044",[u'Comedy']
-Memphis Beat,(2010 TV Series),7.6,"2,041","[u'Comedy', u'Crime', u'Drama', u'Music']"
-Mr. Belvedere,(1985 TV Series),6.6,"2,043","[u'Comedy', u'Family']"
-Megas XLR,(2004 TV Series),8.4,"2,036","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Fantasy', u'Sci-Fi']"
-XIII: The Series,(2011 TV Series),6.8,"2,035","[u'Action', u'Crime', u'Mystery', u'Thriller']"
-Happily Divorced,(2011 TV Series),6.9,"2,023",[u'Comedy']
-1000 Ways to Die,(2008 TV Series),7.2,"2,023","[u'Comedy', u'Drama', u'Horror']"
-Paranormal State,(2007 TV Series),5.1,"2,016",[u'Reality-TV']
-Beyblade,(2001 TV Series),6.5,"2,014","[u'Animation', u'Action', u'Family', u'Sport', u'Thriller']"
-Full Metal Panic! The Second Raid,(2005 TV Series),8,"2,011","[u'Action', u'Adventure', u'Animation', u'Comedy', u'Sci-Fi']"
-MASK,(1985 TV Series),7.2,"2,010","[u'Animation', u'Action', u'Adventure', u'Family', u'Sci-Fi']"
-St. Elsewhere,(1982 TV Series),7.9,"2,008",[u'Drama']
-Puella Magi Madoka Magica,(2011 TV Series),8.5,"1,999","[u'Animation', u'Fantasy', u'Mystery', u'Thriller']"
-Once and Again,(1999 TV Series),7.8,"1,995","[u'Drama', u'Family', u'Romance']"
-30 for 30,(2009 TV Series),8.9,"1,994","[u'Documentary', u'Biography', u'Sport']"
-Hajime no ippo,(2000 TV Series),8.9,"1,990","[u'Animation', u'Action', u'Comedy', u'Sport']"
-Dream On,(1990 TV Series),7.5,"1,988",[u'Comedy']
-Vampire Knight,(2008 TV Series),8,"1,987","[u'Animation', u'Fantasy', u'Horror', u'Romance']"
-Mister Rogers' Neighborhood,(1968 TV Series),8.5,"1,988","[u'Family', u'Fantasy', u'Music']"
-Bad Teacher,(2014 TV Series),5.2,"1,986",[u'Comedy']
-"Lud, zbunjen, normalan",(2007 TV Series),8.9,"1,983",[u'Comedy']
-Samurai X: Reflection,(2001 TV Series),8.2,"1,982","[u'Animation', u'Action', u'Drama', u'Romance']"
-Beyaz Show,(1996 TV Series),7.5,"1,980",[u'Talk-Show']
-The Tribe,(1999 TV Series),7.7,"1,978","[u'Drama', u'Romance', u'Sci-Fi']"
-Azumanga Daioh,(2002 TV Series),8.5,"1,976","[u'Animation', u'Comedy']"
-Saxondale,(2006 TV Series),7.9,"1,971",[u'Comedy']
-Crusoe,(2008 TV Series),6.9,"1,968","[u'Adventure', u'Drama']"
-Masters of the Universe vs. the Snake Men,(2002 TV Series),7.3,"1,968","[u'Adventure', u'Animation', u'Family', u'Fantasy', u'Sci-Fi', u'Action']"
-The Monkees,(1966 TV Series),7.6,"1,969","[u'Comedy', u'Music']"
-Silver Spoons,(1982 TV Series),6.1,"1,965","[u'Comedy', u'Family']"
-¬Öyle Bir Ge¬çer Zaman ki,(2010 TV Series),6.4,"1,965",[u'Drama']
-Scott & Bailey,(2011 TV Series),7.8,"1,963","[u'Crime', u'Drama']"
-Undergrads,(2001 TV Series),7.8,"1,958","[u'Animation', u'Comedy']"
-Plebs,(2013 TV Series),7.9,"1,954",[u'Comedy']
-Akame ga Kill!,(2014 TV Series),8.3,"1,961","[u'Animation', u'Action', u'Comedy', u'Drama', u'Fantasy', u'Horror', u'Romance', u'Thriller']"
-The Boat,(2011 TV Series),7.6,"1,950","[u'Adventure', u'Drama', u'Mystery', u'Sci-Fi']"
-Eden of the East,(2009 TV Series),7.9,"1,952","[u'Animation', u'Action', u'Comedy', u'Drama', u'Mystery', u'Romance']"
-Golden Boy,(1995 TV Series),8.1,"1,949","[u'Animation', u'Comedy']"
-Son of the Beach,(2000 TV Series),7,"1,940",[u'Comedy']
-Kathy Griffin: My Life on the D-List,(2005 TV Series),7.4,"1,940","[u'Comedy', u'Reality-TV']"
-T.J. Hooker,(1982 TV Series),6,"1,940","[u'Action', u'Crime', u'Drama']"
-Still Game,(2002 TV Series),8.9,"1,936",[u'Comedy']
-Grace Under Fire,(1993 TV Series),6.2,"1,938","[u'Comedy', u'Romance']"
-Waterloo Road,(2006 TV Series),7.4,"1,936","[u'Drama', u'Romance']"
-Whale Wars,(2008 TV Series),6,"1,934","[u'Documentary', u'Reality-TV']"
-The Forgotten,(2009 TV Series),6.6,"1,930","[u'Crime', u'Drama']"
-Back to You,(2007 TV Series),6.6,"1,928",[u'Comedy']
-Men in Black: The Series,(1997 TV Series),6.9,"1,927","[u'Animation', u'Comedy', u'Sci-Fi', u'Action']"
-"True Jackson, VP",(2008 TV Series),5.6,"1,927",[u'Comedy']
-Kaygisizlar,(1994 TV Series),8.4,"1,926",[u'Comedy']
-Little Mosque on the Prairie,(2007 TV Series),6.1,"1,926",[u'Comedy']
-The Price Is Right,(1972 TV Series),7.9,"1,926","[u'Family', u'Game-Show']"
-Jack of All Trades,(2000 TV Series),8,"1,925","[u'Adventure', u'Action', u'Comedy', u'Fantasy']"
-Heidi: A Girl of the Alps,(1974 TV Series),7.5,"1,926","[u'Animation', u'Adventure', u'Drama', u'Family', u'Mystery']"
-The New Scooby-Doo Movies,(1972 TV Series),7.7,"1,922","[u'Animation', u'Comedy', u'Mystery']"
-Rob Dyrdek's Fantasy Factory,(2009 TV Series),7.9,"1,921","[u'Comedy', u'Reality-TV']"
-Unhappily Ever After,(1995 TV Series),6.9,"1,920",[u'Comedy']
-Ice Road Truckers,(2007 TV Series),6.4,"1,921","[u'Documentary', u'Adventure', u'Reality-TV']"
-1 Erkek 1 Kadin,(2012 TV Series),7.8,"1,921",[u'Comedy']
-Kindred: The Embraced,(1996 TV Series),7.7,"1,917","[u'Drama', u'Fantasy', u'Horror', u'Romance']"
-The New Adventures of Winnie the Pooh,(1988 TV Series),7.6,"1,916","[u'Animation', u'Comedy', u'Family', u'Fantasy']"
-Comedy Bang! Bang!,(2012 TV Series),8,"1,918","[u'Comedy', u'Talk-Show']"
-Destination Truth,(2007 TV Series),7.5,"1,915",[u'Reality-TV']
-The Moaning of Life,(2013 TV Series),8.3,"1,919","[u'Adventure', u'Comedy', u'Reality-TV']"
-Dag,(2010 TV Series),8.6,"1,911","[u'Comedy', u'Drama']"
-The Tunnel,(2013 TV Series),7.7,"1,912",[u'Drama']
-Growing Up Fisher,(2014 TV Series),7.6,"1,909",[u'Comedy']
-Another,(2012 TV Series),8,"1,908","[u'Animation', u'Drama', u'Horror', u'Mystery']"
-NTSF:SD:SUV,(2011 TV Series),7.4,"1,906",[u'Comedy']
-Permanent Roommates,(2014 TV Series),9.1,"1,906","[u'Comedy', u'Romance']"
-The Animals of Farthing Wood,(1993 TV Series),8.6,"1,901","[u'Animation', u'Family']"
-Toradora!,(2008 TV Series),8.3,"1,901","[u'Animation', u'Comedy', u'Romance']"
-Instant Star,(2004 TV Series),7.7,"1,892","[u'Drama', u'Music']"
-Britain's Got Talent,(2007 TV Series),6.1,"1,893",[u'Reality-TV']
-Slings and Arrows,(2003 TV Series),8.9,"1,889",[u'Comedy']
-In the Heat of the Night,(1988 TV Series),7.4,"1,890","[u'Drama', u'Crime', u'Mystery']"
-Passions,(1999 TV Series),5.9,"1,888",[u'Drama']
-Degrassi High,(1987 TV Series),8.1,"1,887","[u'Drama', u'Family', u'Romance']"
-Moesha,(1996 TV Series),5.4,"1,885","[u'Comedy', u'Drama', u'Family']"
-Pepper Ann,(1997 TV Series),7.6,"1,882","[u'Animation', u'Family', u'Comedy']"
-Point Pleasant,(2005 TV Series),7.3,"1,880","[u'Crime', u'Drama', u'Horror', u'Mystery', u'Thriller']"
-Dual Survival,(2010 TV Series),7.8,"1,878","[u'Adventure', u'Reality-TV']"
-K¬ôky¬ô shihen Eureka Sebun,(2005 TV Series),8.2,"1,875","[u'Animation', u'Drama', u'Romance', u'Sci-Fi']"
-Attack of the Show!,(2005 TV Series),7.7,"1,874",[u'News']
-Maude,(1972 TV Series),7.3,"1,872",[u'Comedy']
-Standoff,(2006 TV Series),7.7,"1,869","[u'Crime', u'Drama', u'Romance', u'Thriller']"
-Maron,(2013 TV Series),7.8,"1,869",[u'Comedy']
-Genis aile,(2009 TV Series),7.4,"1,871",[u'Comedy']
-Sonic Highways,(2014 TV Series),8.9,"1,869","[u'Documentary', u'Music']"
-Falcon Crest,(1981 TV Series),6.2,"1,869",[u'Drama']
-The Alfred Hitchcock Hour,(1962 TV Series),8.7,"1,861","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Alvin & the Chipmunks,(1983 TV Series),6.8,"1,858","[u'Family', u'Animation', u'Comedy', u'Music']"
-Friday Night with Jonathan Ross,(2001 TV Series),8.2,"1,858","[u'Comedy', u'Music', u'Talk-Show']"
-Cold Feet,(1997 TV Series),8.2,"1,858","[u'Comedy', u'Drama', u'Romance']"
-Watchmen,(2008 TV Series),8.7,"1,851","[u'Animation', u'Drama', u'Fantasy', u'Sci-Fi']"
-Hunter x Hunter,(1999 TV Series),8.7,"1,849","[u'Adventure', u'Animation', u'Comedy']"
-Galactica 1980,(1980 TV Series),5.4,"1,849",[u'Sci-Fi']
-Kath & Kim,(2008 TV Series),5.1,"1,845",[u'Comedy']
-Baby Looney Tunes,(2002 TV Series),6.1,"1,844","[u'Animation', u'Family']"
-A Haunting,(2005 TV Series),8,"1,845",[u'Documentary']
-Unsupervised,(2012 TV Series),7.4,"1,845","[u'Animation', u'Comedy']"
-Rake,(2010 TV Series),8.7,"1,843","[u'Comedy', u'Drama']"
-Trinity Blood,(2005 TV Series),7.3,"1,843","[u'Animation', u'Action', u'Drama', u'Horror', u'Sci-Fi']"
-Snooki & JWOWW,(2012 TV Series),3.2,"1,842",[u'Reality-TV']
-Bravest Warriors,(2012 TV Series),7.7,"1,843","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Sci-Fi']"
-Moomin,(1990 TV Series),8.5,"1,839","[u'Animation', u'Adventure', u'Comedy', u'Drama', u'Family', u'Fantasy', u'Thriller']"
-The Super Mario Bros. Super Show!,(1989 TV Series),6.3,"1,840","[u'Animation', u'Family', u'Fantasy', u'Action', u'Adventure']"
-The Boarding School,(2007 TV Series),8.2,"1,835",[u'Mystery']
-The Fugitive,(1963 TV Series),8.1,"1,833","[u'Adventure', u'Crime', u'Drama', u'Thriller']"
-Haibane renmei,(2002 TV Series),8.3,"1,830","[u'Animation', u'Drama', u'Fantasy']"
-Last Tango in Halifax,(2012 TV Series),8.3,"1,828",[u'Drama']
-Future Boy Conan,(1978 TV Series),8.8,"1,826","[u'Animation', u'Adventure', u'Comedy', u'Drama', u'Family', u'Sci-Fi']"
-Sullivan & Son,(2012 TV Series),6.2,"1,826",[u'Comedy']
-Full Metal Panic? Fumoffu,(2003 TV Series),8.3,"1,822","[u'Animation', u'Action', u'Comedy', u'Romance']"
-The State Within,(2006 TV Series),8,"1,817","[u'Drama', u'Thriller', u'War']"
-Late Night with David Letterman,(1982 TV Series),7.5,"1,814","[u'Comedy', u'Music', u'Talk-Show']"
-Rob,(2012 TV Series),5.6,"1,811",[u'Comedy']
-American Restoration,(2010 TV Series),6.8,"1,812",[u'Reality-TV']
-Hunter,(1984 TV Series),6.7,"1,811","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Crank Yankers,(2002 TV Series),6.2,"1,803","[u'Animation', u'Comedy']"
-Undercovers,(2010 TV Series),5.6,"1,802","[u'Action', u'Thriller']"
-Heartbreak High,(1994 TV Series),7.9,"1,801",[u'Drama']
-Pair of Kings,(2010 TV Series),5.7,"1,800",[u'Comedy']
-Braquo,(2009 TV Series),8.1,"1,797","[u'Crime', u'Thriller']"
-Count Duckula,(1988 TV Series),7.6,"1,795","[u'Animation', u'Comedy', u'Family', u'Horror']"
-Mulaney,(2014 TV Series),3.9,"1,792",[u'Comedy']
-Jack & Bobby,(2004 TV Series),8,"1,790",[u'Drama']
-Air Emergency,(2003 TV Series),8.8,"1,790","[u'Documentary', u'Drama', u'History', u'Reality-TV']"
-Meet the Browns,(2009 TV Series),3.4,"1,789",[u'Comedy']
-Bosom Buddies,(1980 TV Series),6.7,"1,788",[u'Comedy']
-Kourtney & Kim Take New York,(2011 TV Series),3.4,"1,785","[u'Drama', u'Reality-TV']"
-Fate/stay night,(2006 TV Series),7.6,"1,785","[u'Animation', u'Action', u'Adventure', u'Drama', u'Fantasy', u'Romance', u'Sci-Fi']"
-Raines,(2007 TV Series),7.9,"1,781","[u'Crime', u'Drama']"
-Mission: Impossible,(1988 TV Series),7.6,"1,782","[u'Action', u'Adventure', u'Crime', u'Drama', u'Thriller']"
-Rawhide,(1959 TV Series),8.1,"1,779",[u'Western']
-Women's Murder Club,(2007 TV Series),7.3,"1,777","[u'Crime', u'Drama', u'Mystery']"
-So Weird,(1999 TV Series),8.8,"1,777","[u'Family', u'Adventure', u'Mystery', u'Thriller']"
-Mister Ed,(1958 TV Series),7.2,"1,779","[u'Comedy', u'Family', u'Fantasy']"
-Sonic X,(2003 TV Series),6,"1,775","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Fantasy', u'Sci-Fi']"
-Kenny Hotz's Triumph of the Will,(2011 TV Series),8.4,"1,774","[u'Comedy', u'Crime', u'Reality-TV']"
-Pippi Longstocking,(1969 TV Series),7.3,"1,772","[u'Adventure', u'Family', u'Fantasy']"
-Sean Saves the World,(2013 TV Series),6.4,"1,772",[u'Comedy']
-Turkish for Beginners,(2006 TV Series),7.8,"1,771",[u'Comedy']
-The Real Housewives of New York City,(2008 TV Series),3.6,"1,772",[u'Reality-TV']
-1001 Nights,(2006 TV Series),5.1,"1,769",[u'Drama']
-Halo: Nightfall,(2014 TV Series),6,"1,777","[u'Action', u'Adventure', u'Sci-Fi', u'Thriller']"
-Adventures of Sonic the Hedgehog,(1993 TV Series),6.3,"1,769","[u'Animation', u'Adventure', u'Comedy', u'Family', u'Fantasy', u'Sci-Fi']"
-Benidorm,(2007 TV Series),7.5,"1,770",[u'Comedy']
-Aqu¬í no hay quien viva,(2003 TV Series),8.1,"1,764",[u'Comedy']
-"Little People, Big World",(2006 TV Series),6.6,"1,762","[u'Documentary', u'Reality-TV']"
-Planetes,(2003 TV Series),8.4,"1,759","[u'Animation', u'Sci-Fi']"
-Rebelde,(2004 TV Series),6.5,"1,755","[u'Drama', u'Family', u'Music', u'Romance']"
-Dig,(2015 TV Series),6.9,"1,776","[u'Drama', u'Mystery', u'Thriller']"
-Gene Simmons: Family Jewels,(2006 TV Series),5.9,"1,748",[u'Reality-TV']
-All My Children,(1970 TV Series),6.6,"1,748","[u'Drama', u'Romance', u'Mystery']"
-Look Around You,(2002 TV Series),8.6,"1,749",[u'Comedy']
-Case Histories,(2011 TV Series),8,"1,746","[u'Crime', u'Drama', u'Mystery']"
-"Sabrina, the Animated Series",(1999 TV Series),5.7,"1,745","[u'Animation', u'Comedy', u'Family', u'Fantasy']"
-Freddy's Nightmares,(1988 TV Series),6.5,"1,742","[u'Horror', u'Thriller']"
-Keen Eddie,(2003 TV Series),8.6,"1,741","[u'Action', u'Comedy', u'Drama']"
-Taxi Brooklyn,(2014 TV Series),5.9,"1,741","[u'Action', u'Comedy', u'Crime', u'Drama']"
-Combat Hospital,(2011 TV Series),7.4,"1,739","[u'Drama', u'War']"
-Most Extreme Elimination Challenge,(2003 TV Series),8.8,"1,737","[u'Action', u'Adventure', u'Comedy', u'Game-Show']"
-Fish Hooks,(2010 TV Series),4.9,"1,739","[u'Animation', u'Adventure', u'Comedy']"
-Talking Dead,(2011 TV Series),7.5,"1,735",[u'Talk-Show']
-Yaprak D¬ök¬üm¬ü,(2006 TV Series),5.5,"1,736",[u'Drama']
-The Partridge Family,(1970 TV Series),6.5,"1,734","[u'Comedy', u'Family', u'Music']"
-Danger 5,(2011 TV Series),8.5,"1,735","[u'Adventure', u'Comedy']"
-Extreme Ghostbusters,(1997 TV Series),7.4,"1,730","[u'Animation', u'Comedy', u'Family', u'Fantasy', u'Sci-Fi']"
-"Upstairs, Downstairs",(1971 TV Series),8.5,"1,727",[u'Drama']
-Odisseia,(2013 TV Series),9,"1,726","[u'Comedy', u'Drama']"
-Madventures,(2002 TV Series),9.2,"1,725",[u'Documentary']
-Cagney & Lacey,(1981 TV Series),6.7,"1,725","[u'Crime', u'Drama', u'Mystery']"
-Chopped,(2007 TV Series),7.5,"1,724",[u'Reality-TV']
-Fame,(1982 TV Series),6.8,"1,721","[u'Drama', u'Music', u'Musical', u'Romance']"
-¬Çemberimde g¬ül oya,(2004 TV Series),8.4,"1,722",[u'Drama']
-30 Days,(2005 TV Series),8,"1,720","[u'Documentary', u'Reality-TV']"
-Rosemary & Thyme,(2003 TV Series),7.6,"1,717","[u'Crime', u'Drama', u'Mystery']"
-A Shot at Love with Tila Tequila,(2007 TV Series),3.3,"1,715","[u'Game-Show', u'Reality-TV', u'Romance']"
-The Jay Leno Show,(2009 TV Series),3.6,"1,714","[u'Comedy', u'Talk-Show']"
-Betas,(2013 TV Series),7.2,"1,713",[u'Comedy']
-Are You Smarter Than a 5th Grader?,(2007 TV Series),5,"1,712","[u'Family', u'Game-Show']"
-Beck,(1997 TV Series),7.3,"1,713","[u'Crime', u'Mystery', u'Thriller']"
-The High Fructose Adventures of Annoying Orange,(2012 TV Series),2.9,"1,710","[u'Animation', u'Action', u'Adventure', u'Comedy', u'Family', u'Fantasy']"
-The Life of Birds,(1998 TV Series),9,"1,709",[u'Documentary']
-Silver Fang,(1986 TV Series),8.9,"1,707","[u'Animation', u'Action', u'Adventure', u'Family', u'Horror']"
-Spice and Wolf,(2008 TV Series),8.1,"1,703","[u'Animation', u'Adventure', u'Fantasy']"
-Dr. Phil,(2002 TV Series),4,"1,701","[u'Drama', u'Talk-Show']"
-Ideal,(2005 TV Series),8.3,"1,700",[u'Comedy']
-The State,(1993 TV Series),8.6,"1,699",[u'Comedy']
-Adam-12,(1968 TV Series),7.7,"1,701","[u'Comedy', u'Crime', u'Drama', u'Mystery']"
-Sto para 5,(2005 TV Series),8.7,"1,695","[u'Adventure', u'Comedy', u'Drama', u'Mystery']"
-Off Centre,(2001 TV Series),8,"1,692",[u'Comedy']
-Traffic Light,(2011 TV Series),7.4,"1,690",[u'Comedy']
-The Rifleman,(1958 TV Series),8.4,"1,689","[u'Family', u'Western']"
-Tripping the Rift,(2004 TV Series),7,"1,688","[u'Animation', u'Comedy', u'Fantasy', u'Sci-Fi']"
-"Auf Wiedersehen, Pet",(1983 TV Series),8.5,"1,685","[u'Comedy', u'Drama']"
-Killer Women,(2014 TV Series),6,"1,684","[u'Drama', u'Western']"
-Benson,(1979 TV Series),7.1,"1,679","[u'Comedy', u'Family']"
-Deadbeat,(2014 TV Series),7.6,"1,685",[u'Comedy']
-Wedding Band,(2012 TV Series),7.7,"1,675","[u'Comedy', u'Drama']"
-Taarak Mehta Ka Ooltah Chashmah,(2008 TV Series),8.3,"1,674","[u'Comedy', u'Family']"
-Digimon Frontier,(2002 TV Series),5.6,"1,669","[u'Animation', u'Action', u'Adventure', u'Fantasy', u'Sci-Fi', u'Thriller']"
-The Loop,(2006 TV Series),7.6,"1,667",[u'Comedy']
-Remember Darling,(2006 TV Series),7.8,"1,667","[u'Drama', u'History', u'Romance']"
-China Beach,(1988 TV Series),8.2,"1,664","[u'Drama', u'War']"
-The Little Mermaid,(1992 TV Series),6.8,"1,661","[u'Animation', u'Family']"
-Gintama,(2006 TV Series),8.7,"1,663","[u'Animation', u'Action', u'Comedy', u'Sci-Fi']"
-Mad,(2010 TV Series),5.6,"1,658","[u'Animation', u'Comedy']"
-How to Live with Your Parents (For the Rest of Your Life),(2013 TV Series),5.8,"1,657",[u'Comedy']
-17 Kids and Counting,(2008 TV Series),4,"1,659","[u'Documentary', u'Reality-TV']"
-Single Ladies,(2011 TV Series),6.2,"1,658","[u'Comedy', u'Drama', u'Romance']"
-Hyperdrive,(2006 TV Series),6.7,"1,656","[u'Comedy', u'Sci-Fi']"
-Unit 1,(2000 TV Series),8.3,"1,654","[u'Action', u'Crime', u'Drama', u'Mystery', u'Thriller']"
-We Can Be Heroes,(2005 TV Series),8.5,"1,651",[u'Comedy']
-Hotel Hell,(2012 TV Series),6.9,"1,649",[u'Reality-TV']
-Top Boy,(2011 TV Series),8.1,"1,650","[u'Crime', u'Drama', u'Thriller']"
-6Teen,(2004 TV Series),7.4,"1,647","[u'Animation', u'Comedy', u'Family']"
-Adventures of Superman,(1952 TV Series),7.9,"1,647","[u'Action', u'Adventure', u'Crime', u'Family', u'Sci-Fi']"
-French and Saunders,(1987 TV Series),7.8,"1,647",[u'Comedy']
-Intervention,(2005 TV Series),8.1,"1,647","[u'Adventure', u'Reality-TV']"
-That '80s Show,(2002 TV Series),4.6,"1,645",[u'Comedy']
-Eek! the Cat,(1992 TV Series),7.5,"1,645","[u'Animation', u'Comedy', u'Family']"
-The Royals,(2015 TV Series),6.7,"1,675",[u'Drama']
-Yu-Gi-Oh! GX,(2004 TV Series),6.4,"1,644","[u'Animation', u'Sci-Fi', u'Thriller']"
-Alice,(1976 TV Series),6.9,"1,644",[u'Comedy']
-Kingdom,(2007 TV Series),7.9,"1,643","[u'Comedy', u'Drama']"
-Review,(2014 TV Series),8.3,"1,642",[u'Comedy']
-Law & Order: LA,(2010 TV Series),6.7,"1,641","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Getting On,(2013 TV Series),7.6,"1,642",[u'Comedy']
-Little Bear,(1995 TV Series),7,"1,638","[u'Animation', u'Family']"
-Vera,(2011 TV Series),7.7,"1,645","[u'Crime', u'Drama', u'Mystery']"
-Empty Nest,(1988 TV Series),6.6,"1,638","[u'Comedy', u'Family']"
-Game of Silence,(2012 TV Series),8.5,"1,639","[u'Action', u'Crime', u'Drama', u'Thriller']"
-Life in Cold Blood,(2008 TV Series),9.1,"1,636",[u'Documentary']
-Kaamelott,(2004 TV Series),8.7,"1,635","[u'Comedy', u'Adventure', u'Fantasy']"
-Sword Art Online 2,(2014 TV Series),7.9,"1,639","[u'Action', u'Adventure', u'Sci-Fi', u'Animation']"
-How to Be a Gentleman,(2011 TV Series),4.7,"1,633",[u'Comedy']
-Lovejoy,(1986 TV Series),8,"1,635","[u'Comedy', u'Crime', u'Drama', u'Mystery']"
-Nitro Circus,(2009 TV Series),7.9,"1,632","[u'Action', u'Comedy', u'Reality-TV', u'Sport']"
-Flavor of Love,(2006 TV Series),4.4,"1,632","[u'Game-Show', u'Reality-TV', u'Romance']"
-Zorro,(1957 TV Series),8.4,"1,633","[u'Adventure', u'Family', u'Western']"
-Snuff Box,(2006 TV Series),8.3,"1,632",[u'Comedy']
-Suddenly Susan,(1996 TV Series),5.7,"1,629",[u'Comedy']
-Spider-Man,(1967 TV Series),7.5,"1,628","[u'Animation', u'Adventure', u'Family', u'Fantasy', u'Sci-Fi']"
-Franklin,(1997 TV Series),6.5,"1,626","[u'Animation', u'Family']"
-One Life to Live,(1968 TV Series),7.2,"1,622",[u'Drama']
-Clueless,(1996 TV Series),5.7,"1,620",[u'Comedy']
-The Bill,(1984 TV Series),6.6,"1,619","[u'Crime', u'Drama']"
-Voyage to the Bottom of the Sea,(1964 TV Series),7.3,"1,619","[u'Adventure', u'Sci-Fi']"
-Bob the Builder,(1999 TV Series),5.2,"1,614","[u'Animation', u'Family']"
-Sit Down Shut Up,(2009 TV Series),6,"1,612","[u'Animation', u'Comedy']"
-Drzavni Posao,(2012 TV Series),9.6,"1,615",[u'Comedy']
-Scare Tactics,(2003 TV Series),6.9,"1,610","[u'Comedy', u'Horror', u'Reality-TV', u'Sci-Fi', u'Thriller']"
-Crime Scene Cleaner,(2011 TV Series),8.5,"1,610",[u'Comedy']
-Thomas & Friends,(1984 TV Series),7,"1,611","[u'Animation', u'Family']"
-Fantastic Four,(1994 TV Series),6.4,"1,608","[u'Action', u'Animation', u'Sci-Fi']"
-Poldark,(2015 TV Series),8.6,"1,633",[u'Drama']
-The Tonight Show Starring Johnny Carson,(1962 TV Series),8.4,"1,606","[u'Comedy', u'Music', u'Talk-Show']"
-Smith,(2006 TV Series),8,"1,606","[u'Crime', u'Drama', u'Thriller']"
-Blackpool,(2004 TV Series),8.3,"1,606","[u'Comedy', u'Crime', u'Drama', u'Musical', u'Mystery', u'Romance']"
-Being Mary Jane,(2013 TV Series),7.6,"1,611","[u'Drama', u'Romance']"
-60 Minutes,(1968 TV Series),7.7,"1,606","[u'Documentary', u'News']"
-Kath & Kim,(2002 TV Series),8.2,"1,599",[u'Comedy']
-The Care Bears Family,(1985 TV Series),5.9,"1,599","[u'Animation', u'Comedy', u'Family', u'Fantasy']"
-Iron Man: Armored Adventures,(2008 TV Series),6.7,"1,600","[u'Animation', u'Action', u'Adventure', u'Family', u'Fantasy', u'Sci-Fi']"
-Bedlam,(2011 TV Series),6.7,"1,599",[u'Horror']
-Lizard Lick Towing,(2011 TV Series),4.7,"1,597",[u'Reality-TV']
-Glory Daze,(2010 TV Series),8,"1,593",[u'Comedy']
-So Random!,(2011 TV Series),4.7,"1,593","[u'Comedy', u'Drama', u'Musical']"
-"You Rang, M'Lord?",(1988 TV Series),8.9,"1,593",[u'Comedy']
-Once Upon a Time... Man,(1978 TV Series),8.2,"1,591","[u'Animation', u'Adventure', u'Drama', u'Family', u'History', u'War']"
-True Justice,(2010 TV Series),4.8,"1,589","[u'Action', u'Crime', u'Drama', u'Thriller']"
-My Three Sons,(1960 TV Series),7.1,"1,590","[u'Comedy', u'Family']"
-TMZ on TV,(2007 TV Series),3.7,"1,588","[u'Comedy', u'News']"
-Monarch of the Glen,(2000 TV Series),7.7,"1,587","[u'Comedy', u'Drama', u'Romance']"
-Ekmek teknesi,(2002 TV Series),8.3,"1,586",[u'Drama']
-Xavier: Renegade Angel,(2007 TV Series),6.5,"1,584","[u'Animation', u'Adventure', u'Comedy']"
-Danger Mouse,(1981 TV Series),7.5,"1,584","[u'Animation', u'Comedy', u'Family', u'Sci-Fi']"
-Sunset Beach,(1997 TV Series),6.9,"1,584",[u'Drama']
-Cosby,(1996 TV Series),6.6,"1,583",[u'Comedy']
-Horrible Histories,(2009 TV Series),8.9,"1,583","[u'Comedy', u'Family', u'History']"
-The Bill Engvall Show,(2007 TV Series),5.5,"1,577",[u'Comedy']
-The Private Life of Plants,(1995 TV Series),9.1,"1,577",[u'Documentary']
-Boomtown,(2002 TV Series),8.2,"1,576","[u'Crime', u'Drama', u'Mystery', u'Thriller']"
-Prince Caspian and the Voyage of the Dawn Treader,(1989 TV Series),7,"1,575","[u'Family', u'Fantasy', u'Adventure']"
-Crime Story,(1986 TV Series),8.4,"1,575","[u'Crime', u'Drama', u'Mystery']"
-Married,(2014 TV Series),6.9,"1,575","[u'Comedy', u'Drama']"
-Wolfblood,(2012 TV Series),8.2,"1,573",[u'Fantasy']
-GTO,(1999 TV Series),8.7,"1,575","[u'Animation', u'Comedy', u'Drama', u'Romance']"
-Cuckoo,(2012 TV Series),7.4,"1,570",[u'Comedy']
-Mobile Suit Gundam Seed,(2002 TV Series),7.8,"1,567","[u'Animation', u'Action', u'Drama', u'Sci-Fi']"
-I Am Weasel,(1997 TV Series),6.9,"1,568","[u'Animation', u'Comedy', u'Family']"
-The Great Jang-Geum,(2003 TV Series),8.6,"1,567","[u'Biography', u'Drama', u'History']"
-Sons of Tucson,(2010 TV Series),7.2,"1,567",[u'Comedy']
-Hollywood Heights,(2012 TV Series),8,"1,566",
-Lassie,(1954 TV Series),6.6,"1,566","[u'Adventure', u'Drama', u'Family']"
-Dante's Cove,(2005 TV Series),6.1,"1,564","[u'Drama', u'Horror', u'Mystery', u'Romance', u'Thriller']"
-The Record of the Lodoss War,(1990 TV Series),7.7,"1,565","[u'Animation', u'Action', u'Adventure', u'Fantasy', u'Romance']"
-Boys Over Flowers,(2005 TV Series),8.4,"1,562","[u'Comedy', u'Romance']"
-Kaun Banega Crorepati?,(2000 TV Series),8.7,"1,563",[u'Game-Show']
-That's My Bush!,(2001 TV Series),7.5,"1,561",[u'Comedy']
-Mystery!: Cadfael,(1994 TV Series),8.2,"1,560","[u'Crime', u'Drama', u'Mystery']"
-Deli Y¬ürek,(1999 TV Series),7.8,"1,560","[u'Adventure', u'Crime', u'Drama', u'Thriller']"
-Beakman's World,(1992 TV Series),8.6,"1,559","[u'Comedy', u'Family']"
-Hey Dude,(1989 TV Series),7.4,"1,559","[u'Adventure', u'Comedy', u'Family']"
-Oggy and the Cockroaches,(1998 TV Series),7.9,"1,556","[u'Animation', u'Family', u'Comedy']"
-Tremors,(2003 TV Series),6.8,"1,558","[u'Sci-Fi', u'Action', u'Comedy', u'Horror']"
-My Two Dads,(1987 TV Series),6,"1,555","[u'Comedy', u'Family']"
-Profit,(1996 TV Series),8.7,"1,555",[u'Drama']
-Gunslinger Girl,(2003 TV Series),7.6,"1,554","[u'Animation', u'Action', u'Drama', u'Sci-Fi']"
-Sirens,(2011 TV Series),8.2,"1,552",
-Hangin' with Mr. Cooper,(1992 TV Series),6.2,"1,550","[u'Comedy', u'Family', u'Sport']"
-Swamp People,(2010 TV Series),6.3,"1,550","[u'Action', u'Reality-TV']"
-Slam Dunk,(1993 TV Series),8.8,"1,550","[u'Animation', u'Comedy', u'Sport']"
-The Only Way Is Essex,(2010 TV Series),3.2,"1,547",[u'Reality-TV']
-Grantchester,(2014 TV Series),8.1,"1,547","[u'Drama', u'Mystery']"
-Koffee with Karan,(2004 TV Series),8.2,"1,546","[u'Comedy', u'Talk-Show']"
-Smosh,(2006 TV Series),8.2,"1,543",[u'Comedy']
-Clark and Michael,(2006 TV Series),8.8,"1,544",[u'Comedy']
-Raising the Bar,(2008 TV Series),7.5,"1,543",[u'Drama']
-The New Tom & Jerry Show,(1975 TV Series),8,"1,549","[u'Animation', u'Family', u'Comedy']"
-Carpoolers,(2007 TV Series),7.6,"1,541",[u'Comedy']
-¬Çok G¬üzel Hareketler Bunlar,(2008 TV Series),6.3,"1,544",[u'Comedy']
-Six Degrees,(2006 TV Series),7.8,"1,537",
-Heartbeat,(1992 TV Series),6.8,"1,535","[u'Drama', u'Comedy', u'Crime']"
-The Emperor's New School,(2006 TV Series),6.6,"1,534","[u'Animation', u'Comedy']"
-Fanboy & Chum Chum,(2009 TV Series),3.3,"1,533","[u'Animation', u'Action', u'Adventure', u'Comedy']"
-D'Artanyan i tri mushketyora,(1979 TV Series),8.3,"1,532","[u'Adventure', u'History', u'Musical']"
-The Lottery,(2014 TV Series),6,"1,525",[u'Sci-Fi']
-Delocated,(2009 TV Series),7.5,"1,524",[u'Comedy']
-The Awful Truth,(1999 TV Series),7,"1,524","[u'Comedy', u'Documentary']"
-Black Jesus,(2014 TV Series),7,"1,523",[u'Comedy']
-Code Geass: Lelouch of the Rebellion,(2008 TV Series),9.1,"1,525",
-Beaver Falls,(2011 TV Series),8.1,"1,521","[u'Comedy', u'Drama']"
-Schitt's Creek,(2015 TV Series),6.9,"1,525",[u'Comedy']
-KaBlam!,(1996 TV Series),8,"1,516","[u'Animation', u'Comedy', u'Family']"
-Pramface,(2012 TV Series),7.8,"1,516",[u'Comedy']
-The Eric Andre Show,(2012 TV Series),8.4,"1,515","[u'Comedy', u'Talk-Show']"
-Forever Knight,(1992 TV Series),7.8,"1,515","[u'Crime', u'Drama', u'Horror', u'Mystery']"
-Against the Wall,(2011 TV Series),7.2,"1,509","[u'Crime', u'Drama']"
-Cristela,(2014 TV Series),6.3,"1,510",[u'Comedy']
-Power Rangers in Space,(1998 TV Series),7.2,"1,504","[u'Action', u'Adventure', u'Family', u'Sci-Fi']"
-Reading Rainbow,(1983 TV Series),8.5,"1,501",[u'Family']
-Martial Law,(1998 TV Series),7.1,"1,501","[u'Comedy', u'Crime', u'Action']"
-Beast Machines: Transformers,(1999 TV Series),6.9,"1,500","[u'Action', u'Animation', u'Sci-Fi']"
+Game of Thrones
+Breaking Bad
+The Walking Dead
+The Big Bang Theory
+Dexter
+How I Met Your Mother
+Friends
+Sherlock
+Lost
+Prison Break
+House M.D.
+Supernatural
+True Detective
+Arrow
+The Simpsons
+House of Cards
+Family Guy
+Modern Family
+South Park
+True Blood
+The Vampire Diaries
+Homeland
+Suits
+Heroes
+Arrested Development
+Two and a Half Men
+Scrubs
+The Office
+Firefly
+Fringe
+American Horror Story
+The Sopranos
+The Wire
+Spartacus: War of the Damned
+Sons of Anarchy
+Once Upon a Time
+Seinfeld
+Grey's Anatomy
+Californication
+24
+Orange Is the New Black
+Doctor Who
+Community
+Futurama
+Vikings
+Mad Men
+The Mentalist
+Boardwalk Empire
+New Girl
+Entourage
+Hannibal
+It's Always Sunny in Philadelphia
+Glee
+The X-Files
+Battlestar Galactica
+Castle
+That '70s Show
+Avatar: The Last Airbender
+Chuck
+Gossip Girl
+Bones
+Person of Interest
+Rome
+Criminal Minds
+Agents of S.H.I.E.L.D.
+Pretty Little Liars
+Buffy the Vampire Slayer
+Downton Abbey
+Revenge
+Fargo
+Smallville
+Twin Peaks
+Parks and Recreation
+Desperate Housewives
+Malcolm in the Middle
+30 Rock
+White Collar
+Weeds
+Lie to Me
+Six Feet Under
+My Name Is Earl
+The Fresh Prince of Bel-Air
+Freaks and Geeks
+The IT Crowd
+Death Note
+Shameless
+NCIS
+The Flash
+Sex and the City
+Married with Children
+The Blacklist
+Gotham
+American Dad!
+Grimm
+The Newsroom
+Under the Dome
+Revolution
+Teen Wolf
+The Following
+Misfits
+Terra Nova
+Falling Skies
+CSI: Crime Scene Investigation
+Archer
+Psych
+Leyla and Mecnun
+2 Broke Girls
+The O.C.
+Top Gear
+Better Call Saul
+Elementary
+The Killing
+Dragon Ball Z
+Curb Your Enthusiasm
+Oz
+The Office
+Burn Notice
+Deadwood
+Stargate SG-1
+Justified
+The King of Queens
+The Legend of Korra
+Gilmore Girls
+Skins
+Star Trek: The Next Generation
+FlashForward
+Veronica Mars
+The Originals
+One Tree Hill
+Merlin
+Luther
+Frasier
+SpongeBob SquarePants
+Charmed
+Terminator: The Sarah Connor Chronicles
+The 100
+Da Vinci's Demons
+The Shield
+Monk
+Louie
+Angel
+Fawlty Towers
+Nip/Tuck
+Law & Order: Special Victims Unit
+The Tudors
+The Inbetweeners
+Jericho
+Everybody Loves Raymond
+Mr. Bean
+Stargate: Atlantis
+Bates Motel
+V
+Orphan Black
+Girls
+Penny Dreadful
+Pushing Daisies
+CSI: Miami
+Batman: The Animated Series
+Scandal
+Sleepy Hollow
+The Good Wife
+Nikita
+Continuum
+Cowboy Bebop
+Star Trek
+Hawaii Five-0
+Brooklyn Nine-Nine
+Eastbound & Down
+Dollhouse
+ER
+The West Wing
+Banshee
+Touch
+Eureka
+Flight of the Conchords
+Attack on Titan
+Almost Human
+Friday Night Lights
+Monty Python's Flying Circus
+Spaced
+The Secret Circle
+Adventure Time
+The Strain
+Twilight Zone
+MythBusters
+SGU Stargate Universe
+The Borgias
+Alias
+Full House
+Joey
+Extras
+3rd Rock from the Sun
+Warehouse 13
+Alcatraz
+The 4400
+Cougar Town
+Ghost Whisperer
+Ugly Betty
+The Americans
+Naruto: Shippûden
+Naruto
+Star Trek: Voyager
+Wilfred
+Black Books
+Dead Like Me
+CSI: NY
+Will & Grace
+King of the Hill
+90210
+Workaholics
+Awkward.
+Leverage
+Torchwood
+The League
+Hell on Wheels
+Robot Chicken
+Numb3rs
+Black Mirror
+Coupling
+Fullmetal Alchemist Brotherhood
+Boston Legal
+Cheers
+Black Sails
+Saturday Night Live
+Hart of Dixie
+Ray Donovan
+Carnivàle
+Boy Meets World
+Blue Mountain State
+NCIS: Los Angeles
+Xena: Warrior Princess
+Fullmetal Alchemist
+Star Trek: Deep Space Nine
+Raising Hope
+Peep Show
+Life
+M*A*S*H
+Happy Endings
+One Piece
+Home Improvement
+The Cleveland Show
+The Middle
+Bleach
+Legend of the Seeker
+How to Get Away with Murder
+Dragon Ball Z
+Defiance
+Chappelle's Show
+Bored to Death
+According to Jim
+Bob's Burgers
+Hannah Montana
+Star Trek: Enterprise
+Broadchurch
+Dragon Ball
+Daredevil
+Beauty and the Beast
+The Nanny
+Everybody Hates Chris
+Haven
+Silicon Valley
+Dawson's Creek
+Anger Management
+Roseanne
+Suburgatory
+Dexter's Laboratory
+Forever
+The Wonder Years
+Outlander
+The Fall
+Rules of Engagement
+Blackadder Goes Forth
+The Daily Show with Jon Stewart
+The Tomorrow People
+Whose Line Is It Anyway?
+MacGyver
+Hemlock Grove
+Only Fools and Horses....
+Constantine
+Farscape
+The Colbert Report
+Kyle XY
+Saved by the Bell
+Undercover
+Dark Angel
+The Cosby Show
+Law & Order
+The Event
+Damages
+Drake & Josh
+Party Down
+The Black Adder
+The A-Team
+Dracula
+Las Vegas
+Episodes
+Masters of Sex
+"Sabrina, the Teenage Witch"
+Don't Trust the B---- in Apartment 23
+Rescue Me
+Dharma & Greg
+Alphas
+Life on Mars
+Star Wars: The Clone Wars
+Parenthood
+Black-Adder II
+The Leftovers
+Ally McBeal
+Father Ted
+"Beverly Hills, 90210"
+Neon Genesis Evangelion
+Greek
+Peaky Blinders
+An Idiot Abroad
+Covert Affairs
+ALF
+Better Off Ted
+Reign
+The Suite Life of Zack and Cody
+Moonlight
+iCarly
+Babylon 5
+Marco Polo
+Agent Carter
+Harper's Island
+Samurai Jack
+Doctor Who
+Johnny Bravo
+Jersey Shore
+Black Adder the Third
+Red Dwarf
+7th Heaven
+Being Human
+Trailer Park Boys
+The Flintstones
+Reaper
+Justice League
+Rugrats
+Medium
+Spin City
+Roswell
+Lost Girl
+Rizzoli & Isles
+Dragon Ball
+Studio 60 on the Sunset Strip
+Teenage Mutant Ninja Turtles
+Rick and Morty
+The Boondocks
+Courage the Cowardly Dog
+The Golden Girls
+Pinky and the Brain
+8 Simple Rules
+Hercules: The Legendary Journeys
+Caprica
+Helix
+Hey Arnold!
+Being Human
+Pokémon
+American Idol
+Top Gear
+Southland
+Camelot
+Agatha Christie's Poirot
+The Last Ship
+The Mindy Project
+The Carrie Diaries
+Hustle
+Last Resort
+Quantum Leap
+My Wife and Kids
+Man vs. Wild
+Beavis and Butt-Head
+The Powerpuff Girls
+The L Word
+Brothers & Sisters
+Awake
+The Bridge
+Ringer
+Knight Rider
+X-Men
+Chicago Fire
+House of Lies
+Go On
+Wizards of Waverly Place
+Hung
+DuckTales
+Blue Bloods
+Samurai Champloo
+Phineas and Ferb
+Daria
+Aqua Teen Hunger Force
+Cold Case
+The Closer
+"Scooby Doo, Where Are You!"
+Erufen rîto
+Big Love
+Veep
+United States of Tara
+The Fairly OddParents
+Baywatch
+The Venture Bros.
+Private Practice
+Columbo
+Nurse Jackie
+Strike Back
+Utopia
+"Ed, Edd, 'n' Eddy"
+Pan Am
+Switched at Birth
+Scorpion
+Family Matters
+Law & Order: Criminal Intent
+The Secret Life of the American Teenager
+Survivor
+QI
+Lilyhammer
+Witches of East End
+Jackass
+The Unit
+Keeping Up with the Kardashians
+The Lying Game
+Little Britain
+666 Park Avenue
+Code Geass: Lelouch of the Rebellion
+Human Target
+Batman Beyond
+My Little Pony: Friendship Is Magic
+Miami Vice
+Royal Pains
+Drawn Together
+'Allo 'Allo!
+America's Next Top Model
+The Transformers
+Star Wars: Clone Wars
+Mystery Science Theater 3000
+No Ordinary Family
+Dragon Ball GT
+Boss
+The Mighty Boosh
+Mighty Morphin Power Rangers
+Behzat Ç.: Bir Ankara Polisiyesi
+The River
+Nashville
+Extant
+Smash
+Digimon: Digital Monsters
+Conan
+Derek
+Mike & Molly
+Undeclared
+The Knick
+Lois & Clark: The New Adventures of Superman
+Perception
+Mad About You
+My So-Called Life
+Hell's Kitchen
+The Bridge
+The Ren & Stimpy Show
+Without a Trace
+Queer as Folk
+Intelligence
+Tales from the Crypt
+Happy Tree Friends
+Flashpoint
+Animaniacs
+Sanctuary
+Drop Dead Diva
+Dominion
+"Magnum, P.I."
+I Love Lucy
+Midsomer Murders
+Rocko's Modern Life
+Young Justice
+Invader ZIM
+"Two Guys, a Girl and a Pizza Place"
+Jackie Chan Adventures
+The Killing
+Teen Titans
+Regular Show
+How to Make It in America
+Unbreakable Kimmy Schmidt
+The Black Donnellys
+JAG
+Absolutely Fabulous
+Just Shoot Me!
+Recess
+In Treatment
+Lizzie McGuire
+Rookie Blue
+Resurrection
+Longmire
+Robin Hood
+The Last Man on Earth
+The Pretender
+Doug
+Breakout Kings
+The Returned
+Spider-Man
+Melissa & Joey
+Reno 911!
+Sliders
+Grounded for Life
+Last Man Standing
+Metalocalypse
+Yugio deyueru monsutazu
+Dinosaurs
+The Drew Carey Show
+Victorious
+Good Luck Charlie
+The Big C
+That's So Raven
+Franklin & Bash
+The Finder
+The Ricky Gervais Show
+Moonlighting
+The Musketeers
+Tru Calling
+The Fosters
+Pawn Stars
+Whitney
+Empire
+Cow and Chicken
+Ezel
+Graceland
+Kim Possible
+Devious Maids
+Unforgettable
+CatDog
+Northern Exposure
+"Murder, She Wrote"
+Ripper Street
+The Adventures of Sherlock Holmes
+Believe
+Berserk
+Tyrant
+The Penguins of Madagascar
+Batman
+Star-Crossed
+Portlandia
+MI-5
+Tosh.0
+Thundercats
+What I Like About You
+Body of Proof
+The Amazing Race
+The Adventures of Tintin
+Even Stevens
+Late Night with Conan O'Brien
+"Walker, Texas Ranger"
+Life Unexpected
+Kenan & Kel
+The Muppet Show
+Z Nation
+Little House on the Prairie
+Dirty Sexy Money
+Penn & Teller: Bullshit!
+Mom
+Family Ties
+Treme
+Stalker
+Trigun
+The Grim Adventures of Billy & Mandy
+Primeval
+Shark
+I'm Alan Partridge
+Shameless
+Ned's Declassified School Survival Guide
+Wonderfalls
+NewsRadio
+Sword Art Online
+Da Ali G Show
+The Bugs Bunny Show
+The Hills
+Summer Heights High
+Invasion
+Clerks
+He-Man and the Masters of the Universe
+Rectify
+Reba
+Outsourced
+Isler Güçler
+Salem
+Everwood
+Garth Marenghi's Darkplace
+The Odyssey
+Baby Daddy
+Last Week Tonight with John Oliver
+Secret Diary of a Call Girl
+Inspector Gadget
+Happy Days
+From Dusk Till Dawn
+The Crazy Ones
+Bewitched
+Gargoyles
+The Young Ones
+InuYasha
+The New Normal
+Ghost in the Shell: Stand Alone Complex
+The Bugs Bunny/Looney Tunes Comedy Hour
+The Goldbergs
+Magic City
+Video Game High School
+12 Monkeys
+The New Adventures of Old Christine
+Battlestar Galactica
+The Thick of It
+The Jetsons
+Gravity Falls
+BoJack Horseman
+Hot in Cleveland
+Halt and Catch Fire
+Foster's Home for Imaginary Friends
+Chip 'n' Dale Rescue Rangers
+Growing Pains
+Rurouni Kenshin: Wandering Samurai
+Magnificent Century
+Rubicon
+Becker
+The Glades
+Early Edition
+Late Show with David Letterman
+Ellen: The Ellen DeGeneres Show
+The Affair
+Life's Too Short
+Masters of Horror
+Defying Gravity
+Highlander
+Dallas
+Missing
+Duck Dynasty
+Impractical Jokers
+Once Upon a Time in Wonderland
+Degrassi: The Next Generation
+Copper
+Chicago P.D.
+Heroes
+Dragon Ball Z Kai
+Hellcats
+Looking
+Jane by Design
+Up All Night
+Are You Afraid of the Dark?
+Keeping Up Appearances
+Call the Midwife
+In Plain Sight
+Sailor Moon
+So You Think You Can Dance
+Surface
+FLCL
+The Voice
+The Pink Panther Show
+Zoey 101
+Eli Stone
+The Mask
+Samantha Who?
+Bosch
+Borgen
+Darkwing Duck
+The Angry Beavers
+Gavin & Stacey
+Bottom
+Eastwick
+Journeyman
+21 Jump Street
+NYPD Blue
+Hello Ladies
+Joan of Arcadia
+The Late Late Show with Craig Ferguson
+Code Geass: Lelouch of the Rebellion R2
+Green Wing
+Hellsing X
+The Tonight Show with Jay Leno
+"Tim and Eric Awesome Show, Great Job!"
+Steins;Gate
+The Outer Limits
+The Avengers: Earth's Mightiest Heroes
+George Lopez
+Life on Mars
+The Angry Video Game Nerd
+Selfie
+The Hitch Hikers Guide to the Galaxy
+The Incredible Hulk
+Crossing Jordan
+Andromeda
+My Mad Fat Diary
+The Suite Life on Deck
+The Brady Bunch
+Step by Step
+A Young Doctor's Notebook
+Shake It Up!
+Police Squad!
+Dallas
+Hercules
+Fairy Tail
+Tiny Toon Adventures
+The Hour
+"Harvey Birdman, Attorney at Law"
+Kurtlar Vadisi
+Kenny vs. Spenny
+Project Runway
+Mr Selfridge
+Bitten
+Avrupa Yakasi
+Terriers
+Make It or Break It
+Superman
+The Nine Lives of Chloe King
+The Cape
+TURN: Washington's Spies
+GCB
+Homicide: Life on the Street
+Get Smart
+All in the Family
+Gilligan's Island
+Felicity
+The War at Home
+Arthur
+The Librarians
+Mistresses
+Dancing with the Stars
+Being Erica
+TaleSpin
+The Wild Thornberrys
+Late Night with Jimmy Fallon
+Atlantis
+Through the Wormhole
+The Adventures of Pete & Pete
+Three's Company
+Melrose Place
+Miranda
+Legends
+The Prisoner
+The Guild
+H2O: Just Add Water
+The Andy Griffith Show
+Millennium
+Third Watch
+Knight Rider
+iZombie
+"Sister, Sister"
+Kings
+Lucky Louie
+Claymore
+The Dresden Files
+Persons Unknown
+Big Brother
+The Smurfs
+The Riches
+Foyle's War
+Real Time with Bill Maher
+Captain Planet and the Planeteers
+The Chicago Code
+Broad City
+Garfield and Friends
+Bionic Woman
+Wings
+The Vicar of Dibley
+Twisted
+Monster
+The Addams Family
+MADtv
+The Client List
+Home Movies
+Survivors
+Transparent
+Kitchen Nightmares
+The Neighbors
+I Dream of Jeannie
+Stephen King's Dead Zone
+Hunted
+Fairly Legal
+La Femme Nikita
+Jeeves and Wooster
+The Being Frank Show
+Poketto Monsutâ
+Sesame Street
+Wolverine and the X-Men
+Goosebumps
+Breaking In
+Day Break
+Key and Peele
+Sonny with a Chance
+Men at Work
+Here Comes Honey Boo Boo
+"Dr. Quinn, Medicine Woman"
+Ergo Proxy
+In Living Color
+A Gifted Man
+The Gates
+John Doe
+Crossing Lines
+Taxi
+The Tick
+Vegas
+Party of Five
+Storage Wars
+Jessie
+Red Band Society
+Punk'd
+Jimmy Kimmel Live!
+Fresh Meat
+Red vs. Blue: The Blood Gulch Chronicles
+Bunheads
+Darker Than Black
+Whitechapel
+Necessary Roughness
+Dirt
+Wallander
+Crisis
+Hunter x Hunter
+Lipstick Jungle
+The Listener
+TRON: Uprising
+Faking It
+Codename: Kids Next Door
+Space: Above and Beyond
+The Munsters
+Dirty Jobs
+Ravenswood
+My Family
+The Oblongs
+Alfred Hitchcock Presents
+The Sarah Silverman Program.
+The Good Guys
+Big Time Rush
+V
+Danny Phantom
+Ashes to Ashes
+Madam Secretary
+Viva la Bam
+Mortal Kombat
+X-Men: Evolution
+You're the Worst
+Kingdom Hospital
+Doc Martin
+Major Crimes
+Jane the Virgin
+Still Standing
+Beast Wars: Transformers
+America's Got Talent
+Brotherhood
+Wipeout
+New Amsterdam
+Accidentally on Purpose
+Serial Experiments Lain
+Diff'rent Strokes
+"Doogie Howser, M.D."
+Who's the Boss?
+Ugly Americans
+Aaahh!!! Real Monsters
+Soul Eater
+Dads
+Mr. Show with Bob and David
+The Amanda Show
+The Apprentice
+Mob City
+Clarissa Explains It All
+Mr. Sunshine
+About a Boy
+Galavant
+Night Court
+Perfect Strangers
+Ed
+The Spectacular Spider-Man
+Yu Yu Hakusho: Ghost Files
+Bloodline
+Cranford
+Deadliest Catch
+Ultimate Spider-Man
+Celebrity Deathmatch
+The Batman
+Mork & Mindy
+Legit
+Black-ish
+Ancient Aliens
+Emily Owens M.D.
+The Paradise
+Inspector Morse
+Ghost Hunters
+The Dukes of Hazzard
+Freakazoid!
+Power
+EastEnders
+Timon & Pumbaa
+That Mitchell and Webb Look
+Blood Ties
+Mushi-Shi
+House of Payne
+Charlie's Angels
+A Bit of Fry and Laurie
+Army Wives
+Sports Night
+The Practice
+Crossbones
+Da Ali G Show
+Airwolf
+Inspector Lewis
+The Young Indiana Jones Chronicles
+Common Law
+Wolf's Rain
+The Soup
+Frisky Dingo
+Harry's Law
+Gary Unmarried
+The Bernie Mac Show
+The Kids in the Hall
+Hogan's Heroes
+The Adventures of Brisco County Jr.
+Outnumbered
+The Twilight Zone
+Enlightened
+The X Factor
+Austin & Ally
+DreamWorks Dragons
+'Til Death
+"Yes, Dear"
+The Bold and the Beautiful
+Teenage Mutant Ninja Turtles
+The Adventures of Jimmy Neutron: Boy Genius
+Popular
+Brickleberry
+Black Lagoon
+Thundercats
+The Life & Times of Tim
+The Hard Times of RJ Berger
+Brass Eye
+Fresh Off the Boat
+Outcasts
+Childrens Hospital
+The Tonight Show with Conan O'Brien
+The Critic
+Man v. Food
+The Yogi Bear Show
+Forbidden Love
+Survivorman
+Trophy Wife
+The Tonight Show Starring Jimmy Fallon
+Beetlejuice
+Mrs. Brown's Boys
+Tengen toppa gurren lagann
+Shaun the Sheep
+Taz-Mania
+The League of Gentlemen
+Adventures of the Gummi Bears
+Paranoia Agent
+Mozart in the Jungle
+Yes Minister
+Spawn
+The Nostalgia Critic
+Sleeper Cell
+Dilbert
+Gang Related
+Detective Conan
+All That
+Ben 10
+Titus
+Transporter: The Series
+Jonas
+The Dick Van Dyke Show
+Phil of the Future
+Teenage Mutant Ninja Turtles
+Skins
+WWF Raw
+The Firm
+British Men Behaving Badly
+Zero Hour
+Wire in the Blood
+Low Winter Sun
+Bonanza
+The Fades
+Sealab 2021
+Chowder
+The Amazing World of Gumball
+10 Things I Hate About You
+Mission: Impossible
+Men in Trees
+The Simple Life
+Kurtlar Vadisi: Pusu
+The Biggest Loser
+Star Wars Rebels
+The Confession
+Girl Meets World
+The Kill Point
+The Love Boat
+Cory in the House
+Blossom
+Friends with Better Lives
+Fear Factor
+Shark Tank
+The Unusuals
+Martin
+The Playboy Club
+Kardes Payi
+Jonathan Creek
+The Larry Sanders Show
+The Michael J. Fox Show
+The Real Ghostbusters
+Ben and Kate
+Gantz
+Baccano!
+Luck
+$#*! My Dad Says
+Stromberg
+Clone High
+Off the Map
+The Six Million Dollar Man
+Mr. Bean: The Animated Series
+American Pickers
+Backstrom
+SeaQuest 2032
+Highschool of the Dead
+Nash Bridges
+How Not to Live Your Life
+Lexx
+Days of Our Lives
+Top Cat
+Boston Public
+Threshold
+Batman: The Brave and the Bold
+Death in Paradise
+Touched by an Angel
+Top Gear USA
+Buck Rogers in the 25th Century
+The Increasingly Poor Decisions of Todd Margaret
+Little Britain USA
+Remington Steele
+The Return of Sherlock Holmes
+Love/Hate
+Death Valley
+Top Chef
+The Comeback
+The Magic School Bus
+Judging Amy
+The Melancholy of Haruhi Suzumiya
+The Millers
+Goof Troop
+Due South
+Murphy Brown
+The Graham Norton Show
+Squidbillies
+Sanford and Son
+My Boys
+Are You Being Served?
+Ghost Adventures
+The Rockford Files
+John from Cincinnati
+Fortitude
+WKRP in Cincinnati
+The Bletchley Circle
+Face Off
+The Beverly Hillbillies
+Home and Away
+Traveler
+Enlisted
+Masterchef
+Life with Louie
+Mock the Week
+Murdoch Mysteries
+The Marvelous Misadventures of Flapjack
+"Bill Nye, the Science Guy"
+Space: 1999
+South of Nowhere
+Beauty and the Beast
+State of Affairs
+Dance Moms
+Mind of Mencia
+Sledge Hammer!
+Surviving Jack
+Rocket Power
+Anthony Bourdain: No Reservations
+"Yes, Prime Minister"
+The Young and the Restless
+Comic Book Men
+Gomorrah
+Hill Street Blues
+Salute Your Shorts
+Super Fun Night
+Mixology
+Young & Hungry
+Lark Rise to Candleford
+Guys with Kids
+Hex
+The Outer Limits
+The Mysteries of Laura
+Endeavour
+Psychoville
+Blade: The Series
+Extreme Makeover: Home Edition
+The New Batman Adventures
+Angel Beats!
+Strangers with Candy
+Sweet Life
+The Class
+The Jeffersons
+"Are You There, Chelsea?"
+Soap
+The Looney Tunes Show
+Ouran High School Host Club
+Ramsay's Kitchen Nightmares
+Cult
+Vicious
+Kitchen Confidential
+Relic Hunter
+Sam & Cat
+Teletubbies
+Corner Gas
+The Bugs Bunny/Road Runner Hour
+A to Z
+A Touch of Frost
+Leave It to Beaver
+Inside the Actors Studio
+Over There
+The Proud Family
+Mary Tyler Moore
+Dynasty
+Life with Derek
+Hope & Faith
+Manhattan
+Chelsea Lately
+Cracker
+Manhattan Love Story
+Diagnosis Murder
+October Road
+Star Trek: The Animated Series
+Duckman: Private Dick/Family Man
+Saving Hope
+Æon Flux
+The Bachelor
+Kuzey Güney
+Mad Love
+"Dr. Katz, Professional Therapist"
+Starsky and Hutch
+Eye Candy
+Undateable
+El Chavo del Ocho
+Knights of the Zodiac
+Friday Night Dinner
+The View
+The Whitest Kids U'Know
+Hit & Miss
+The Royle Family
+The Mob Doctor
+Saving Grace
+The Universe
+Matlock
+RuPaul's Drag Race
+Alien Nation
+The Thin Blue Line
+Partners
+Queer as Folk
+The Avengers
+Ben de Özledim
+Men of a Certain Age
+Äkta människor
+Aladdin
+ReBoot
+Dog the Bounty Hunter
+Earth 2
+The Flash
+Jeremiah
+The Exes
+NCIS: New Orleans
+Neighbours
+Bad Education
+Popeye the Sailor
+Teen Titans Go!
+A.N.T. Farm
+Catfish: The TV Show
+Ground Floor
+Duck Dodgers
+Betrayal
+The Oprah Winfrey Show
+The Memoirs of Sherlock Holmes
+The Defenders
+The Lone Gunmen
+Scooby-Doo! Mystery Incorporated
+Waking the Dead
+Green Lantern: The Animated Series
+Fraggle Rock
+The Night Shift
+The Man in the High Castle
+Charlie's Angels
+Cops
+Teen Mom
+Eleventh Hour
+Parker Lewis Can't Lose
+Whose Line Is It Anyway?
+Walking with Dinosaurs
+Future Diary
+Borgia
+Ridiculousness
+Hawaii Five-O
+Into the Universe with Stephen Hawking
+Mad Dogs
+Ellen
+"What's New, Scooby-Doo?"
+Crusade
+Bad Judge
+Psycho-Pass
+Dark Blue
+American Dragon: Jake Long
+The Guardian
+A Different World
+CHiPs
+Criminal Minds: Suspect Behavior
+1600 Penn
+Jon & Kate Plus 8
+Deception
+The Facts of Life
+Primeval: New World
+Captain Tsubasa
+Hotel Babylon
+Kojak
+"Eerie, Indiana"
+The Waltons
+Fear Itself
+Superjail!
+Mission Hill
+Heartland
+Transformers Prime
+Not Going Out
+Fruits Basket
+Kung Fu
+The Inbetweeners
+Finding Carter
+Alarm für Cobra 11 - Die Autobahnpolizei
+Wonder Woman
+Amazing Stories
+Gungrave
+Golden Boy
+Underbelly
+Laverne & Shirley
+McLeod's Daughters
+What About Brian
+Space Ghost Coast to Coast
+Sarabhai vs Sarabhai
+The Real World
+Lost in Space
+Good Times
+Melrose Place
+Charles in Charge
+Total Drama
+Smart Guy
+Jeopardy!
+Privileged
+Yalan Dünya
+Blood+
+Jack the Ripper
+Fantasy Island
+Rob & Big
+Prime Suspect
+The Girls Next Door
+The Fall Guy
+America's Funniest Home Videos
+Tokyo Ghoul
+V.I.P.
+Coronation Street
+Aliens in America
+Sirens
+Phoenix Nights
+The Honeymooners
+Hardcore Pawn
+Angry Boys
+One Foot in the Grave
+Kommissar Rex
+Drunk History
+Rush
+Moone Boy
+How It's Made
+Clannad: After Story
+The Jerry Springer Show
+Laguna Beach: The Real Orange County
+Second Spring
+The O'Reilly Factor
+Stella
+Satyamev Jayate
+G.I. Joe
+The Game
+Wallander
+Moral Orel
+The Secret World of Alex Mack
+Summerland
+WWE Smackdown!
+Green Acres
+Motive
+American Gothic
+Miss Fisher's Murder Mysteries
+General Hospital
+Sugar Rush
+Birds of Prey
+Shin Chan
+Dad's Army
+Totally Spies!
+Commander in Chief
+The Untold History of the United States
+Huff
+Devil May Cry
+Clannad
+House of Anubis
+The PJs
+Porridge
+Coach
+Small Wonder
+Brainiac: Science Abuse
+Chasing Life
+Kickin' It
+The Day Today
+My Own Worst Enemy
+The Twilight Zone
+Never Mind the Buzzcocks
+The X Factor
+Between Two Ferns with Zach Galifianakis
+Samurai 7
+Hollyoaks
+Tales from the Darkside
+Better with You
+The Tick
+Blue Exorcist
+Full Metal Panic!
+Happy Town
+Barney & Friends
+Wonder Showzen
+Detroit 1-8-7
+Wentworth
+As Told by Ginger
+Pingu
+The Trip
+GTO: Great Teacher Onizuka
+Barátok közt
+The Bachelorette
+Toddlers and Tiaras
+A Pup Named Scooby-Doo
+Chobits
+Fastlane
+Sinbad
+Siberia
+Nathan for You
+Mortal Kombat: Conquest
+Endgame
+Wacky Races
+Ranma _
+Web Therapy
+Line of Duty
+Black Box
+Newhart
+Pimp My Ride
+The Real Housewives of Beverly Hills
+New Tricks
+Have I Got News for You
+The Wayans Bros.
+Allen Gregory
+Jake 2.0
+The Bionic Woman
+Mind Your Language
+Static Shock
+Dejimon adobenchâ
+Picket Fences
+Real Husbands of Hollywood
+Sonic the Hedgehog
+Tom Goes to the Mayor
+Do No Harm
+Check It Out! with Dr. Steve Brule
+"Welcome Back, Kotter"
+Life As We Know It
+Chase
+Johnny Test
+The Carol Burnett Show
+The Persuaders!
+Robin Hood
+Barney Miller
+Spider-Man
+The Booth at the End
+Earth: Final Conflict
+Mutant X
+The Odd Couple
+Gunsmoke
+Quincy M.E.
+Punky Brewster
+The Streets of San Francisco
+My Super Sweet 16
+Escaflowne
+Red Widow
+Kung Fu Panda: Legends of Awesomeness
+Animal Practice
+The Equalizer
+Renegade
+Beyond Belief: Fact or Fiction
+Kröd Mändoon and the Flaming Sword of Fire
+Lip Service
+River Monsters
+Running Wilde
+Solsidan
+The Sarah Jane Adventures
+8 Out of 10 Cats
+Hidden Palms
+Mahabharat
+The Storyteller
+Geordie Shore
+Man Seeking Woman
+King & Maxwell
+Whose Line Is It Anyway?
+Battle Creek
+Night Gallery
+Mobile Suit Gundam Wing
+The Benny Hill Show
+Babar
+Tenacious D: The Complete Master Works
+Perry Mason
+Tell Me You Love Me
+How the Universe Works
+Shaman King
+LazyTown
+Murder in the First
+Important Things with Demetri Martin
+All Grown Up
+"Knowing Me, Knowing You with Alan Partridge"
+Deadman Wonderland
+Jonny Quest
+Outlaw Star
+Wildboyz
+Welcome to Sweden
+Xiaolin Showdown
+Saved by the Bell: The College Years
+Avonlea
+Flash Gordon
+Lights Out
+Unsolved Mysteries
+Big Train
+Please Like Me
+The Life of Mammals
+Hart to Hart
+Todd and the Book of Pure Evil
+Klovn
+Deal or No Deal
+Nathan Barley
+The Naked Brothers Band
+The Greatest American Hero
+Mama's Family
+Tour of Duty
+She-Ra: Princess of Power
+Two Pints of Lager and a Packet of Crisps
+Last Exile
+Dog with a Blog
+Silent Witness
+Dora the Explorer
+ReGenesis
+Kingdom
+American Chopper: The Series
+Inside Amy Schumer
+Open All Hours
+"Nu, pogodi!"
+Vratice se rode
+Fatmagül'ün Suçu Ne?
+Lilo & Stitch: The Series
+Silk
+Designing Women
+D.Gray-man
+Rake
+Spy
+Wildfire
+Painkiller Jane
+Spiral
+Beware the Batman
+The Osbournes
+Deadliest Warrior
+Dance Academy
+Steven Universe
+The Bob Newhart Show
+Togetherness
+First Wave
+Kourtney & Kim Take Miami
+The Middleman
+Boys Over Flowers
+CSI: Cyber
+The Catherine Tate Show
+Satisfaction
+The Brak Show
+Alpha House
+Friends with Benefits
+The Red Road
+Kidnapped
+Those Who Kill
+Dungeons & Dragons
+Pee-wee's Playhouse
+Chicago Hope
+Dark Shadows
+The Almighty Johnsons
+The L.A. Complex
+Unfabulous
+Inspector George Gently
+Swat Kats: The Radical Squadron
+Mercy
+Seven Days
+The Inspector Lynley Mysteries
+When They Cry
+Man Up
+As Time Goes By
+Law & Order: UK
+Monday Mornings
+The Glee Project
+Marvel's Avengers Assemble
+Less Than Perfect
+Code Monkeys
+Dennis the Menace
+Highway to Heaven
+Cashmere Mafia
+Ben 10: Alien Force
+The Man Show
+Quack Pack
+Chaos
+I Hate My Teenage Daughter
+Muppet Babies
+L.A. Law
+Fate/Zero
+Reckless
+Odyssey 5
+Liv and Maddie
+Durarara!!
+Living Single
+Teachers
+Fauji
+Bent
+Süper Baba
+Kroll Show
+Auction Hunters
+Lab Rats
+The Mysterious Cities of Gold
+Romanzo criminale - La serie
+Cake Boss
+The Saint
+Intruders
+Otvorena vrata
+Il était une fois... la vie
+The Fast Show
+Ja'mie: Private School Girl
+American Dreams
+Cavemen
+Matador
+Good Eats
+The No. 1 Ladies' Detective Agency
+The Goodwin Games
+N.H.K ni yôkoso!
+Karadayi
+Swingtown
+Thunderbirds
+Robotech
+The Real Housewives of New Jersey
+Criss Angel Mindfreak
+Family Tree
+Worst Week
+Kill La Kill
+The Road Runner Show
+The Wild Wild West
+Olympus
+Weird Science
+Black Butler
+Bobby's World
+Judge Judy
+My Life as a Teenage Robot
+Cardcaptor Sakura
+Vice
+The Man from U.N.C.L.E.
+Profiler
+Biker Mice from Mars
+Emergency!
+Hawthorne
+Voltron: Defender of the Universe
+Would I Lie to You?
+Sailor Moon
+The Beast
+The Real Housewives of Orange County
+Black Dynamite
+Big Brother: UK
+Trauma
+Umbre
+Kolchak: The Night Stalker
+The Ultimate Fighter
+Perfect Couples
+Napoleon Dynamite
+The Odd Couple
+Los Serrano
+Him & Her
+Bad Girls Club
+The Real Housewives of Atlanta
+The Lizzie Bennet Diaries
+Pacific Blue
+My Babysitter's a Vampire
+Secrets and Lies
+Simon & Simon
+Marry Me
+Bir Demet Tiyatro
+Miami Ink
+2 Stupid Dogs
+Basilisk: Kôga ninpô chô
+Girlfriends
+Mental
+Camp Lazlo!
+The Invisible Man
+Burning Love
+Undercover Boss
+Dog Whisperer with Cesar Millan
+Gold Rush: Alaska
+The Lost World
+Caroline in the City
+Planet of the Apes
+Blakes 7
+Testees
+Glass Home
+The Case-Book of Sherlock Holmes
+The Chaser's War on Everything
+Cidade dos Homens
+A Touch of Cloth
+Blue's Clues
+The Returned
+Camp
+Cybill
+Allegiance
+Friday the 13th
+Uncle Grandpa
+Golden Years
+Cavalcade of Cartoon Comedy
+LA Ink
+Human Giant
+Love Bites
+16 and Pregnant
+Comedians in Cars Getting Coffee
+Chosen
+Wishbone
+Comedy Nights with Kapil
+Memphis Beat
+Mr. Belvedere
+Megas XLR
+XIII: The Series
+Happily Divorced
+1000 Ways to Die
+Paranormal State
+Beyblade
+Full Metal Panic! The Second Raid
+MASK
+St. Elsewhere
+Puella Magi Madoka Magica
+Once and Again
+30 for 30
+Hajime no ippo
+Dream On
+Vampire Knight
+Mister Rogers' Neighborhood
+Bad Teacher
+"Lud, zbunjen, normalan"
+Samurai X: Reflection
+Beyaz Show
+The Tribe
+Azumanga Daioh
+Saxondale
+Crusoe
+Masters of the Universe vs. the Snake Men
+The Monkees
+Silver Spoons
+Öyle Bir Geçer Zaman ki
+Scott & Bailey
+Undergrads
+Plebs
+Akame ga Kill!
+The Boat
+Eden of the East
+Golden Boy
+Son of the Beach
+Kathy Griffin: My Life on the D-List
+T.J. Hooker
+Still Game
+Grace Under Fire
+Waterloo Road
+Whale Wars
+The Forgotten
+Back to You
+Men in Black: The Series
+"True Jackson, VP"
+Kaygisizlar
+Little Mosque on the Prairie
+The Price Is Right
+Jack of All Trades
+Heidi: A Girl of the Alps
+The New Scooby-Doo Movies
+Rob Dyrdek's Fantasy Factory
+Unhappily Ever After
+Ice Road Truckers
+1 Erkek 1 Kadin
+Kindred: The Embraced
+The New Adventures of Winnie the Pooh
+Comedy Bang! Bang!
+Destination Truth
+The Moaning of Life
+Dag
+The Tunnel
+Growing Up Fisher
+Another
+NTSF:SD:SUV
+Permanent Roommates
+The Animals of Farthing Wood
+Toradora!
+Instant Star
+Britain's Got Talent
+Slings and Arrows
+In the Heat of the Night
+Passions
+Degrassi High
+Moesha
+Pepper Ann
+Point Pleasant
+Dual Survival
+Kôkyô shihen Eureka Sebun
+Attack of the Show!
+Maude
+Standoff
+Maron
+Genis aile
+Sonic Highways
+Falcon Crest
+The Alfred Hitchcock Hour
+Alvin & the Chipmunks
+Friday Night with Jonathan Ross
+Cold Feet
+Watchmen
+Hunter x Hunter
+Galactica 1980
+Kath & Kim
+Baby Looney Tunes
+A Haunting
+Unsupervised
+Rake
+Trinity Blood
+Snooki & JWOWW
+Bravest Warriors
+Moomin
+The Super Mario Bros. Super Show!
+The Boarding School
+The Fugitive
+Haibane renmei
+Last Tango in Halifax
+Future Boy Conan
+Sullivan & Son
+Full Metal Panic? Fumoffu
+The State Within
+Late Night with David Letterman
+Rob
+American Restoration
+Hunter
+Crank Yankers
+Undercovers
+Heartbreak High
+Pair of Kings
+Braquo
+Count Duckula
+Mulaney
+Jack & Bobby
+Air Emergency
+Meet the Browns
+Bosom Buddies
+Kourtney & Kim Take New York
+Fate/stay night
+Raines
+Mission: Impossible
+Rawhide
+Women's Murder Club
+So Weird
+Mister Ed
+Sonic X
+Kenny Hotz's Triumph of the Will
+Pippi Longstocking
+Sean Saves the World
+Turkish for Beginners
+The Real Housewives of New York City
+1001 Nights
+Halo: Nightfall
+Adventures of Sonic the Hedgehog
+Benidorm
+Aquí no hay quien viva
+"Little People, Big World"
+Planetes
+Rebelde
+Dig
+Gene Simmons: Family Jewels
+All My Children
+Look Around You
+Case Histories
+"Sabrina, the Animated Series"
+Freddy's Nightmares
+Keen Eddie
+Taxi Brooklyn
+Combat Hospital
+Most Extreme Elimination Challenge
+Fish Hooks
+Talking Dead
+Yaprak Dökümü
+The Partridge Family
+Danger 5
+Extreme Ghostbusters
+"Upstairs, Downstairs"
+Odisseia
+Madventures
+Cagney & Lacey
+Chopped
+Fame
+Çemberimde gül oya
+30 Days
+Rosemary & Thyme
+A Shot at Love with Tila Tequila
+The Jay Leno Show
+Betas
+Are You Smarter Than a 5th Grader?
+Beck
+The High Fructose Adventures of Annoying Orange
+The Life of Birds
+Silver Fang
+Spice and Wolf
+Dr. Phil
+Ideal
+The State
+Adam-12
+Sto para 5
+Off Centre
+Traffic Light
+The Rifleman
+Tripping the Rift
+"Auf Wiedersehen, Pet"
+Killer Women
+Benson
+Deadbeat
+Wedding Band
+Taarak Mehta Ka Ooltah Chashmah
+Digimon Frontier
+The Loop
+Remember Darling
+China Beach
+The Little Mermaid
+Gintama
+Mad
+How to Live with Your Parents (For the Rest of Your Life)
+17 Kids and Counting
+Single Ladies
+Hyperdrive
+Unit 1
+We Can Be Heroes
+Hotel Hell
+Top Boy
+6Teen
+Adventures of Superman
+French and Saunders
+Intervention
+That '80s Show
+Eek! the Cat
+The Royals
+Yu-Gi-Oh! GX
+Alice
+Kingdom
+Review
+Law & Order: LA
+Getting On
+Little Bear
+Vera
+Empty Nest
+Game of Silence
+Life in Cold Blood
+Kaamelott
+Sword Art Online 2
+How to Be a Gentleman
+Lovejoy
+Nitro Circus
+Flavor of Love
+Zorro
+Snuff Box
+Suddenly Susan
+Spider-Man
+Franklin
+One Life to Live
+Clueless
+The Bill
+Voyage to the Bottom of the Sea
+Bob the Builder
+Sit Down Shut Up
+Drzavni Posao
+Scare Tactics
+Crime Scene Cleaner
+Thomas & Friends
+Fantastic Four
+Poldark
+The Tonight Show Starring Johnny Carson
+Smith
+Blackpool
+Being Mary Jane
+60 Minutes
+Kath & Kim
+The Care Bears Family
+Iron Man: Armored Adventures
+Bedlam
+Lizard Lick Towing
+Glory Daze
+So Random!
+"You Rang, M'Lord?"
+Once Upon a Time... Man
+True Justice
+My Three Sons
+TMZ on TV
+Monarch of the Glen
+Ekmek teknesi
+Xavier: Renegade Angel
+Danger Mouse
+Sunset Beach
+Cosby
+Horrible Histories
+The Bill Engvall Show
+The Private Life of Plants
+Boomtown
+Prince Caspian and the Voyage of the Dawn Treader
+Crime Story
+Married
+Wolfblood
+GTO
+Cuckoo
+Mobile Suit Gundam Seed
+I Am Weasel
+The Great Jang-Geum
+Sons of Tucson
+Hollywood Heights
+Lassie
+Dante's Cove
+The Record of the Lodoss War
+Boys Over Flowers
+Kaun Banega Crorepati?
+That's My Bush!
+Mystery!: Cadfael
+Deli Yürek
+Beakman's World
+Hey Dude
+Oggy and the Cockroaches
+Tremors
+My Two Dads
+Profit
+Gunslinger Girl
+Sirens
+Hangin' with Mr. Cooper
+Swamp People
+Slam Dunk
+The Only Way Is Essex
+Grantchester
+Koffee with Karan
+Smosh
+Clark and Michael
+Raising the Bar
+The New Tom & Jerry Show
+Carpoolers
+Çok Güzel Hareketler Bunlar
+Six Degrees
+Heartbeat
+The Emperor's New School
+Fanboy & Chum Chum
+D'Artanyan i tri mushketyora
+The Lottery
+Delocated
+The Awful Truth
+Black Jesus
+Code Geass: Lelouch of the Rebellion
+Beaver Falls
+Schitt's Creek
+KaBlam!
+Pramface
+The Eric Andre Show
+Forever Knight
+Against the Wall
+Cristela
+Power Rangers in Space
+Reading Rainbow
+Martial Law
+Beast Machines: Transformers
