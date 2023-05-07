@@ -32,9 +32,9 @@ con = MySQLdb.connect()
 
 # Ethics 
 1. We accept full responsibility for our work.
-      The negative and positive aspects of our game are the product of our work. 
+      ### The negative and positive aspects of our game are the product of our work. 
 2. Provided service in our areas of competence, being honest and forthright about any limitations in our experience and education.
-      We had to modify our original plan to account for some limitations in our knowledge. 
+      ### We had to modify our original plan to account for some limitations in our knowledge. 
 3. Strived to fully understand the specifications for software on which we worked.
       We looked through online documentation to understand the softwares used. 
 4. Assisted colleagues in professional development.
